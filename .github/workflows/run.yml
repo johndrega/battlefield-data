@@ -14,62 +14,25 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl 'https://battlelog.battlefield.com/bf4/servers/pc/?filtered=1&expand=1&settings=&useLocation=1&useAdvanced=1&gameexpansions=-1&q=&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&mapRotation=-1&modeRotation=-1&password=-1&regions=64&osls=-1&vvsa=-1&vffi=-1&vaba=-1&vkca=-1&v3ca=-1&v3sp=-1&vmsp=-1&vrhe=-1&vhud=-1&vmin=-1&vnta=-1&vbdm-min=1&vbdm-max=300&vprt-min=1&vprt-max=300&vshe-min=1&vshe-max=300&vtkk-min=1&vtkk-max=99&vnit-min=30&vnit-max=86400&vtkc-min=1&vtkc-max=99&vvsd-min=0&vvsd-max=500&vgmc-min=0&vgmc-max=500' \
+        curl 'https://battlelog.battlefield.com/bf4/servers/pc/?filtered=1&expand=1&settings=&useLocation=1&useAdvanced=1&gameexpansions=-1&slots=16&slots=1&slots=2&slots=4&q=&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&mapRotation=-1&modeRotation=-1&password=-1&regions=64&osls=-1&vvsa=-1&vffi=-1&vaba=-1&vkca=-1&v3ca=-1&v3sp=-1&vmsp=-1&vrhe=-1&vhud=-1&vmin=-1&vnta=-1&vbdm-min=1&vbdm-max=300&vprt-min=1&vprt-max=300&vshe-min=1&vshe-max=300&vtkk-min=1&vtkk-max=99&vnit-min=30&vnit-max=86400&vtkc-min=1&vtkc-max=99&vvsd-min=0&vvsd-max=500&vgmc-min=0&vgmc-max=500' \
         -H 'Connection: keep-alive' \
-        -H 'Pragma: no-cache' \
-        -H 'Cache-Control: no-cache' \
-        -H 'sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"' \
+        -H 'sec-ch-ua: "Google Chrome";v="89", "Chromium";v="89", ";Not A Brand";v="99"' \
         -H 'Accept: */*' \
         -H 'X-AjaxNavigation: 1' \
         -H 'X-Requested-With: XMLHttpRequest' \
         -H 'sec-ch-ua-mobile: ?0' \
-        -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36' \
+        -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36' \
         -H 'Sec-Fetch-Site: same-origin' \
         -H 'Sec-Fetch-Mode: cors' \
         -H 'Sec-Fetch-Dest: empty' \
-        -H 'Referer: https://battlelog.battlefield.com/bf4/servers/pc/?filtered=1&expand=1&settings=&useLocation=1&useAdvanced=1&gameexpansions=-1&q=&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&mapRotation=-1&modeRotation=-1&password=-1&regions=64&osls=-1&vvsa=-1&vffi=-1&vaba=-1&vkca=-1&v3ca=-1&v3sp=-1&vmsp=-1&vrhe=-1&vhud=-1&vmin=-1&vnta=-1&vbdm-min=1&vbdm-max=300&vprt-min=1&vprt-max=300&vshe-min=1&vshe-max=300&vtkk-min=1&vtkk-max=99&vnit-min=30&vnit-max=86400&vtkc-min=1&vtkc-max=99&vvsd-min=0&vvsd-max=500&vgmc-min=0&vgmc-max=500' \
+        -H 'Referer: https://battlelog.battlefield.com/bf4/servers/pc/?filtered=1&expand=1&settings=&useLocation=1&useAdvanced=1&gameexpansions=-1&slots=16&slots=1&slots=2&slots=4&q=&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&mapRotation=-1&modeRotation=-1&password=-1&regions=64&osls=-1&vvsa=-1&vffi=-1&vaba=-1&vkca=-1&v3ca=-1&v3sp=-1&vmsp=-1&vrhe=-1&vhud=-1&vmin=-1&vnta=-1&vbdm-min=1&vbdm-max=300&vprt-min=1&vprt-max=300&vshe-min=1&vshe-max=300&vtkk-min=1&vtkk-max=99&vnit-min=30&vnit-max=86400&vtkc-min=1&vtkc-max=99&vvsd-min=0&vvsd-max=500&vgmc-min=0&vgmc-max=500' \
         -H 'Accept-Language: en-AU,en-GB;q=0.9,en-US;q=0.8,en;q=0.7' \
+        -H 'Cookie: returnUrl=; beaker.session.id=efa3c0c61d58f3eb00bc105d8886fe90; ak_bmsc=14C23010C768E1083774FCF66578BCF4~000000000000000000000000000000~YAAQNE5haEGnCb16AQAAGPEfvgzIQvcRUf01qnmmvV+QTsdmeNn5jnamPunU4cQoxlQvamTcYfgP8WLoRi5LshJys1zDRknT4g0dxB5YmCljo/1BW2dqtaGujbhwvPqFmzLg3cuvp/aVL7U72xdghx7HmlUlnO/IPgRg/tZ2B56zHFGa9ev7CNgTMvsMXa1U2X2nGfqHDW59vWVkVq8XiEubl7oI1iUJCxGG6GX3cEGgGxbSCrLnnMtpQFJr6K3nqqGQkvwRqnKc+Z/XhM797Z8sJwnQ5//pnv3neuVa0Jwr3d69hYff6ywThQL1OzXSN2eMZPuGDvJhhq0iXz0iPYlBOuNbg34ugPOKROlMgM2Pc6PM2CoGB8ZD0/XVd/VUqmdXCg0p; bm_mi=E5C8A8F1CCA8A98DE761DABEA26C39C1~Qc0tpYlNz2umCEXgJi1pMRx6LvhGyC72flEUw2IUeqmQnZUs0DiexB8arIPZRpY8zaAwXoIq/N8fxMeqyvyu6MAT6z/NKruuzART6zdm+DnEPvigQk+T0CqoFk8mH3B85oFz9eOP7Jp2ugnI2BpdhH8DHOCLG6m4z9bCKY9aYXucdiFTS4ZgR0UMTYLM2fEjUXYWs2k5lnHAXh98r1xVQmHvPtZWsclrRE1AC/3NrqARbeIVJNULRCPGit79zeJ5; bm_sv=ADF93E2C74F31CA06E1B93B0B15CEE7C~juwOdmcFdndR8UhWC4P1NQqSUgWtIKCpEYbLWoSusLDDxMAkWQCOVNh/PUoDDMzV/c9N84LfjXa8HvXotSsjfK54xlm2CfdpmAiUzOnLVWYIsxht4SkRaH1H+LIRxRBGRJ47HitAkJd3eCNLv4ge/0iEti0BUh3Zy+Gyr5HkKK0=' \
         -H 'dnt: 1' \
         -H 'sec-gpc: 1' \
         --compressed | jq .globalContext.servers > page1.json;
-        curl 'https://battlelog.battlefield.com/bf4/servers/getServers/pc/?offset=60&count=60&filtered=1&expand=1&settings=&useLocation=1&useAdvanced=1&gameexpansions=-1&q=&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&mapRotation=-1&modeRotation=-1&password=-1&regions=64&osls=-1&vvsa=-1&vffi=-1&vaba=-1&vkca=-1&v3ca=-1&v3sp=-1&vmsp=-1&vrhe=-1&vhud=-1&vmin=-1&vnta=-1&vbdm-min=1&vbdm-max=300&vprt-min=1&vprt-max=300&vshe-min=1&vshe-max=300&vtkk-min=1&vtkk-max=99&vnit-min=30&vnit-max=86400&vtkc-min=1&vtkc-max=99&vvsd-min=0&vvsd-max=500&vgmc-min=0&vgmc-max=500' \
-        -H 'Connection: keep-alive' \
-        -H 'Pragma: no-cache' \
-        -H 'Cache-Control: no-cache' \
-        -H 'sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"' \
-        -H 'Accept: */*' \
-        -H 'X-Requested-With: XMLHttpRequest' \
-        -H 'sec-ch-ua-mobile: ?0' \
-        -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36' \
-        -H 'Sec-Fetch-Site: same-origin' \
-        -H 'Sec-Fetch-Mode: cors' \
-        -H 'Sec-Fetch-Dest: empty' \
-        -H 'Referer: https://battlelog.battlefield.com/bf4/servers/pc/?filtered=1&expand=1&settings=&useLocation=1&useAdvanced=1&gameexpansions=-1&q=&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&mapRotation=-1&modeRotation=-1&password=-1&regions=64&osls=-1&vvsa=-1&vffi=-1&vaba=-1&vkca=-1&v3ca=-1&v3sp=-1&vmsp=-1&vrhe=-1&vhud=-1&vmin=-1&vnta=-1&vbdm-min=1&vbdm-max=300&vprt-min=1&vprt-max=300&vshe-min=1&vshe-max=300&vtkk-min=1&vtkk-max=99&vnit-min=30&vnit-max=86400&vtkc-min=1&vtkc-max=99&vvsd-min=0&vvsd-max=500&vgmc-min=0&vgmc-max=500' \
-        -H 'Accept-Language: en-AU,en-GB;q=0.9,en-US;q=0.8,en;q=0.7' \
-        -H 'dnt: 1' \
-        -H 'sec-gpc: 1' \
-        --compressed | jq .data > page2.json;
-        curl 'https://battlelog.battlefield.com/bf4/servers/getServers/pc/?offset=120&count=60&filtered=1&expand=1&settings=&useLocation=1&useAdvanced=1&gameexpansions=-1&q=&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&mapRotation=-1&modeRotation=-1&password=-1&regions=64&osls=-1&vvsa=-1&vffi=-1&vaba=-1&vkca=-1&v3ca=-1&v3sp=-1&vmsp=-1&vrhe=-1&vhud=-1&vmin=-1&vnta=-1&vbdm-min=1&vbdm-max=300&vprt-min=1&vprt-max=300&vshe-min=1&vshe-max=300&vtkk-min=1&vtkk-max=99&vnit-min=30&vnit-max=86400&vtkc-min=1&vtkc-max=99&vvsd-min=0&vvsd-max=500&vgmc-min=0&vgmc-max=500' \
-        -H 'Connection: keep-alive' \
-        -H 'Pragma: no-cache' \
-        -H 'Cache-Control: no-cache' \
-        -H 'sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"' \
-        -H 'Accept: */*' \
-        -H 'X-Requested-With: XMLHttpRequest' \
-        -H 'sec-ch-ua-mobile: ?0' \
-        -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36' \
-        -H 'Sec-Fetch-Site: same-origin' \
-        -H 'Sec-Fetch-Mode: cors' \
-        -H 'Sec-Fetch-Dest: empty' \
-        -H 'Referer: https://battlelog.battlefield.com/bf4/servers/pc/?filtered=1&expand=1&settings=&useLocation=1&useAdvanced=1&gameexpansions=-1&q=&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&gameexpansions=-1&mapRotation=-1&modeRotation=-1&password=-1&regions=64&osls=-1&vvsa=-1&vffi=-1&vaba=-1&vkca=-1&v3ca=-1&v3sp=-1&vmsp=-1&vrhe=-1&vhud=-1&vmin=-1&vnta=-1&vbdm-min=1&vbdm-max=300&vprt-min=1&vprt-max=300&vshe-min=1&vshe-max=300&vtkk-min=1&vtkk-max=99&vnit-min=30&vnit-max=86400&vtkc-min=1&vtkc-max=99&vvsd-min=0&vvsd-max=500&vgmc-min=0&vgmc-max=500' \
-        -H 'Accept-Language: en-AU,en-GB;q=0.9,en-US;q=0.8,en;q=0.7' \
-        -H 'dnt: 1' \
-        -H 'sec-gpc: 1' \
-        --compressed | jq .data > page3.json;
-        jq -s '. | flatten | sort_by(.guid)' page1.json page2.json page3.json > servers.json;
+        jq -s '. | sort_by(.guid)' page1.json > populatedServers.json;
         rm page1.json;
-        rm page2.json;
-        rm page3.json;
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"

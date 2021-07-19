@@ -66,7 +66,7 @@ jobs:
         -H 'dnt: 1' \
         -H 'sec-gpc: 1' \
         --compressed | jq .data > page3.json;
-        jq -s '. | flatten' page1.json page2.json page3.json > servers.json;
+        jq -s '. | flatten | sort_by(.guid)' page1.json page2.json page3.json > servers.json;
         rm page1.json;
         rm page2.json;
         rm page3.json;

@@ -31,7 +31,7 @@ jobs:
         -H 'dnt: 1' \
         -H 'sec-gpc: 1' \
         --compressed | jq .globalContext.servers > page1.json;
-        jq -s '. | sort_by(.guid)' page1.json > populatedServers.json;
+        jq -s '. | flatten | sort_by(.guid)' page1.json > populatedServers.json;
         rm page1.json;
     - name: Commit and push if it changed
       run: |-

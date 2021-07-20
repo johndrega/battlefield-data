@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1626808718,
+    "updatedAt": 1626809431,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +30,7 @@
         "max": 20
       },
       "2": {
-        "current": 6,
+        "current": 5,
         "max": 64
       },
       "4": {
@@ -66,13 +66,20 @@
     "country": "au"
   },
   {
-    "map": "MP_Prison",
-    "gameId": "36028797037697805",
+    "map": "XP3_Prpganda",
+    "gameId": "18014398528203388",
     "gameExpansions": [
-      0
+      4194304,
+      0,
+      1048576,
+      524288,
+      268435456,
+      2097152,
+      8388608,
+      17179869184
     ],
-    "mapMode": "64",
-    "ip": "103.193.80.30",
+    "mapMode": "2",
+    "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -85,27 +92,27 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1626808736,
+    "updatedAt": 1626809431,
     "slots": {
       "8": {
         "current": 0,
-        "max": 4
+        "max": 0
       },
       "1": {
         "current": 0,
         "max": 20
       },
       "2": {
-        "current": 11,
-        "max": 64
+        "current": 1,
+        "max": 48
       }
     },
-    "guid": "9c435b6c-f3a0-4e25-9417-31995c85d633",
-    "port": 25500,
+    "guid": "30be5cb0-8cde-4fef-8dbb-b9b867170f6f",
+    "port": 26600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! [FPSG] 24/7 Operation Lockers 2000 Tickets! fpsgamerz.com",
+    "gameExpansion": "4194304",
+    "name": "! [FREQ] RUSH/ASSAULT 24/7 // thefrequency.com.au",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -113,7 +120,7 @@
     "ping": 999,
     "serverType": 2,
     "experience": 0,
-    "tickRate": 60,
+    "tickRate": 120,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -123,7 +130,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   },
@@ -147,7 +154,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1626808737,
+    "updatedAt": 1626809431,
     "slots": {
       "8": {
         "current": 0,
@@ -195,12 +202,12 @@
   },
   {
     "map": "MP_Naval",
-    "gameId": "18014398528186831",
+    "gameId": "36028797037682319",
     "gameExpansions": [
       0
     ],
-    "mapMode": "32",
-    "ip": "108.61.227.165",
+    "mapMode": "64",
+    "ip": "103.193.80.29",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -213,11 +220,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1626808718,
+    "updatedAt": 1626809431,
     "slots": {
       "8": {
         "current": 0,
-        "max": 1
+        "max": 0
       },
       "1": {
         "current": 0,
@@ -225,81 +232,15 @@
       },
       "2": {
         "current": 1,
-        "max": 10
-      }
-    },
-    "guid": "e67fd3e3-dd1e-4ade-8379-07ac797f6909",
-    "port": 30050,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "Disbanded (AUS) BF4 Squad V Squad TDM (Noob friendly)",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 30,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 4,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "MP_Journey",
-    "gameId": "36028797037697818",
-    "gameExpansions": [
-      0
-    ],
-    "mapMode": "64",
-    "ip": "109.200.214.230",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1626808730,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 4
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 6,
         "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
       }
     },
-    "guid": "f9b9e1e3-ef33-42ad-b65f-3a82a9f84f8a",
-    "port": 25530,
+    "guid": "e83fa29c-75f1-4f3a-ac26-ff7c47d0e406",
+    "port": 25400,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "ALL WELCOME NOOB HEAVEN NO HACKER",
+    "name": "! ! . O C E A N I A 365 . | Active Admins | Conquest Classics",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -307,7 +248,7 @@
     "ping": 999,
     "serverType": 2,
     "experience": 0,
-    "tickRate": 30,
+    "tickRate": 60,
     "hasPassword": 0,
     "maps": {
       "maps": [],

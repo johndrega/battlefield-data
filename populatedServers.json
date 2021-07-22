@@ -1,6 +1,6 @@
 [
   {
-    "map": "MP_Abandoned",
+    "map": "MP_Resort",
     "gameId": "36028797037700087",
     "gameExpansions": [
       0
@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1626973366,
+    "updatedAt": 1626974868,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +30,7 @@
         "max": 20
       },
       "2": {
-        "current": 62,
+        "current": 43,
         "max": 64
       },
       "4": {
@@ -93,7 +93,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1626973374,
+    "updatedAt": 1626974868,
     "slots": {
       "8": {
         "current": 0,
@@ -104,7 +104,7 @@
         "max": 20
       },
       "2": {
-        "current": 3,
+        "current": 4,
         "max": 48
       }
     },
@@ -160,7 +160,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1626973299,
+    "updatedAt": 1626974868,
     "slots": {
       "8": {
         "current": 0,
@@ -207,7 +207,7 @@
     "country": "au"
   },
   {
-    "map": "XP0_Caspian",
+    "map": "XP0_Firestorm",
     "gameId": "36028797037700120",
     "gameExpansions": [
       524288,
@@ -232,7 +232,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1626973299,
+    "updatedAt": 1626974868,
     "slots": {
       "8": {
         "current": 0,
@@ -294,7 +294,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1626973299,
+    "updatedAt": 1626974868,
     "slots": {
       "8": {
         "current": 0,
@@ -305,7 +305,7 @@
         "max": 20
       },
       "2": {
-        "current": 1,
+        "current": 2,
         "max": 64
       }
     },
@@ -337,7 +337,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Flooded",
+    "map": "MP_TheDish",
     "gameId": "18014398528208259",
     "gameExpansions": [
       0
@@ -356,14 +356,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1626973351,
+    "updatedAt": 1626974875,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 1,
+        "current": 5,
         "max": 20
       },
       "2": {
@@ -371,7 +371,7 @@
         "max": 64
       },
       "4": {
-        "current": 1,
+        "current": 0,
         "max": 2
       }
     },
@@ -422,10 +422,10 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1626973380,
+    "updatedAt": 1626974868,
     "slots": {
       "8": {
-        "current": 1,
+        "current": 0,
         "max": 4
       },
       "1": {
@@ -433,7 +433,7 @@
         "max": 20
       },
       "2": {
-        "current": 40,
+        "current": 24,
         "max": 64
       }
     },
@@ -465,14 +465,14 @@
     "country": "au"
   },
   {
-    "map": "XP1_001",
+    "map": "XP0_Caspian",
     "gameId": "18014398528208256",
     "gameExpansions": [
-      1048576,
       524288,
-      4194304,
-      8388608,
       8589934592,
+      4194304,
+      1048576,
+      8388608,
       2097152
     ],
     "mapMode": "64",
@@ -489,7 +489,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1626973299,
+    "updatedAt": 1626974868,
     "slots": {
       "8": {
         "current": 0,
@@ -500,11 +500,11 @@
         "max": 20
       },
       "2": {
-        "current": 35,
+        "current": 13,
         "max": 64
       },
       "4": {
-        "current": 1,
+        "current": 0,
         "max": 2
       }
     },
@@ -512,7 +512,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "1048576",
+    "gameExpansion": "524288",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -536,6 +536,74 @@
     "country": "au"
   },
   {
+    "map": "MP_TheDish",
+    "gameId": "36028797037699006",
+    "gameExpansions": [
+      0,
+      524288,
+      4194304
+    ],
+    "mapMode": "64",
+    "ip": "108.61.227.165",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1626974868,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 2,
+        "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "acc26574-8bff-4b0a-a991-613d987bfa52",
+    "port": 30060,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "Veteran Gaming Australia - Fun Through Gaming",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 30,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "MP_Abandoned",
     "gameId": "18014398528208264",
     "gameExpansions": [
@@ -555,7 +623,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1626973367,
+    "updatedAt": 1626974868,
     "slots": {
       "8": {
         "current": 0,
@@ -566,7 +634,7 @@
         "max": 20
       },
       "2": {
-        "current": 33,
+        "current": 14,
         "max": 64
       },
       "4": {
@@ -602,131 +670,7 @@
     "country": "au"
   },
   {
-    "map": "MP_TheDish",
-    "gameId": "36028797037659906",
-    "gameExpansions": [
-      0
-    ],
-    "mapMode": "64",
-    "ip": "103.193.80.27",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1626973348,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 1,
-        "max": 64
-      }
-    },
-    "guid": "c8d57f08-3dcb-41a0-946b-78d3c0d9a427",
-    "port": 26400,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! ! ! [TFZ] Tower Collapsing Zone [Classic Maps] - farming.zone",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 1,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "MP_Naval",
-    "gameId": "18014398528203457",
-    "gameExpansions": [
-      0
-    ],
-    "mapMode": "64",
-    "ip": "103.193.80.27",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1626973295,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 4
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 1,
-        "max": 6
-      }
-    },
-    "guid": "cd1928e0-8c8a-4b35-8cf1-dba0ba39d40d",
-    "port": 25400,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "A random server for mates",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 30,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 1,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "MP_Naval",
+    "map": "MP_Tremors",
     "gameId": "36028797037699008",
     "gameExpansions": [
       0
@@ -745,7 +689,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1626973333,
+    "updatedAt": 1626974868,
     "slots": {
       "8": {
         "current": 0,
@@ -756,7 +700,7 @@
         "max": 20
       },
       "2": {
-        "current": 10,
+        "current": 6,
         "max": 10
       }
     },
@@ -807,7 +751,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1626973299,
+    "updatedAt": 1626974868,
     "slots": {
       "8": {
         "current": 0,

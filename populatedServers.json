@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1627329560,
+    "updatedAt": 1627330731,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +30,7 @@
         "max": 20
       },
       "2": {
-        "current": 6,
+        "current": 7,
         "max": 64
       },
       "4": {
@@ -66,71 +66,6 @@
     "country": "au"
   },
   {
-    "map": "MP_Prison",
-    "gameId": "36028797037716100",
-    "gameExpansions": [
-      0,
-      524288,
-      8388608,
-      4194304
-    ],
-    "mapMode": "64",
-    "ip": "128.0.115.167",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1627329561,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 2,
-        "max": 42
-      }
-    },
-    "guid": "4e4e9135-fe10-4e78-a5f0-a959dc0ab8a0",
-    "port": 37000,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "501st Battalion Aus/Nz",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 1,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
     "map": "MP_Naval",
     "gameId": "18014398528223731",
     "gameExpansions": [
@@ -150,7 +85,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1627329561,
+    "updatedAt": 1627330731,
     "slots": {
       "8": {
         "current": 0,
@@ -161,7 +96,7 @@
         "max": 20
       },
       "2": {
-        "current": 3,
+        "current": 5,
         "max": 8
       },
       "4": {
@@ -183,6 +118,76 @@
     "serverType": 1,
     "experience": 0,
     "tickRate": 30,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "XP6_CMP",
+    "gameId": "18014398528223733",
+    "gameExpansions": [
+      8589934592,
+      0,
+      1048576,
+      524288,
+      268435456,
+      2097152,
+      4194304,
+      8388608,
+      17179869184
+    ],
+    "mapMode": "1",
+    "ip": "108.61.227.158",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1627330732,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 32
+      }
+    },
+    "guid": "ef1f0430-788a-4d54-82ab-9d19d08b7f2d",
+    "port": 30010,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "8589934592",
+    "name": "-A1- Agent Smiths Hurt Locker Emporium -",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
     "hasPassword": 0,
     "maps": {
       "maps": [],

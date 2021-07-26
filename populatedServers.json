@@ -1,6 +1,6 @@
 [
   {
-    "map": "MP_Flooded",
+    "map": "MP_Journey",
     "gameId": "36028797037715425",
     "gameExpansions": [
       0
@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1627329085,
+    "updatedAt": 1627329560,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +30,7 @@
         "max": 20
       },
       "2": {
-        "current": 19,
+        "current": 6,
         "max": 64
       },
       "4": {
@@ -66,6 +66,71 @@
     "country": "au"
   },
   {
+    "map": "MP_Prison",
+    "gameId": "36028797037716100",
+    "gameExpansions": [
+      0,
+      524288,
+      8388608,
+      4194304
+    ],
+    "mapMode": "64",
+    "ip": "128.0.115.167",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1627329561,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 2,
+        "max": 42
+      }
+    },
+    "guid": "4e4e9135-fe10-4e78-a5f0-a959dc0ab8a0",
+    "port": 37000,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "501st Battalion Aus/Nz",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "MP_Naval",
     "gameId": "18014398528223731",
     "gameExpansions": [
@@ -85,7 +150,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1627329085,
+    "updatedAt": 1627329561,
     "slots": {
       "8": {
         "current": 0,

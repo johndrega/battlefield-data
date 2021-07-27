@@ -1,6 +1,6 @@
 [
   {
-    "map": "MP_Tremors",
+    "map": "MP_Flooded",
     "gameId": "36028797037715425",
     "gameExpansions": [
       0
@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1627402159,
+    "updatedAt": 1627404472,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +30,7 @@
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 64,
         "max": 64
       },
       "4": {
@@ -85,7 +85,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1627402162,
+    "updatedAt": 1627404472,
     "slots": {
       "8": {
         "current": 0,
@@ -106,72 +106,6 @@
     "playlist": 0,
     "gameExpansion": "0",
     "name": "!!! [BF4 Noobs] 24/7 Golmud Railway TDM",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 1,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "MP_Siege",
-    "gameId": "36028797037716163",
-    "gameExpansions": [
-      0
-    ],
-    "mapMode": "64",
-    "ip": "103.193.80.33",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1627402162,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 2
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 5,
-        "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
-      }
-    },
-    "guid": "1bc6f2c7-8323-41e2-8897-8f35ef2e89db",
-    "port": 25200,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! [FPSG] 24/7 Siege of Shanghai 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -218,7 +152,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1627402162,
+    "updatedAt": 1627404472,
     "slots": {
       "8": {
         "current": 0,
@@ -288,7 +222,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1627402162,
+    "updatedAt": 1627404472,
     "slots": {
       "8": {
         "current": 1,
@@ -331,7 +265,7 @@
     "country": "au"
   },
   {
-    "map": "XP4_Titan",
+    "map": "XP4_WlkrFtry",
     "gameId": "18014398528223439",
     "gameExpansions": [
       8388608,
@@ -355,7 +289,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1627402162,
+    "updatedAt": 1627404472,
     "slots": {
       "8": {
         "current": 0,
@@ -366,11 +300,11 @@
         "max": 20
       },
       "2": {
-        "current": 49,
+        "current": 17,
         "max": 64
       },
       "4": {
-        "current": 1,
+        "current": 0,
         "max": 2
       }
     },
@@ -402,7 +336,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
+    "map": "MP_Tremors",
     "gameId": "18014398528223731",
     "gameExpansions": [
       0
@@ -421,7 +355,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1627402162,
+    "updatedAt": 1627404472,
     "slots": {
       "8": {
         "current": 0,
@@ -432,7 +366,7 @@
         "max": 20
       },
       "2": {
-        "current": 6,
+        "current": 7,
         "max": 8
       },
       "4": {
@@ -468,13 +402,13 @@
     "country": "au"
   },
   {
-    "map": "MP_Journey",
-    "gameId": "36028797037714898",
+    "map": "MP_Prison",
+    "gameId": "36028797037716162",
     "gameExpansions": [
       0
     ],
     "mapMode": "64",
-    "ip": "103.193.80.35",
+    "ip": "103.193.80.30",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -487,93 +421,27 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1627402162,
+    "updatedAt": 1627404472,
     "slots": {
       "8": {
         "current": 0,
-        "max": 2
+        "max": 4
       },
       "1": {
-        "current": 0,
+        "current": 6,
         "max": 20
       },
       "2": {
-        "current": 1,
+        "current": 64,
         "max": 64
       }
     },
-    "guid": "a28fdd37-a231-4921-9751-e1ee55cbe856",
-    "port": 25400,
+    "guid": "9c435b6c-f3a0-4e25-9417-31995c85d633",
+    "port": 25500,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "! [BEER BOOBS BACON] 3 | NO JETS | Classic Maps | A3Gaming.net",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 8,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "MP_Prison",
-    "gameId": "36028797037679679",
-    "gameExpansions": [
-      0
-    ],
-    "mapMode": "64",
-    "ip": "128.0.115.167",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1627402162,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 5,
-        "max": 6
-      },
-      "4": {
-        "current": 0,
-        "max": 2
-      }
-    },
-    "guid": "aa740d55-f9ca-4b6b-bc5f-1641b574939a",
-    "port": 11000,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "LSRG Operation Locker 24/7 | 1600 TICKETS | RANKED!",
+    "name": "! [FPSG] 24/7 Operation Lockers 2000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -596,14 +464,14 @@
     "country": "au"
   },
   {
-    "map": "XP0_Caspian",
+    "map": "XP3_WtrFront",
     "gameId": "18014398528224261",
     "gameExpansions": [
-      524288,
-      8589934592,
       4194304,
+      524288,
       1048576,
       8388608,
+      8589934592,
       2097152
     ],
     "mapMode": "64",
@@ -620,18 +488,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1627402162,
+    "updatedAt": 1627404472,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 2,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 44,
         "max": 64
       },
       "4": {
@@ -643,7 +511,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "4194304",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -667,7 +535,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Damage",
+    "map": "MP_Naval",
     "gameId": "18014398528224267",
     "gameExpansions": [
       0
@@ -686,7 +554,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1627402162,
+    "updatedAt": 1627404482,
     "slots": {
       "8": {
         "current": 0,
@@ -697,7 +565,7 @@
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 54,
         "max": 64
       },
       "4": {
@@ -733,7 +601,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Naval",
+    "map": "MP_Damage",
     "gameId": "18014398528223438",
     "gameExpansions": [
       0
@@ -752,7 +620,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1627402158,
+    "updatedAt": 1627404474,
     "slots": {
       "8": {
         "current": 0,
@@ -763,7 +631,7 @@
         "max": 20
       },
       "2": {
-        "current": 47,
+        "current": 32,
         "max": 64
       }
     },

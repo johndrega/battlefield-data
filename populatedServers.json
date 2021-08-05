@@ -23,7 +23,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628192903,
+    "updatedAt": 1628193294,
     "slots": {
       "8": {
         "current": 0,
@@ -92,7 +92,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628192904,
+    "updatedAt": 1628193294,
     "slots": {
       "8": {
         "current": 0,
@@ -135,13 +135,18 @@
     "country": "au"
   },
   {
-    "map": "MP_Abandoned",
-    "gameId": "18014398528245092",
+    "map": "MP_Siege",
+    "gameId": "36028797037736945",
     "gameExpansions": [
-      0
+      0,
+      524288,
+      4194304,
+      1048576,
+      8388608,
+      2097152
     ],
     "mapMode": "64",
-    "ip": "103.193.80.30",
+    "ip": "103.193.80.29",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -154,11 +159,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628192903,
+    "updatedAt": 1628193294,
     "slots": {
       "8": {
         "current": 0,
-        "max": 2
+        "max": 0
       },
       "1": {
         "current": 0,
@@ -173,12 +178,12 @@
         "max": 2
       }
     },
-    "guid": "aefb50eb-944d-4535-aba5-6e0a98fb9d9d",
-    "port": 25200,
+    "guid": "50eeacdc-7f40-401d-af2d-28b16be2a62d",
+    "port": 25800,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "! [FPSG] Classic Maps Rotation 1000 Tickets! fpsgamerz.com",
+    "name": "! !  . O C E A N I A 365 . | Active Admins | All Conquest Maps",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -196,18 +201,18 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   },
   {
-    "map": "MP_Tremors",
-    "gameId": "18014398528243063",
+    "map": "MP_Damage",
+    "gameId": "36028797037715653",
     "gameExpansions": [
       0
     ],
     "mapMode": "64",
-    "ip": "109.200.214.230",
+    "ip": "108.61.227.145",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -220,7 +225,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628192903,
+    "updatedAt": 1628193294,
     "slots": {
       "8": {
         "current": 0,
@@ -232,19 +237,19 @@
       },
       "2": {
         "current": 1,
-        "max": 46
+        "max": 20
       },
       "4": {
         "current": 0,
         "max": 2
       }
     },
-    "guid": "f22591f0-74eb-4581-95e1-bfbee61f3999",
-    "port": 25540,
+    "guid": "7bd0cdca-2596-402a-bc96-6b3c6853aed6",
+    "port": 30010,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "! A T O M I X",
+    "name": "Pegasus Inc : Everyone is Welcome : Large Maps",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -252,7 +257,7 @@
     "ping": 999,
     "serverType": 1,
     "experience": 0,
-    "tickRate": 60,
+    "tickRate": 30,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -262,7 +267,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   }

@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156035,
+    "updatedAt": 1628156737,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 3,
+        "current": 7,
         "max": 64
       },
       "4": {
@@ -90,7 +90,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156090,
+    "updatedAt": 1628156743,
     "slots": {
       "8": {
         "current": 0,
@@ -101,11 +101,11 @@
         "max": 20
       },
       "2": {
-        "current": 48,
+        "current": 50,
         "max": 64
       },
       "4": {
-        "current": 0,
+        "current": 1,
         "max": 2
       }
     },
@@ -137,19 +137,86 @@
     "country": "au"
   },
   {
-    "map": "XP1_001",
+    "map": "MP_Journey",
+    "gameId": "36028797037734575",
+    "gameExpansions": [
+      0,
+      524288,
+      4194304,
+      1048576,
+      8388608,
+      2097152
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.29",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1628156737,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      }
+    },
+    "guid": "1fe0937c-2d96-4335-8609-00d48229e533",
+    "port": 25500,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! ! . O C E A N I A365 . | Active Admins | Custom HC | Vehicles",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Journey",
     "gameId": "36028797037720111",
     "gameExpansions": [
-      1048576,
       0,
-      17179869184,
       524288,
+      17179869184,
       268435456,
+      1048576,
       2097152,
       8388608,
       4194304
     ],
-    "mapMode": "1024",
+    "mapMode": "2",
     "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -163,7 +230,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156089,
+    "updatedAt": 1628156745,
     "slots": {
       "8": {
         "current": 0,
@@ -174,7 +241,7 @@
         "max": 20
       },
       "2": {
-        "current": 44,
+        "current": 43,
         "max": 48
       }
     },
@@ -182,7 +249,7 @@
     "port": 26600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "1048576",
+    "gameExpansion": "0",
     "name": "! ! MIXED MODES/DLC @120hz +130% Tickets // thefrequency.com.au",
     "settings": {},
     "fairfight": 1,
@@ -230,18 +297,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156094,
+    "updatedAt": 1628156750,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 9,
+        "current": 7,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 63,
         "max": 64
       },
       "4": {
@@ -300,18 +367,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156101,
+    "updatedAt": 1628156748,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 3,
         "max": 20
       },
       "2": {
-        "current": 60,
+        "current": 64,
         "max": 64
       }
     },
@@ -367,14 +434,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156078,
+    "updatedAt": 1628156743,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 2,
+        "current": 3,
         "max": 20
       },
       "2": {
@@ -414,17 +481,17 @@
     "country": "au"
   },
   {
-    "map": "MP_Prison",
+    "map": "XP0_Firestorm",
     "gameId": "36028797037734570",
     "gameExpansions": [
-      0,
       524288,
+      0,
       4194304,
       1048576,
       8388608,
       2097152
     ],
-    "mapMode": "2097152",
+    "mapMode": "1024",
     "ip": "103.193.80.29",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -438,7 +505,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156074,
+    "updatedAt": 1628156737,
     "slots": {
       "8": {
         "current": 0,
@@ -457,7 +524,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "524288",
     "name": "! ! . O C E A N I A365 . | Active Admins | Custom HC | Infantry",
     "settings": {},
     "fairfight": 1,
@@ -500,7 +567,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156035,
+    "updatedAt": 1628156737,
     "slots": {
       "8": {
         "current": 0,
@@ -543,16 +610,16 @@
     "country": "au"
   },
   {
-    "map": "XP2_003",
+    "map": "XP1_001",
     "gameId": "18014398528242677",
     "gameExpansions": [
-      2097152,
-      0,
       1048576,
+      0,
+      17179869184,
       524288,
-      4194304,
+      2097152,
       8388608,
-      17179869184
+      4194304
     ],
     "mapMode": "2",
     "ip": "103.193.80.29",
@@ -568,7 +635,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156036,
+    "updatedAt": 1628156752,
     "slots": {
       "8": {
         "current": 0,
@@ -579,7 +646,7 @@
         "max": 20
       },
       "2": {
-        "current": 48,
+        "current": 45,
         "max": 48
       }
     },
@@ -587,7 +654,7 @@
     "port": 26000,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "2097152",
+    "gameExpansion": "1048576",
     "name": "! ! . O C E A N I A 365 . | Active Admins | All RUSH Maps",
     "settings": {},
     "fairfight": 1,
@@ -630,7 +697,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156035,
+    "updatedAt": 1628156737,
     "slots": {
       "8": {
         "current": 0,
@@ -696,7 +763,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156035,
+    "updatedAt": 1628156737,
     "slots": {
       "8": {
         "current": 0,
@@ -743,7 +810,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Flooded",
+    "map": "MP_Abandoned",
     "gameId": "18014398528223731",
     "gameExpansions": [
       0
@@ -762,7 +829,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156036,
+    "updatedAt": 1628156737,
     "slots": {
       "8": {
         "current": 0,
@@ -828,18 +895,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156095,
+    "updatedAt": 1628156745,
     "slots": {
       "8": {
         "current": 0,
         "max": 4
       },
       "1": {
-        "current": 2,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 62,
         "max": 64
       }
     },
@@ -895,14 +962,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156074,
+    "updatedAt": 1628156754,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 1,
+        "current": 8,
         "max": 20
       },
       "2": {
@@ -910,7 +977,7 @@
         "max": 64
       },
       "4": {
-        "current": 2,
+        "current": 1,
         "max": 2
       }
     },
@@ -961,14 +1028,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156070,
+    "updatedAt": 1628156749,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 2,
+        "current": 3,
         "max": 20
       },
       "2": {
@@ -1028,7 +1095,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156100,
+    "updatedAt": 1628156737,
     "slots": {
       "8": {
         "current": 0,
@@ -1039,7 +1106,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 1,
         "max": 16
       }
     },
@@ -1071,7 +1138,7 @@
     "country": "au"
   },
   {
-    "map": "MP_TheDish",
+    "map": "MP_Tremors",
     "gameId": "18014398528229542",
     "gameExpansions": [
       0
@@ -1090,18 +1157,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156099,
+    "updatedAt": 1628156747,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 4,
         "max": 20
       },
       "2": {
-        "current": 60,
+        "current": 64,
         "max": 64
       }
     },
@@ -1133,7 +1200,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Tremors",
+    "map": "MP_Flooded",
     "gameId": "36028797037735873",
     "gameExpansions": [
       0
@@ -1152,14 +1219,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156089,
+    "updatedAt": 1628156754,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 2,
+        "current": 4,
         "max": 20
       },
       "2": {
@@ -1218,7 +1285,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156060,
+    "updatedAt": 1628156748,
     "slots": {
       "8": {
         "current": 0,
@@ -1229,7 +1296,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 6,
         "max": 64
       },
       "4": {
@@ -1284,18 +1351,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156103,
+    "updatedAt": 1628156737,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 2,
+        "current": 5,
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 64,
         "max": 64
       },
       "4": {
@@ -1351,7 +1418,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156036,
+    "updatedAt": 1628156737,
     "slots": {
       "8": {
         "current": 1,
@@ -1362,7 +1429,7 @@
         "max": 20
       },
       "2": {
-        "current": 4,
+        "current": 2,
         "max": 62
       }
     },
@@ -1413,7 +1480,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156036,
+    "updatedAt": 1628156737,
     "slots": {
       "8": {
         "current": 0,
@@ -1424,7 +1491,7 @@
         "max": 20
       },
       "2": {
-        "current": 1,
+        "current": 2,
         "max": 64
       },
       "4": {
@@ -1487,7 +1554,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156035,
+    "updatedAt": 1628156737,
     "slots": {
       "8": {
         "current": 0,
@@ -1553,7 +1620,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156098,
+    "updatedAt": 1628156750,
     "slots": {
       "8": {
         "current": 0,
@@ -1564,7 +1631,7 @@
         "max": 20
       },
       "2": {
-        "current": 36,
+        "current": 47,
         "max": 64
       }
     },
@@ -1620,14 +1687,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156103,
+    "updatedAt": 1628156737,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 5,
+        "current": 2,
         "max": 20
       },
       "2": {
@@ -1687,7 +1754,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156035,
+    "updatedAt": 1628156737,
     "slots": {
       "8": {
         "current": 0,
@@ -1750,18 +1817,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628156043,
+    "updatedAt": 1628156743,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 0,
+        "current": 1,
         "max": 20
       },
       "2": {
-        "current": 8,
+        "current": 12,
         "max": 12
       }
     },

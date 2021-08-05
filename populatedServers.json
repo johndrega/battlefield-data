@@ -26,7 +26,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628203759,
+    "updatedAt": 1628204186,
     "slots": {
       "8": {
         "current": 1,
@@ -69,13 +69,14 @@
     "country": "au"
   },
   {
-    "map": "MP_Damage",
-    "gameId": "36028797037715653",
+    "map": "XP1_001",
+    "gameId": "18014398528223729",
     "gameExpansions": [
+      1048576,
       0
     ],
-    "mapMode": "64",
-    "ip": "108.61.227.145",
+    "mapMode": "2",
+    "ip": "108.61.227.157",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -88,7 +89,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628203759,
+    "updatedAt": 1628204231,
     "slots": {
       "8": {
         "current": 0,
@@ -100,25 +101,21 @@
       },
       "2": {
         "current": 1,
-        "max": 20
-      },
-      "4": {
-        "current": 0,
-        "max": 2
+        "max": 42
       }
     },
-    "guid": "7bd0cdca-2596-402a-bc96-6b3c6853aed6",
-    "port": 30010,
+    "guid": "60ed662b-2da0-499b-9a39-89f19dcaaf70",
+    "port": 30050,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "Pegasus Inc : Everyone is Welcome : Large Maps",
+    "gameExpansion": "1048576",
+    "name": "-[syd 24/7]--classic maps & DLC--Fast vehicle spawn--1000tkts",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 1,
+    "serverType": 2,
     "experience": 0,
     "tickRate": 30,
     "hasPassword": 0,
@@ -130,7 +127,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 8,
+    "preset": 1,
     "pingSite": "syd",
     "country": "au"
   },
@@ -159,7 +156,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628203759,
+    "updatedAt": 1628204237,
     "slots": {
       "8": {
         "current": 0,
@@ -225,7 +222,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628203758,
+    "updatedAt": 1628204221,
     "slots": {
       "8": {
         "current": 0,
@@ -236,7 +233,7 @@
         "max": 20
       },
       "2": {
-        "current": 30,
+        "current": 35,
         "max": 64
       },
       "4": {
@@ -268,72 +265,6 @@
     },
     "secret": "",
     "preset": 1,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "MP_Abandoned",
-    "gameId": "18014398528245082",
-    "gameExpansions": [
-      0,
-      524288,
-      2097152,
-      8388608,
-      4194304
-    ],
-    "mapMode": "64",
-    "ip": "103.193.80.35",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1628203758,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 2
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 1,
-        "max": 64
-      }
-    },
-    "guid": "f58c8346-1c9e-48b0-84f0-8d5d09d2b9da",
-    "port": 25200,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   }

@@ -1,67 +1,5 @@
 [
   {
-    "map": "MP_Journey",
-    "gameId": "36028797037739652",
-    "gameExpansions": [
-      0
-    ],
-    "mapMode": "32",
-    "ip": "128.0.115.167",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1628377921,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 1,
-        "max": 20
-      }
-    },
-    "guid": "1707a6e5-069e-4ae8-9ac4-7b61f757b8d7",
-    "port": 24000,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "!!! [BF4 Noobs] 24/7 Golmud Railway TDM",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 1,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
     "map": "MP_Siege",
     "gameId": "18014398528246864",
     "gameExpansions": [
@@ -81,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628377918,
+    "updatedAt": 1628378781,
     "slots": {
       "8": {
         "current": 0,
@@ -128,15 +66,15 @@
     "country": "au"
   },
   {
-    "map": "MP_Naval",
-    "gameId": "36028797037738307",
+    "map": "XP0_Caspian",
+    "gameId": "18014398528246720",
     "gameExpansions": [
-      0,
       524288,
-      2097152
+      0,
+      8589934592
     ],
     "mapMode": "64",
-    "ip": "103.193.80.27",
+    "ip": "139.99.144.143",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -149,37 +87,33 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628377922,
+    "updatedAt": 1628378782,
     "slots": {
       "8": {
         "current": 0,
-        "max": 2
+        "max": 0
       },
       "1": {
         "current": 0,
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 4,
         "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
       }
     },
-    "guid": "98576e31-79d5-4fd3-8836-f6c26fb09b45",
-    "port": 26200,
+    "guid": "2f145217-79d6-478f-bb73-791ca2bea017",
+    "port": 25900,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! ! ! ! . VIP [OCE] Classic/Mixed DLC maps 1200 TICKETS ! ! ! !",
+    "gameExpansion": "524288",
+    "name": "! ! ! [ClanKillingSpecialists] BF4ZOMBIES!!!",
     "settings": {},
-    "fairfight": 1,
+    "fairfight": 0,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 2,
+    "serverType": 4,
     "experience": 0,
     "tickRate": 60,
     "hasPassword": 0,
@@ -215,22 +149,22 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628377921,
+    "updatedAt": 1628378814,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 6,
+        "current": 4,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 63,
         "max": 64
       },
       "4": {
-        "current": 0,
+        "current": 2,
         "max": 2
       }
     },
@@ -263,6 +197,72 @@
   },
   {
     "map": "MP_Tremors",
+    "gameId": "18014398528247649",
+    "gameExpansions": [
+      0
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.30",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1628378713,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "cacf6662-e88c-4829-8192-06382517b7e4",
+    "port": 25300,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! [FPSG] Classic Maps Rotation 2 1000 Tickets fpsgamerz.com",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Prison",
     "gameId": "36028797037736905",
     "gameExpansions": [
       0
@@ -281,7 +281,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628377923,
+    "updatedAt": 1628378813,
     "slots": {
       "8": {
         "current": 0,
@@ -292,7 +292,7 @@
         "max": 20
       },
       "2": {
-        "current": 21,
+        "current": 36,
         "max": 64
       }
     },
@@ -350,7 +350,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628377921,
+    "updatedAt": 1628378713,
     "slots": {
       "8": {
         "current": 0,
@@ -361,7 +361,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 4,
         "max": 32
       }
     },

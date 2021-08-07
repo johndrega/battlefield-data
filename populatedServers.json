@@ -1,6 +1,72 @@
 [
   {
     "map": "MP_Siege",
+    "gameId": "18014398528245810",
+    "gameExpansions": [
+      0
+    ],
+    "mapMode": "64",
+    "ip": "108.61.227.157",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1628297724,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 2,
+        "max": 62
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "034fc25f-6ce4-40c5-a567-fbfaa2cf18e4",
+    "port": 30060,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "[2h] - LockdownAustralia - 24/7 Lockers - 1200 Tickets!",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 1,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Siege",
     "gameId": "36028797037738204",
     "gameExpansions": [
       0
@@ -19,22 +85,22 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628294369,
+    "updatedAt": 1628297745,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 4,
         "max": 20
       },
       "2": {
-        "current": 51,
+        "current": 63,
         "max": 64
       },
       "4": {
-        "current": 0,
+        "current": 2,
         "max": 2
       }
     },
@@ -66,7 +132,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Journey",
+    "map": "MP_Abandoned",
     "gameId": "36028797037737035",
     "gameExpansions": [
       0,
@@ -92,7 +158,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628294369,
+    "updatedAt": 1628297719,
     "slots": {
       "8": {
         "current": 1,
@@ -103,7 +169,7 @@
         "max": 20
       },
       "2": {
-        "current": 1,
+        "current": 4,
         "max": 48
       }
     },
@@ -135,8 +201,142 @@
     "country": "au"
   },
   {
-    "map": "MP_Journey",
-    "gameId": "36028797037736945",
+    "map": "XP0_Caspian",
+    "gameId": "36028797037738240",
+    "gameExpansions": [
+      524288,
+      0
+    ],
+    "mapMode": "2",
+    "ip": "108.61.227.170",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1628297719,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      }
+    },
+    "guid": "32f11748-2852-4782-955d-6e531dddcfa9",
+    "port": 30000,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "524288",
+    "name": "!![BLS] Hardcore 2 :: Mixed Modes / Mixed Maps :: Votemap",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 30,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "XP1_001",
+    "gameId": "18014398528246416",
+    "gameExpansions": [
+      1048576,
+      524288,
+      4194304,
+      8388608,
+      8589934592,
+      2097152
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.30",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1628297741,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 22,
+        "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "3bf7ece0-2293-4903-a8f4-beeb48f18474",
+    "port": 25400,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "1048576",
+    "name": "! [FPSG] Mixed DLC Maps 2 1000 Tickets! fpsgamerz.comm",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Flooded",
+    "gameId": "36028797037738483",
     "gameExpansions": [
       0,
       524288,
@@ -159,7 +359,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628294369,
+    "updatedAt": 1628297734,
     "slots": {
       "8": {
         "current": 0,
@@ -170,7 +370,7 @@
         "max": 20
       },
       "2": {
-        "current": 8,
+        "current": 2,
         "max": 64
       },
       "4": {
@@ -207,7 +407,7 @@
   },
   {
     "map": "XP0_Metro",
-    "gameId": "18014398528245081",
+    "gameId": "36028797037738288",
     "gameExpansions": [
       524288,
       0,
@@ -230,7 +430,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628294357,
+    "updatedAt": 1628297724,
     "slots": {
       "8": {
         "current": 0,
@@ -241,7 +441,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 4,
         "max": 42
       }
     },
@@ -273,18 +473,13 @@
     "country": "au"
   },
   {
-    "map": "XP3_UrbanGdn",
-    "gameId": "36028797037737564",
+    "map": "MP_TheDish",
+    "gameId": "18014398528246317",
     "gameExpansions": [
-      4194304,
-      524288,
-      1048576,
-      8388608,
-      8589934592,
-      2097152
+      0
     ],
     "mapMode": "64",
-    "ip": "103.193.80.30",
+    "ip": "103.193.80.33",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -297,7 +492,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628294369,
+    "updatedAt": 1628297719,
     "slots": {
       "8": {
         "current": 0,
@@ -308,7 +503,7 @@
         "max": 20
       },
       "2": {
-        "current": 31,
+        "current": 3,
         "max": 64
       },
       "4": {
@@ -316,12 +511,12 @@
         "max": 2
       }
     },
-    "guid": "aae289d7-d58b-4c72-ac89-f062424ee035",
-    "port": 25600,
+    "guid": "81a1f856-55a1-4f41-b81e-2e8c01c46b48",
+    "port": 25400,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
-    "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
+    "gameExpansion": "0",
+    "name": "! [FPSG] Classic Maps Rotation 3 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -344,8 +539,74 @@
     "country": "au"
   },
   {
-    "map": "MP_Journey",
-    "gameId": "18014398528246315",
+    "map": "MP_Tremors",
+    "gameId": "36028797037736792",
+    "gameExpansions": [
+      0
+    ],
+    "mapMode": "64",
+    "ip": "108.61.227.157",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1628297743,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 6,
+        "max": 8
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "97214999-7bb1-4eb2-b8b2-671e195542ed",
+    "port": 30110,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "Crytical's Mini War Grounds!",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 1,
+    "experience": 0,
+    "tickRate": 30,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_TheDish",
+    "gameId": "18014398528246601",
     "gameExpansions": [
       0
     ],
@@ -363,14 +624,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628294369,
+    "updatedAt": 1628297748,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 5,
+        "current": 13,
         "max": 20
       },
       "2": {
@@ -410,13 +671,13 @@
     "country": "au"
   },
   {
-    "map": "MP_TheDish",
-    "gameId": "18014398528246316",
+    "map": "MP_Damage",
+    "gameId": "36028797037738426",
     "gameExpansions": [
       0
     ],
     "mapMode": "64",
-    "ip": "103.193.80.30",
+    "ip": "103.193.80.35",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -429,7 +690,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628294369,
+    "updatedAt": 1628297716,
     "slots": {
       "8": {
         "current": 0,
@@ -440,20 +701,16 @@
         "max": 20
       },
       "2": {
-        "current": 1,
+        "current": 4,
         "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
       }
     },
-    "guid": "cacf6662-e88c-4829-8192-06382517b7e4",
-    "port": 25300,
+    "guid": "c03f8466-1431-4f30-9124-fdff781dcc3f",
+    "port": 25500,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "! [FPSG] Classic Maps Rotation 2 1000 Tickets fpsgamerz.com",
+    "name": "! [BEER BOOBS BACON] 4 | NO JETS | Classic Maps | Hardcore",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -471,7 +728,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
+    "preset": 2,
     "pingSite": "syd",
     "country": "au"
   }

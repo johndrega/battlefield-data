@@ -1,17 +1,17 @@
 [
   {
-    "map": "MP_Siege",
-    "gameId": "36028797037740424",
+    "map": "XP4_SubBase",
+    "gameId": "36028797037739688",
     "gameExpansions": [
-      0,
-      524288,
-      4194304,
-      1048576,
       8388608,
+      0,
+      4194304,
+      524288,
+      1048576,
       2097152
     ],
     "mapMode": "64",
-    "ip": "108.61.227.169",
+    "ip": "128.0.115.167",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -24,11 +24,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628452387,
+    "updatedAt": 1628453212,
     "slots": {
       "8": {
         "current": 0,
-        "max": 1
+        "max": 0
       },
       "1": {
         "current": 0,
@@ -37,14 +37,18 @@
       "2": {
         "current": 1,
         "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
       }
     },
-    "guid": "20349537-71e9-47c5-8577-e9f459065c00",
-    "port": 30000,
+    "guid": "17da4947-6394-47e8-9f68-e47a6e667dc1",
+    "port": 31000,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! ! COOL'N'FUN GAMING | Mixed Mode | Votemap",
+    "gameExpansion": "8388608",
+    "name": "AU | Druggys Paradise | Mixed Maps | 1000 Tickets | Fast Vics |",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -52,7 +56,7 @@
     "ping": 999,
     "serverType": 2,
     "experience": 0,
-    "tickRate": 45,
+    "tickRate": 60,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -93,7 +97,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628452387,
+    "updatedAt": 1628453162,
     "slots": {
       "8": {
         "current": 1,
@@ -122,6 +126,77 @@
     "serverType": 2,
     "experience": 0,
     "tickRate": 120,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "XP1_002",
+    "gameId": "18014398528247764",
+    "gameExpansions": [
+      1048576,
+      0,
+      4194304,
+      524288,
+      8388608,
+      2097152
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.29",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1628453246,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "50eeacdc-7f40-401d-af2d-28b16be2a62d",
+    "port": 25800,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "1048576",
+    "name": "! !  . O C E A N I A 365 . | Active Admins | All Conquest Maps",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
     "hasPassword": 0,
     "maps": {
       "maps": [],

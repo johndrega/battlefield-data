@@ -26,7 +26,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628708781,
+    "updatedAt": 1628709462,
     "slots": {
       "8": {
         "current": 1,
@@ -69,18 +69,15 @@
     "country": "au"
   },
   {
-    "map": "MP_Tremors",
-    "gameId": "18014398528248919",
+    "map": "XP1_001",
+    "gameId": "18014398528223743",
     "gameExpansions": [
-      0,
-      524288,
-      4194304,
       1048576,
-      8388608,
-      2097152
+      0,
+      524288
     ],
-    "mapMode": "64",
-    "ip": "103.193.80.29",
+    "mapMode": "1024",
+    "ip": "108.61.227.224",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -93,7 +90,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628708781,
+    "updatedAt": 1628709437,
     "slots": {
       "8": {
         "current": 0,
@@ -104,20 +101,16 @@
         "max": 20
       },
       "2": {
-        "current": 1,
-        "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
+        "current": 3,
+        "max": 20
       }
     },
-    "guid": "50eeacdc-7f40-401d-af2d-28b16be2a62d",
-    "port": 25800,
+    "guid": "9b3507e0-7ec2-48b0-bf80-cb6dbb94b6dc",
+    "port": 30010,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! !  . O C E A N I A 365 . | Active Admins | All Conquest Maps",
+    "gameExpansion": "1048576",
+    "name": "*P T F O*     P I S T O L S * M E L E E * B O W S *   O N L Y",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -140,15 +133,13 @@
     "country": "au"
   },
   {
-    "map": "XP1_001",
-    "gameId": "18014398528223743",
+    "map": "MP_Resort",
+    "gameId": "36028797037736905",
     "gameExpansions": [
-      1048576,
-      0,
-      524288
+      0
     ],
-    "mapMode": "1024",
-    "ip": "108.61.227.224",
+    "mapMode": "64",
+    "ip": "103.193.80.29",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -161,7 +152,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628708871,
+    "updatedAt": 1628709436,
     "slots": {
       "8": {
         "current": 0,
@@ -172,16 +163,152 @@
         "max": 20
       },
       "2": {
-        "current": 4,
-        "max": 20
+        "current": 1,
+        "max": 64
       }
     },
-    "guid": "9b3507e0-7ec2-48b0-bf80-cb6dbb94b6dc",
-    "port": 30010,
+    "guid": "e83fa29c-75f1-4f3a-ac26-ff7c47d0e406",
+    "port": 25400,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "1048576",
-    "name": "*P T F O*     P I S T O L S * M E L E E * B O W S *   O N L Y",
+    "gameExpansion": "0",
+    "name": "! ! . O C E A N I A 365 . | Active Admins | Conquest Classics",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Flooded",
+    "gameId": "36028797037737418",
+    "gameExpansions": [
+      0,
+      524288,
+      1048576,
+      268435456,
+      4194304,
+      8388608,
+      8589934592,
+      17179869184
+    ],
+    "mapMode": "1024",
+    "ip": "108.61.227.192",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1628709436,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 32
+      }
+    },
+    "guid": "f28900b4-2a2d-4e3f-a251-3825a841c393",
+    "port": 30020,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "[BFS] Custom Mixed-Mode | Real HC | Votemap | Active Admins",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "XP4_SubBase",
+    "gameId": "18014398528246797",
+    "gameExpansions": [
+      8388608,
+      0,
+      4194304,
+      524288,
+      1048576,
+      2097152
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.29",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1628709436,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      }
+    },
+    "guid": "fac7b38d-6d74-4e54-822d-3ff2a8af59ad",
+    "port": 25300,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "8388608",
+    "name": "! ! . O C E A N I A 365 . | Active Admins | Conquest Mixed",
     "settings": {},
     "fairfight": 1,
     "region": 64,

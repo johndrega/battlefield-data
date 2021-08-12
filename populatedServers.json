@@ -1,12 +1,13 @@
 [
   {
-    "map": "MP_Tremors",
-    "gameId": "36028797037742105",
+    "map": "MP_Abandoned",
+    "gameId": "36028797037754561",
     "gameExpansions": [
-      0
+      0,
+      1048576
     ],
     "mapMode": "64",
-    "ip": "103.193.80.30",
+    "ip": "108.61.227.157",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -19,31 +20,27 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628794463,
+    "updatedAt": 1628795088,
     "slots": {
       "8": {
         "current": 0,
-        "max": 2
+        "max": 0
       },
       "1": {
         "current": 0,
         "max": 20
       },
       "2": {
-        "current": 7,
-        "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
+        "current": 1,
+        "max": 42
       }
     },
-    "guid": "aefb50eb-944d-4535-aba5-6e0a98fb9d9d",
-    "port": 25200,
+    "guid": "60ed662b-2da0-499b-9a39-89f19dcaaf70",
+    "port": 30050,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "! [FPSG] Classic Maps Rotation 1000 Tickets! fpsgamerz.com",
+    "name": "-[syd 24/7]--classic maps & DLC--Fast vehicle spawn--1000tkts",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -51,7 +48,7 @@
     "ping": 999,
     "serverType": 2,
     "experience": 0,
-    "tickRate": 60,
+    "tickRate": 30,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -85,7 +82,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628794445,
+    "updatedAt": 1628795088,
     "slots": {
       "8": {
         "current": 0,
@@ -128,14 +125,13 @@
     "country": "au"
   },
   {
-    "map": "MP_Abandoned",
-    "gameId": "36028797037754626",
+    "map": "MP_Journey",
+    "gameId": "36028797037754071",
     "gameExpansions": [
-      0,
-      2097152
+      0
     ],
     "mapMode": "32",
-    "ip": "139.99.144.143",
+    "ip": "109.200.214.230",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -148,7 +144,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628794445,
+    "updatedAt": 1628795088,
     "slots": {
       "8": {
         "current": 0,
@@ -159,23 +155,23 @@
         "max": 20
       },
       "2": {
-        "current": 1,
+        "current": 2,
         "max": 10
       }
     },
-    "guid": "ef3f1105-9fe2-439c-b8ee-3b6893c9f7af",
-    "port": 25400,
+    "guid": "f4928a03-6dd9-484a-a7f1-8959dbf7d70f",
+    "port": 25500,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "SweatShop Gei Boyz",
+    "name": "## STAR CLAN PALYGOUND ##",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 1,
-    "experience": 0,
+    "serverType": 2,
+    "experience": 3,
     "tickRate": 30,
     "hasPassword": 0,
     "maps": {
@@ -186,7 +182,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   }

@@ -1,6 +1,6 @@
 [
   {
-    "map": "MP_Resort",
+    "map": "MP_Flooded",
     "gameId": "18014398528248919",
     "gameExpansions": [
       0,
@@ -24,18 +24,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628876689,
+    "updatedAt": 1628877151,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 0,
+        "current": 2,
         "max": 20
       },
       "2": {
-        "current": 56,
+        "current": 63,
         "max": 64
       },
       "4": {
@@ -71,13 +71,13 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
-    "gameId": "36028797037754555",
+    "map": "MP_Prison",
+    "gameId": "36028797037754779",
     "gameExpansions": [
       0
     ],
     "mapMode": "64",
-    "ip": "108.61.227.157",
+    "ip": "103.193.80.30",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -90,39 +90,35 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628876642,
+    "updatedAt": 1628877136,
     "slots": {
       "8": {
         "current": 0,
-        "max": 0
+        "max": 4
       },
       "1": {
         "current": 0,
         "max": 20
       },
       "2": {
-        "current": 2,
-        "max": 8
-      },
-      "4": {
-        "current": 0,
-        "max": 2
+        "current": 1,
+        "max": 64
       }
     },
-    "guid": "97214999-7bb1-4eb2-b8b2-671e195542ed",
-    "port": 30110,
+    "guid": "9c435b6c-f3a0-4e25-9417-31995c85d633",
+    "port": 25500,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "Crytical's Mini War Grounds!",
+    "name": "! [FPSG] 24/7 Operation Lockers 2000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 1,
+    "serverType": 2,
     "experience": 0,
-    "tickRate": 30,
+    "tickRate": 60,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -132,7 +128,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 8,
+    "preset": 1,
     "pingSite": "syd",
     "country": "au"
   },
@@ -156,7 +152,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628876653,
+    "updatedAt": 1628877136,
     "slots": {
       "8": {
         "current": 0,
@@ -218,7 +214,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1628876679,
+    "updatedAt": 1628877136,
     "slots": {
       "8": {
         "current": 0,
@@ -229,7 +225,7 @@
         "max": 20
       },
       "2": {
-        "current": 46,
+        "current": 54,
         "max": 64
       }
     },
@@ -257,69 +253,6 @@
     },
     "secret": "",
     "preset": 8,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "MP_Prison",
-    "gameId": "18014398528262926",
-    "gameExpansions": [
-      0,
-      524288
-    ],
-    "mapMode": "32",
-    "ip": "128.0.114.97",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1628876664,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 1,
-        "max": 12
-      }
-    },
-    "guid": "fee9466e-f4a0-470d-9f38-3311a322e2b8",
-    "port": 21000,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "The Sandpit | HC | TDM",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 120,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 2,
     "pingSite": "syd",
     "country": "au"
   }

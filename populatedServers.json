@@ -26,7 +26,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629060399,
+    "updatedAt": 1629060753,
     "slots": {
       "8": {
         "current": 1,
@@ -89,7 +89,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629060399,
+    "updatedAt": 1629060753,
     "slots": {
       "8": {
         "current": 0,
@@ -151,7 +151,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629060399,
+    "updatedAt": 1629060752,
     "slots": {
       "8": {
         "current": 0,
@@ -222,7 +222,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629060399,
+    "updatedAt": 1629060753,
     "slots": {
       "8": {
         "current": 0,
@@ -269,70 +269,6 @@
     "country": "au"
   },
   {
-    "map": "XP1_002",
-    "gameId": "18014398528262713",
-    "gameExpansions": [
-      1048576,
-      0,
-      524288
-    ],
-    "mapMode": "64",
-    "ip": "108.61.227.149",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1629060399,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 1,
-        "max": 12
-      }
-    },
-    "guid": "c3443cbc-8f95-4fca-af2e-602b8d6652e2",
-    "port": 30050,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "1048576",
-    "name": "BF4 MOBILEVETS",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 30,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 8,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
     "map": "XP0_Metro",
     "gameId": "36028797037757064",
     "gameExpansions": [
@@ -352,7 +288,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629060399,
+    "updatedAt": 1629060752,
     "slots": {
       "8": {
         "current": 0,
@@ -418,7 +354,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629060399,
+    "updatedAt": 1629060753,
     "slots": {
       "8": {
         "current": 0,
@@ -480,7 +416,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629060399,
+    "updatedAt": 1629060786,
     "slots": {
       "8": {
         "current": 0,
@@ -491,7 +427,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 4,
         "max": 10
       }
     },
@@ -523,13 +459,19 @@
     "country": "au"
   },
   {
-    "map": "MP_Abandoned",
-    "gameId": "36028797037756279",
+    "map": "XP0_Metro",
+    "gameId": "36028797037754329",
     "gameExpansions": [
-      0
+      524288,
+      0,
+      1048576,
+      2097152,
+      8388608,
+      8589934592,
+      4194304
     ],
-    "mapMode": "32",
-    "ip": "109.200.214.230",
+    "mapMode": "64",
+    "ip": "103.193.80.35",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -542,35 +484,35 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629060399,
+    "updatedAt": 1629060854,
     "slots": {
       "8": {
         "current": 0,
-        "max": 0
+        "max": 2
       },
       "1": {
         "current": 0,
         "max": 20
       },
       "2": {
-        "current": 4,
-        "max": 10
+        "current": 1,
+        "max": 64
       }
     },
-    "guid": "f4928a03-6dd9-484a-a7f1-8959dbf7d70f",
-    "port": 25500,
+    "guid": "f58c8346-1c9e-48b0-84f0-8d5d09d2b9da",
+    "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "## STAR CLAN PALYGOUND ##",
+    "gameExpansion": "524288",
+    "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
     "serverType": 2,
-    "experience": 3,
-    "tickRate": 30,
+    "experience": 0,
+    "tickRate": 60,
     "hasPassword": 0,
     "maps": {
       "maps": [],

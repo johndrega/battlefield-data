@@ -25,7 +25,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629230332,
+    "updatedAt": 1629231435,
     "slots": {
       "8": {
         "current": 1,
@@ -68,7 +68,7 @@
     "country": "au"
   },
   {
-    "map": "XP2_002",
+    "map": "XP2_004",
     "gameId": "36028797037758424",
     "gameExpansions": [
       2097152,
@@ -92,7 +92,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629230341,
+    "updatedAt": 1629231503,
     "slots": {
       "8": {
         "current": 0,
@@ -103,7 +103,7 @@
         "max": 20
       },
       "2": {
-        "current": 19,
+        "current": 1,
         "max": 64
       },
       "4": {
@@ -158,7 +158,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629230331,
+    "updatedAt": 1629231435,
     "slots": {
       "8": {
         "current": 0,
@@ -224,7 +224,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629230332,
+    "updatedAt": 1629231497,
     "slots": {
       "8": {
         "current": 0,
@@ -235,7 +235,7 @@
         "max": 20
       },
       "2": {
-        "current": 14,
+        "current": 22,
         "max": 64
       },
       "4": {
@@ -271,76 +271,14 @@
     "country": "au"
   },
   {
-    "map": "MP_Prison",
-    "gameId": "36028797037757616",
-    "gameExpansions": [
-      0
-    ],
-    "mapMode": "64",
-    "ip": "103.249.70.6",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1629230332,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 5,
-        "max": 48
-      }
-    },
-    "guid": "befe62a9-fedd-4b9a-9537-ae3c2d492524",
-    "port": 25200,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "Lumiverse",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 1,
-    "pingSite": "nrt",
-    "country": "au"
-  },
-  {
-    "map": "XP3_Prpganda",
+    "map": "XP4_WlkrFtry",
     "gameId": "18014398528266006",
     "gameExpansions": [
-      4194304,
-      0,
-      1048576,
-      524288,
       8388608,
+      0,
+      4194304,
+      524288,
+      1048576,
       2097152
     ],
     "mapMode": "1",
@@ -357,7 +295,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629230338,
+    "updatedAt": 1629231495,
     "slots": {
       "8": {
         "current": 0,
@@ -368,7 +306,7 @@
         "max": 20
       },
       "2": {
-        "current": 11,
+        "current": 9,
         "max": 50
       }
     },
@@ -376,7 +314,7 @@
     "port": 30000,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
+    "gameExpansion": "8388608",
     "name": "=MBT= Armored Warfare | Trail of The Dragon",
     "settings": {},
     "fairfight": 1,
@@ -419,7 +357,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629230332,
+    "updatedAt": 1629231435,
     "slots": {
       "8": {
         "current": 0,
@@ -466,11 +404,73 @@
     "country": "au"
   },
   {
-    "map": "MP_Prison",
+    "map": "MP_Journey",
+    "gameId": "36028797037754626",
+    "gameExpansions": [
+      0
+    ],
+    "mapMode": "32",
+    "ip": "139.99.144.143",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1629231502,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 2,
+        "max": 10
+      }
+    },
+    "guid": "ef3f1105-9fe2-439c-b8ee-3b6893c9f7af",
+    "port": 25400,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "SweatShop Gei Boyz",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 1,
+    "experience": 0,
+    "tickRate": 30,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "XP0_Metro",
     "gameId": "36028797037757888",
     "gameExpansions": [
-      0,
-      524288
+      524288,
+      0
     ],
     "mapMode": "32",
     "ip": "128.0.114.97",
@@ -486,7 +486,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629230332,
+    "updatedAt": 1629231435,
     "slots": {
       "8": {
         "current": 0,
@@ -497,7 +497,7 @@
         "max": 20
       },
       "2": {
-        "current": 8,
+        "current": 4,
         "max": 12
       }
     },
@@ -505,7 +505,7 @@
     "port": 21000,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "524288",
     "name": "The Sandpit | HC | TDM",
     "settings": {},
     "fairfight": 1,

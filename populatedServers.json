@@ -25,7 +25,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629316549,
+    "updatedAt": 1629317478,
     "slots": {
       "8": {
         "current": 1,
@@ -89,7 +89,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629316549,
+    "updatedAt": 1629317478,
     "slots": {
       "8": {
         "current": 0,
@@ -136,7 +136,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
+    "map": "MP_Resort",
     "gameId": "36028797037758424",
     "gameExpansions": [
       0,
@@ -160,7 +160,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629316549,
+    "updatedAt": 1629317478,
     "slots": {
       "8": {
         "current": 0,
@@ -171,7 +171,7 @@
         "max": 20
       },
       "2": {
-        "current": 1,
+        "current": 2,
         "max": 64
       },
       "4": {
@@ -207,7 +207,71 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
+    "map": "MP_Resort",
+    "gameId": "18014398528266927",
+    "gameExpansions": [
+      0,
+      524288,
+      1048576
+    ],
+    "mapMode": "1024",
+    "ip": "108.61.227.224",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1629317478,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 20
+      }
+    },
+    "guid": "9b3507e0-7ec2-48b0-bf80-cb6dbb94b6dc",
+    "port": 30010,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "SYD3",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Resort",
     "gameId": "18014398528266020",
     "gameExpansions": [
       0
@@ -226,7 +290,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629316563,
+    "updatedAt": 1629317513,
     "slots": {
       "8": {
         "current": 0,
@@ -237,7 +301,7 @@
         "max": 20
       },
       "2": {
-        "current": 22,
+        "current": 19,
         "max": 64
       },
       "4": {
@@ -273,13 +337,18 @@
     "country": "au"
   },
   {
-    "map": "MP_Prison",
-    "gameId": "36028797037757616",
+    "map": "MP_Siege",
+    "gameId": "18014398528266006",
     "gameExpansions": [
-      0
+      0,
+      524288,
+      4194304,
+      1048576,
+      8388608,
+      2097152
     ],
-    "mapMode": "64",
-    "ip": "103.249.70.6",
+    "mapMode": "2",
+    "ip": "108.61.227.172",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -292,7 +361,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629316591,
+    "updatedAt": 1629317501,
     "slots": {
       "8": {
         "current": 0,
@@ -303,23 +372,23 @@
         "max": 20
       },
       "2": {
-        "current": 1,
-        "max": 48
+        "current": 2,
+        "max": 50
       }
     },
-    "guid": "befe62a9-fedd-4b9a-9537-ae3c2d492524",
-    "port": 25200,
+    "guid": "d4ccf31d-03d2-4ce6-b48e-84f6c29bed59",
+    "port": 30000,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "Lumiverse",
+    "name": "=MBT= Armored Warfare | Trail of The Dragon",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 2,
-    "experience": 0,
+    "serverType": 1,
+    "experience": 55,
     "tickRate": 60,
     "hasPassword": 0,
     "maps": {
@@ -330,8 +399,8 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 8,
-    "pingSite": "nrt",
+    "preset": 1,
+    "pingSite": "syd",
     "country": "au"
   }
 ]

@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629410888,
+    "updatedAt": 1629411758,
     "slots": {
       "8": {
         "current": 0,
@@ -92,7 +92,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629410888,
+    "updatedAt": 1629411758,
     "slots": {
       "8": {
         "current": 0,
@@ -103,7 +103,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 1,
         "max": 48
       }
     },
@@ -135,14 +135,18 @@
     "country": "au"
   },
   {
-    "map": "XP1_001",
-    "gameId": "18014398528266917",
+    "map": "XP4_SubBase",
+    "gameId": "18014398528264984",
     "gameExpansions": [
+      8388608,
+      0,
+      4194304,
+      524288,
       1048576,
-      0
+      2097152
     ],
-    "mapMode": "2",
-    "ip": "108.61.227.157",
+    "mapMode": "64",
+    "ip": "103.193.80.29",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -155,7 +159,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629410888,
+    "updatedAt": 1629411758,
     "slots": {
       "8": {
         "current": 0,
@@ -167,15 +171,19 @@
       },
       "2": {
         "current": 1,
-        "max": 42
+        "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
       }
     },
-    "guid": "60ed662b-2da0-499b-9a39-89f19dcaaf70",
-    "port": 30050,
+    "guid": "50eeacdc-7f40-401d-af2d-28b16be2a62d",
+    "port": 25800,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "1048576",
-    "name": "-[syd 24/7]--classic maps & DLC--Fast vehicle spawn--1000tkts",
+    "gameExpansion": "8388608",
+    "name": "! !  . O C E A N I A 365 . | Active Admins | All Conquest Maps",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -183,7 +191,7 @@
     "ping": 999,
     "serverType": 2,
     "experience": 0,
-    "tickRate": 30,
+    "tickRate": 60,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -193,7 +201,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   },
@@ -222,18 +230,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629410910,
+    "updatedAt": 1629411758,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 0,
+        "current": 1,
         "max": 20
       },
       "2": {
-        "current": 51,
+        "current": 64,
         "max": 64
       },
       "4": {
@@ -269,10 +277,15 @@
     "country": "au"
   },
   {
-    "map": "MP_Abandoned",
-    "gameId": "18014398528266020",
+    "map": "XP1_001",
+    "gameId": "36028797037760463",
     "gameExpansions": [
-      0
+      1048576,
+      524288,
+      4194304,
+      8388608,
+      8589934592,
+      2097152
     ],
     "mapMode": "64",
     "ip": "103.193.80.30",
@@ -288,7 +301,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629410903,
+    "updatedAt": 1629411758,
     "slots": {
       "8": {
         "current": 0,
@@ -299,7 +312,7 @@
         "max": 20
       },
       "2": {
-        "current": 26,
+        "current": 1,
         "max": 64
       },
       "4": {
@@ -307,12 +320,12 @@
         "max": 2
       }
     },
-    "guid": "aefb50eb-944d-4535-aba5-6e0a98fb9d9d",
-    "port": 25200,
+    "guid": "aae289d7-d58b-4c72-ac89-f062424ee035",
+    "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! [FPSG] Classic Maps Rotation 1000 Tickets! fpsgamerz.com",
+    "gameExpansion": "1048576",
+    "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -335,18 +348,13 @@
     "country": "au"
   },
   {
-    "map": "MP_Flooded",
-    "gameId": "18014398528266006",
+    "map": "MP_Abandoned",
+    "gameId": "18014398528266020",
     "gameExpansions": [
-      0,
-      524288,
-      4194304,
-      1048576,
-      8388608,
-      2097152
+      0
     ],
-    "mapMode": "2097152",
-    "ip": "108.61.227.172",
+    "mapMode": "64",
+    "ip": "103.193.80.30",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -359,34 +367,38 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629410953,
+    "updatedAt": 1629411753,
     "slots": {
       "8": {
         "current": 0,
-        "max": 0
+        "max": 2
       },
       "1": {
         "current": 0,
         "max": 20
       },
       "2": {
-        "current": 2,
-        "max": 50
+        "current": 36,
+        "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
       }
     },
-    "guid": "d4ccf31d-03d2-4ce6-b48e-84f6c29bed59",
-    "port": 30000,
+    "guid": "aefb50eb-944d-4535-aba5-6e0a98fb9d9d",
+    "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "=MBT= Armored Warfare | Trail of The Dragon",
+    "name": "! [FPSG] Classic Maps Rotation 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 1,
-    "experience": 55,
+    "serverType": 2,
+    "experience": 0,
     "tickRate": 60,
     "hasPassword": 0,
     "maps": {

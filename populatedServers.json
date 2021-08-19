@@ -1,5 +1,72 @@
 [
   {
+    "map": "MP_Naval",
+    "gameId": "18014398528267574",
+    "gameExpansions": [
+      0,
+      524288,
+      4194304,
+      1048576,
+      8388608,
+      2097152
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.29",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1629404734,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      }
+    },
+    "guid": "162eea4a-e5ee-4519-af59-2360dfc74040",
+    "port": 25900,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! !  . O C E A N I A 365 . | Active Admins | Custom Conquest",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "XP0_Caspian",
     "gameId": "36028797037737035",
     "gameExpansions": [
@@ -25,7 +92,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629403499,
+    "updatedAt": 1629404735,
     "slots": {
       "8": {
         "current": 0,
@@ -68,13 +135,18 @@
     "country": "au"
   },
   {
-    "map": "MP_Tremors",
-    "gameId": "18014398528268576",
+    "map": "XP4_SubBase",
+    "gameId": "18014398528264984",
     "gameExpansions": [
-      0
+      8388608,
+      0,
+      4194304,
+      524288,
+      1048576,
+      2097152
     ],
-    "mapMode": "32",
-    "ip": "109.200.214.230",
+    "mapMode": "64",
+    "ip": "103.193.80.29",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -87,7 +159,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629403597,
+    "updatedAt": 1629404734,
     "slots": {
       "8": {
         "current": 0,
@@ -98,16 +170,20 @@
         "max": 20
       },
       "2": {
-        "current": 1,
-        "max": 32
+        "current": 4,
+        "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
       }
     },
-    "guid": "78af7202-bcd3-4933-8e33-6e3564fab6c7",
-    "port": 25560,
+    "guid": "50eeacdc-7f40-401d-af2d-28b16be2a62d",
+    "port": 25800,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "[OCE] Small Format TDM + Dom | Good Maps | sonsofvalour.net",
+    "gameExpansion": "8388608",
+    "name": "! !  . O C E A N I A 365 . | Active Admins | All Conquest Maps",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -125,12 +201,12 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   },
   {
-    "map": "XP2_002",
+    "map": "XP2_004",
     "gameId": "18014398528268344",
     "gameExpansions": [
       2097152,
@@ -154,7 +230,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1629403627,
+    "updatedAt": 1629404734,
     "slots": {
       "8": {
         "current": 0,
@@ -165,7 +241,7 @@
         "max": 20
       },
       "2": {
-        "current": 49,
+        "current": 44,
         "max": 64
       },
       "4": {
@@ -186,73 +262,6 @@
     "ping": 999,
     "serverType": 1,
     "experience": 54,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 1,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "XP3_Prpganda",
-    "gameId": "18014398528266006",
-    "gameExpansions": [
-      4194304,
-      0,
-      1048576,
-      524288,
-      8388608,
-      2097152
-    ],
-    "mapMode": "2",
-    "ip": "108.61.227.172",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1629403580,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 2,
-        "max": 50
-      }
-    },
-    "guid": "d4ccf31d-03d2-4ce6-b48e-84f6c29bed59",
-    "port": 30000,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "4194304",
-    "name": "=MBT= Armored Warfare | Trail of The Dragon",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 1,
-    "experience": 55,
     "tickRate": 60,
     "hasPassword": 0,
     "maps": {

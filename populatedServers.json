@@ -1,17 +1,17 @@
 [
   {
-    "map": "MP_Journey",
-    "gameId": "36028797037780410",
+    "map": "XP2_001",
+    "gameId": "36028797037777566",
     "gameExpansions": [
+      2097152,
       0,
-      524288,
-      4194304,
       1048576,
+      524288,
       8388608,
-      2097152
+      4194304
     ],
     "mapMode": "64",
-    "ip": "139.99.144.143",
+    "ip": "103.193.80.29",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -24,11 +24,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630274044,
+    "updatedAt": 1630274815,
     "slots": {
       "8": {
         "current": 0,
-        "max": 0
+        "max": 2
       },
       "1": {
         "current": 0,
@@ -37,25 +37,21 @@
       "2": {
         "current": 1,
         "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
       }
     },
-    "guid": "9a22c5cc-1882-4e36-a87f-25b3b873e3b9",
-    "port": 26100,
+    "guid": "1fe0937c-2d96-4335-8609-00d48229e533",
+    "port": 25500,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "=MBT= Armored Warfare | Large Scale Battles",
+    "gameExpansion": "2097152",
+    "name": "! ! . O C E A N I A365 . | Active Admins | Custom HC | Vehicles",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 1,
-    "experience": 54,
+    "serverType": 2,
+    "experience": 0,
     "tickRate": 60,
     "hasPassword": 0,
     "maps": {
@@ -66,7 +62,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   },
@@ -95,7 +91,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630274043,
+    "updatedAt": 1630274815,
     "slots": {
       "8": {
         "current": 0,
@@ -142,7 +138,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Damage",
+    "map": "MP_Journey",
     "gameId": "36028797037780754",
     "gameExpansions": [
       0
@@ -161,7 +157,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630274057,
+    "updatedAt": 1630274815,
     "slots": {
       "8": {
         "current": 0,
@@ -172,7 +168,7 @@
         "max": 20
       },
       "2": {
-        "current": 15,
+        "current": 27,
         "max": 64
       },
       "4": {
@@ -204,73 +200,6 @@
     },
     "secret": "",
     "preset": 1,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "XP1_003",
-    "gameId": "18014398528285406",
-    "gameExpansions": [
-      1048576,
-      0,
-      4194304,
-      524288,
-      8388608,
-      2097152
-    ],
-    "mapMode": "64",
-    "ip": "103.193.80.29",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1630274043,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 2
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 2,
-        "max": 64
-      }
-    },
-    "guid": "fac7b38d-6d74-4e54-822d-3ff2a8af59ad",
-    "port": 25300,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "1048576",
-    "name": "! ! . O C E A N I A 365 . | Active Admins | Conquest Mixed",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   }

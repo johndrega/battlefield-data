@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630378014,
+    "updatedAt": 1630378491,
     "slots": {
       "8": {
         "current": 0,
@@ -66,18 +66,13 @@
     "country": "au"
   },
   {
-    "map": "XP0_Caspian",
-    "gameId": "18014398528285735",
+    "map": "MP_Naval",
+    "gameId": "18014398528286073",
     "gameExpansions": [
-      524288,
-      0,
-      4194304,
-      1048576,
-      8388608,
-      2097152
+      0
     ],
-    "mapMode": "1",
-    "ip": "103.193.80.27",
+    "mapMode": "64",
+    "ip": "108.61.227.170",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -90,7 +85,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630378014,
+    "updatedAt": 1630378459,
     "slots": {
       "8": {
         "current": 0,
@@ -102,23 +97,27 @@
       },
       "2": {
         "current": 1,
-        "max": 48
+        "max": 32
+      },
+      "4": {
+        "current": 0,
+        "max": 2
       }
     },
-    "guid": "30be5cb0-8cde-4fef-8dbb-b9b867170f6f",
-    "port": 26600,
+    "guid": "1e578f31-8cd3-4d95-b3f1-7a61f8ef21d7",
+    "port": 30030,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
-    "name": "! [FREQ] MIXED DLC @120hz +Tickets // thefrequency.com.au",
+    "gameExpansion": "0",
+    "name": "[NZA] NZ Anomaly | Noob friendly server",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 2,
+    "serverType": 1,
     "experience": 0,
-    "tickRate": 120,
+    "tickRate": 30,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -157,7 +156,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630378014,
+    "updatedAt": 1630378459,
     "slots": {
       "8": {
         "current": 0,
@@ -229,7 +228,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630378017,
+    "updatedAt": 1630378473,
     "slots": {
       "8": {
         "current": 0,
@@ -240,7 +239,7 @@
         "max": 20
       },
       "2": {
-        "current": 21,
+        "current": 31,
         "max": 64
       },
       "4": {
@@ -300,7 +299,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630378014,
+    "updatedAt": 1630378476,
     "slots": {
       "8": {
         "current": 0,
@@ -311,7 +310,7 @@
         "max": 20
       },
       "2": {
-        "current": 5,
+        "current": 9,
         "max": 42
       }
     },
@@ -344,14 +343,85 @@
   },
   {
     "map": "XP0_Firestorm",
-    "gameId": "18014398528289790",
+    "gameId": "18014398528285674",
     "gameExpansions": [
       524288,
-      8589934592,
+      0,
       4194304,
       1048576,
       8388608,
       2097152
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.27",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1630378459,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "98576e31-79d5-4fd3-8836-f6c26fb09b45",
+    "port": 26200,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "524288",
+    "name": "! ! ! ! . VIP [OCE] Classic/Mixed DLC maps 1200 TICKETS ! ! ! !",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "XP2_002",
+    "gameId": "18014398528289790",
+    "gameExpansions": [
+      2097152,
+      524288,
+      1048576,
+      8388608,
+      8589934592,
+      4194304
     ],
     "mapMode": "64",
     "ip": "103.193.80.30",
@@ -367,18 +437,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630378027,
+    "updatedAt": 1630378496,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 6,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 62,
         "max": 64
       },
       "4": {
@@ -390,7 +460,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "2097152",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -433,14 +503,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630378014,
+    "updatedAt": 1630378493,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 3,
+        "current": 2,
         "max": 20
       },
       "2": {
@@ -499,18 +569,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630378033,
+    "updatedAt": 1630378489,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 2,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 61,
         "max": 64
       },
       "4": {
@@ -565,7 +635,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630378029,
+    "updatedAt": 1630378459,
     "slots": {
       "8": {
         "current": 0,
@@ -576,7 +646,7 @@
         "max": 20
       },
       "2": {
-        "current": 10,
+        "current": 9,
         "max": 10
       }
     },
@@ -632,7 +702,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630378014,
+    "updatedAt": 1630378459,
     "slots": {
       "8": {
         "current": 0,
@@ -698,7 +768,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630378014,
+    "updatedAt": 1630378459,
     "slots": {
       "8": {
         "current": 0,
@@ -741,7 +811,7 @@
     "country": "au"
   },
   {
-    "map": "MP_TheDish",
+    "map": "MP_Journey",
     "gameId": "18014398528285406",
     "gameExpansions": [
       0,
@@ -765,18 +835,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630378034,
+    "updatedAt": 1630378459,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 2,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 63,
         "max": 64
       }
     },

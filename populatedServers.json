@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630448952,
+    "updatedAt": 1630449538,
     "slots": {
       "8": {
         "current": 0,
@@ -85,7 +85,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630448947,
+    "updatedAt": 1630449542,
     "slots": {
       "8": {
         "current": 0,
@@ -96,7 +96,7 @@
         "max": 20
       },
       "2": {
-        "current": 25,
+        "current": 31,
         "max": 64
       },
       "4": {
@@ -132,13 +132,18 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
-    "gameId": "18014398528269713",
+    "map": "XP4_SubBase",
+    "gameId": "18014398528289583",
     "gameExpansions": [
-      0
+      8388608,
+      0,
+      4194304,
+      524288,
+      1048576,
+      2097152
     ],
-    "mapMode": "64",
-    "ip": "103.193.80.27",
+    "mapMode": "1",
+    "ip": "108.61.227.172",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -151,38 +156,34 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630448952,
+    "updatedAt": 1630449538,
     "slots": {
       "8": {
         "current": 0,
-        "max": 2
+        "max": 0
       },
       "1": {
         "current": 0,
         "max": 20
       },
       "2": {
-        "current": 2,
-        "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
+        "current": 1,
+        "max": 50
       }
     },
-    "guid": "d066ab27-19c9-4487-be50-5e6eb1c89b7b",
-    "port": 26500,
+    "guid": "d4ccf31d-03d2-4ce6-b48e-84f6c29bed59",
+    "port": 30000,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! [CG] CONQUEST ALL WELCOME | NOOB FRIENDLY | ACTIVE ADMINS",
+    "gameExpansion": "8388608",
+    "name": "=MBT= Armored Warfare | Trail of The Dragon",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 2,
-    "experience": 0,
+    "serverType": 1,
+    "experience": 55,
     "tickRate": 60,
     "hasPassword": 0,
     "maps": {
@@ -193,7 +194,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 8,
+    "preset": 1,
     "pingSite": "syd",
     "country": "au"
   },
@@ -217,7 +218,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630448952,
+    "updatedAt": 1630449538,
     "slots": {
       "8": {
         "current": 0,
@@ -228,7 +229,7 @@
         "max": 20
       },
       "2": {
-        "current": 7,
+        "current": 9,
         "max": 10
       }
     },

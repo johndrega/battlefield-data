@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630882649,
+    "updatedAt": 1630883659,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 5,
+        "current": 6,
         "max": 64
       },
       "4": {
@@ -95,7 +95,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630882649,
+    "updatedAt": 1630883650,
     "slots": {
       "8": {
         "current": 0,
@@ -142,6 +142,68 @@
     "country": "au"
   },
   {
+    "map": "MP_Prison",
+    "gameId": "18014398528305143",
+    "gameExpansions": [
+      0
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.30",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1630883650,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 4
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      }
+    },
+    "guid": "9c435b6c-f3a0-4e25-9417-31995c85d633",
+    "port": 25500,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! [FPSG] 24/7 Operation Lockers 2000 Tickets! fpsgamerz.com",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "MP_TheDish",
     "gameId": "36028797037796992",
     "gameExpansions": [
@@ -161,7 +223,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630882649,
+    "updatedAt": 1630883649,
     "slots": {
       "8": {
         "current": 0,
@@ -208,7 +270,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Journey",
+    "map": "MP_Naval",
     "gameId": "36028797037796986",
     "gameExpansions": [
       0
@@ -227,22 +289,22 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630882659,
+    "updatedAt": 1630883649,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 5,
         "max": 20
       },
       "2": {
-        "current": 59,
+        "current": 64,
         "max": 64
       },
       "4": {
-        "current": 0,
+        "current": 1,
         "max": 2
       }
     },
@@ -260,6 +322,68 @@
     "serverType": 2,
     "experience": 0,
     "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Tremors",
+    "gameId": "18014398528285156",
+    "gameExpansions": [
+      0
+    ],
+    "mapMode": "32",
+    "ip": "139.99.144.143",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1630883649,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 4,
+        "max": 10
+      }
+    },
+    "guid": "ef3f1105-9fe2-439c-b8ee-3b6893c9f7af",
+    "port": 25400,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "SweatShop Gei Boyz",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 1,
+    "experience": 0,
+    "tickRate": 30,
     "hasPassword": 0,
     "maps": {
       "maps": [],

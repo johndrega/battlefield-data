@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631050418,
+    "updatedAt": 1631050931,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +30,7 @@
         "max": 20
       },
       "2": {
-        "current": 5,
+        "current": 6,
         "max": 64
       }
     },
@@ -81,7 +81,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631050418,
+    "updatedAt": 1631050931,
     "slots": {
       "8": {
         "current": 0,
@@ -128,13 +128,16 @@
     "country": "au"
   },
   {
-    "map": "XP0_Metro",
-    "gameId": "18014398528307277",
+    "map": "XP0_Firestorm",
+    "gameId": "18014398528287753",
     "gameExpansions": [
-      524288
+      524288,
+      0,
+      1048576,
+      2097152
     ],
     "mapMode": "64",
-    "ip": "103.193.80.33",
+    "ip": "108.61.227.169",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -147,11 +150,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631050418,
+    "updatedAt": 1631050931,
     "slots": {
       "8": {
         "current": 0,
-        "max": 2
+        "max": 0
       },
       "1": {
         "current": 0,
@@ -159,27 +162,27 @@
       },
       "2": {
         "current": 1,
-        "max": 64
+        "max": 18
       },
       "4": {
         "current": 0,
         "max": 2
       }
     },
-    "guid": "db49a41d-fd40-4dc8-bbbb-b495925af385",
-    "port": 25300,
+    "guid": "dddbac23-46ab-436e-9c4e-ec37aba5924c",
+    "port": 30010,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "524288",
-    "name": "! [FPSG] 24/7 Operation Metro 1000 Tickets! fpsgamerz.com",
+    "name": "Pegasus Inc : Custom Maps",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 2,
+    "serverType": 1,
     "experience": 0,
-    "tickRate": 60,
+    "tickRate": 30,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -189,7 +192,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   }

@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630983242,
+    "updatedAt": 1630983954,
     "slots": {
       "8": {
         "current": 0,
@@ -95,7 +95,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630983242,
+    "updatedAt": 1630983954,
     "slots": {
       "8": {
         "current": 0,
@@ -142,15 +142,15 @@
     "country": "au"
   },
   {
-    "map": "XP0_Metro",
+    "map": "XP1_001",
     "gameId": "36028797037798230",
     "gameExpansions": [
-      524288,
-      0,
       1048576,
+      0,
+      524288,
       4194304
     ],
-    "mapMode": "2",
+    "mapMode": "64",
     "ip": "128.0.114.97",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -164,7 +164,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630983240,
+    "updatedAt": 1630983954,
     "slots": {
       "8": {
         "current": 0,
@@ -175,7 +175,7 @@
         "max": 20
       },
       "2": {
-        "current": 3,
+        "current": 2,
         "max": 64
       }
     },
@@ -183,7 +183,7 @@
     "port": 19000,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "1048576",
     "name": "!!  [TAT] Best Maps Rotation | Active Admins | Custom",
     "settings": {},
     "fairfight": 1,
@@ -207,7 +207,7 @@
     "country": "au"
   },
   {
-    "map": "MP_TheDish",
+    "map": "MP_Tremors",
     "gameId": "18014398528304255",
     "gameExpansions": [
       0,
@@ -230,22 +230,22 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630983253,
+    "updatedAt": 1630984046,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 3,
+        "current": 1,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 63,
         "max": 64
       },
       "4": {
-        "current": 1,
+        "current": 2,
         "max": 2
       }
     },
@@ -299,7 +299,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630983242,
+    "updatedAt": 1630983954,
     "slots": {
       "8": {
         "current": 0,
@@ -346,15 +346,15 @@
     "country": "au"
   },
   {
-    "map": "XP2_002",
+    "map": "XP3_MarketPl",
     "gameId": "36028797037798153",
     "gameExpansions": [
-      2097152,
+      4194304,
       524288,
       1048576,
       8388608,
       8589934592,
-      4194304
+      2097152
     ],
     "mapMode": "64",
     "ip": "103.193.80.30",
@@ -370,18 +370,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630983262,
+    "updatedAt": 1630984044,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 7,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 61,
         "max": 64
       },
       "4": {
@@ -393,7 +393,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "2097152",
+    "gameExpansion": "4194304",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -436,14 +436,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630983257,
+    "updatedAt": 1630984011,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 4,
+        "current": 6,
         "max": 20
       },
       "2": {
@@ -483,7 +483,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Prison",
+    "map": "MP_Resort",
     "gameId": "18014398528306396",
     "gameExpansions": [
       0
@@ -502,7 +502,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630983242,
+    "updatedAt": 1630983954,
     "slots": {
       "8": {
         "current": 0,
@@ -513,7 +513,7 @@
         "max": 20
       },
       "2": {
-        "current": 4,
+        "current": 1,
         "max": 64
       }
     },
@@ -564,7 +564,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630983242,
+    "updatedAt": 1630984019,
     "slots": {
       "8": {
         "current": 0,
@@ -575,7 +575,7 @@
         "max": 20
       },
       "2": {
-        "current": 31,
+        "current": 50,
         "max": 64
       },
       "4": {
@@ -611,6 +611,75 @@
     "country": "au"
   },
   {
+    "map": "XP0_Firestorm",
+    "gameId": "18014398528287753",
+    "gameExpansions": [
+      524288,
+      0,
+      1048576,
+      2097152
+    ],
+    "mapMode": "64",
+    "ip": "108.61.227.169",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1630984031,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 18
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "dddbac23-46ab-436e-9c4e-ec37aba5924c",
+    "port": 30010,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "524288",
+    "name": "Pegasus Inc : Custom Maps",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 1,
+    "experience": 0,
+    "tickRate": 30,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "MP_Journey",
     "gameId": "36028797037798123",
     "gameExpansions": [
@@ -630,18 +699,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1630983264,
+    "updatedAt": 1630983954,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 0,
+        "current": 1,
         "max": 20
       },
       "2": {
-        "current": 9,
+        "current": 10,
         "max": 10
       }
     },

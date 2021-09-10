@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631313867,
+    "updatedAt": 1631314340,
     "slots": {
       "8": {
         "current": 1,
@@ -67,19 +67,13 @@
     "country": "au"
   },
   {
-    "map": "MP_Prison",
-    "gameId": "36028797037798982",
+    "map": "MP_Siege",
+    "gameId": "18014398528309115",
     "gameExpansions": [
-      0,
-      524288,
-      17179869184,
-      1048576,
-      2097152,
-      8388608,
-      4194304
+      0
     ],
-    "mapMode": "2",
-    "ip": "103.193.80.29",
+    "mapMode": "64",
+    "ip": "128.0.115.167",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -92,27 +86,31 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631313867,
+    "updatedAt": 1631314340,
     "slots": {
       "8": {
         "current": 0,
-        "max": 2
+        "max": 0
       },
       "1": {
         "current": 0,
         "max": 20
       },
       "2": {
-        "current": 1,
-        "max": 48
+        "current": 2,
+        "max": 6
+      },
+      "4": {
+        "current": 0,
+        "max": 2
       }
     },
-    "guid": "7afae429-d5a5-4122-9030-b7ba41a42845",
-    "port": 26000,
+    "guid": "566e10c8-e3bc-4d7f-a65a-51555d22dc21",
+    "port": 22000,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "! ! . O C E A N I A 365 . | Active Admins | All RUSH Maps",
+    "name": "Nitrado.net Battlefield 4 Server",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -120,7 +118,7 @@
     "ping": 999,
     "serverType": 2,
     "experience": 0,
-    "tickRate": 60,
+    "tickRate": 30,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -130,7 +128,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 8,
+    "preset": 1,
     "pingSite": "syd",
     "country": "au"
   },
@@ -159,7 +157,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631313867,
+    "updatedAt": 1631314340,
     "slots": {
       "8": {
         "current": 0,
@@ -228,7 +226,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631313890,
+    "updatedAt": 1631314342,
     "slots": {
       "8": {
         "current": 0,
@@ -239,11 +237,11 @@
         "max": 20
       },
       "2": {
-        "current": 45,
+        "current": 59,
         "max": 64
       },
       "4": {
-        "current": 0,
+        "current": 1,
         "max": 2
       }
     },
@@ -260,6 +258,77 @@
     "ping": 999,
     "serverType": 2,
     "experience": 54,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "XP3_Prpganda",
+    "gameId": "36028797037800713",
+    "gameExpansions": [
+      4194304,
+      524288,
+      1048576,
+      8388608,
+      8589934592,
+      2097152
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.30",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1631314340,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "aae289d7-d58b-4c72-ac89-f062424ee035",
+    "port": 25600,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "4194304",
+    "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
     "tickRate": 60,
     "hasPassword": 0,
     "maps": {
@@ -294,7 +363,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631313865,
+    "updatedAt": 1631314343,
     "slots": {
       "8": {
         "current": 0,
@@ -305,7 +374,7 @@
         "max": 20
       },
       "2": {
-        "current": 21,
+        "current": 25,
         "max": 64
       },
       "4": {

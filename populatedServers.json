@@ -1,6 +1,6 @@
 [
   {
-    "map": "MP_TheDish",
+    "map": "MP_Journey",
     "gameId": "18014398528323470",
     "gameExpansions": [
       0,
@@ -22,22 +22,22 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631758699,
+    "updatedAt": 1631760115,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 2,
+        "current": 1,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 63,
         "max": 64
       },
       "4": {
-        "current": 0,
+        "current": 1,
         "max": 2
       }
     },
@@ -88,7 +88,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631758699,
+    "updatedAt": 1631760092,
     "slots": {
       "8": {
         "current": 0,
@@ -99,7 +99,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 4,
         "max": 64
       }
     },
@@ -155,7 +155,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631758699,
+    "updatedAt": 1631760091,
     "slots": {
       "8": {
         "current": 0,
@@ -202,7 +202,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Tremors",
+    "map": "MP_Flooded",
     "gameId": "18014398528324563",
     "gameExpansions": [
       0
@@ -221,14 +221,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631758705,
+    "updatedAt": 1631760113,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 8,
+        "current": 5,
         "max": 20
       },
       "2": {
@@ -268,73 +268,6 @@
     "country": "au"
   },
   {
-    "map": "MP_Abandoned",
-    "gameId": "36028797037816294",
-    "gameExpansions": [
-      0,
-      524288,
-      4194304,
-      1048576,
-      8388608,
-      2097152
-    ],
-    "mapMode": "1024",
-    "ip": "108.61.227.169",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1631758699,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 1,
-        "max": 48
-      }
-    },
-    "guid": "cfe46e6a-fe09-4b96-8670-0419c99cfc04",
-    "port": 30040,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "=MBT= Armored Warfare | Hell in the Pacific",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 55,
-    "tickRate": 30,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 8,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
     "map": "MP_Journey",
     "gameId": "36028797037800390",
     "gameExpansions": [
@@ -354,7 +287,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631758699,
+    "updatedAt": 1631760115,
     "slots": {
       "8": {
         "current": 0,
@@ -401,6 +334,77 @@
     "country": "au"
   },
   {
+    "map": "XP2_004",
+    "gameId": "36028797037816385",
+    "gameExpansions": [
+      2097152,
+      0,
+      17179869184,
+      1048576,
+      8589934592,
+      4194304
+    ],
+    "mapMode": "64",
+    "ip": "108.61.227.145",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1631760109,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 48
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "d4ccf31d-03d2-4ce6-b48e-84f6c29bed59",
+    "port": 30000,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "2097152",
+    "name": "=UAC= Battlefield China | Trail of The Dragon",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 34,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "MP_Journey",
     "gameId": "36028797037814259",
     "gameExpansions": [
@@ -425,7 +429,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631758699,
+    "updatedAt": 1631760091,
     "slots": {
       "8": {
         "current": 0,
@@ -436,7 +440,7 @@
         "max": 20
       },
       "2": {
-        "current": 1,
+        "current": 5,
         "max": 64
       }
     },

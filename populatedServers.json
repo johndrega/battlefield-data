@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631770198,
+    "updatedAt": 1631770656,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +30,7 @@
         "max": 20
       },
       "2": {
-        "current": 16,
+        "current": 13,
         "max": 64
       },
       "4": {
@@ -90,7 +90,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631770167,
+    "updatedAt": 1631770699,
     "slots": {
       "8": {
         "current": 0,
@@ -101,7 +101,7 @@
         "max": 20
       },
       "2": {
-        "current": 6,
+        "current": 10,
         "max": 64
       },
       "4": {
@@ -161,7 +161,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631770161,
+    "updatedAt": 1631770656,
     "slots": {
       "8": {
         "current": 0,
@@ -172,7 +172,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 3,
         "max": 42
       }
     },
@@ -204,13 +204,18 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
-    "gameId": "18014398528324692",
+    "map": "MP_Naval",
+    "gameId": "36028797037815915",
     "gameExpansions": [
-      0
+      0,
+      524288,
+      4194304,
+      1048576,
+      8388608,
+      2097152
     ],
     "mapMode": "64",
-    "ip": "128.0.115.167",
+    "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -223,11 +228,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631770076,
+    "updatedAt": 1631770656,
     "slots": {
       "8": {
         "current": 0,
-        "max": 0
+        "max": 2
       },
       "1": {
         "current": 0,
@@ -235,19 +240,19 @@
       },
       "2": {
         "current": 1,
-        "max": 6
+        "max": 64
       },
       "4": {
         "current": 0,
         "max": 2
       }
     },
-    "guid": "566e10c8-e3bc-4d7f-a65a-51555d22dc21",
-    "port": 22000,
+    "guid": "98576e31-79d5-4fd3-8836-f6c26fb09b45",
+    "port": 26200,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "Nitrado.net Battlefield 4 Server",
+    "name": "! ! ! ! . VIP [OCE] Classic/Mixed DLC maps 1200 TICKETS ! ! ! !",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -255,7 +260,7 @@
     "ping": 999,
     "serverType": 2,
     "experience": 0,
-    "tickRate": 30,
+    "tickRate": 60,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -265,7 +270,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   },
@@ -292,7 +297,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631770224,
+    "updatedAt": 1631770695,
     "slots": {
       "8": {
         "current": 0,
@@ -303,7 +308,7 @@
         "max": 20
       },
       "2": {
-        "current": 60,
+        "current": 64,
         "max": 64
       },
       "4": {
@@ -358,7 +363,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631770217,
+    "updatedAt": 1631770656,
     "slots": {
       "8": {
         "current": 0,
@@ -369,7 +374,7 @@
         "max": 20
       },
       "2": {
-        "current": 54,
+        "current": 61,
         "max": 64
       }
     },
@@ -425,7 +430,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631770219,
+    "updatedAt": 1631770678,
     "slots": {
       "8": {
         "current": 0,
@@ -436,7 +441,7 @@
         "max": 20
       },
       "2": {
-        "current": 51,
+        "current": 64,
         "max": 64
       },
       "4": {
@@ -491,14 +496,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631770229,
+    "updatedAt": 1631770656,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 3,
+        "current": 4,
         "max": 20
       },
       "2": {
@@ -538,6 +543,68 @@
     "country": "au"
   },
   {
+    "map": "MP_Flooded",
+    "gameId": "18014398528308082",
+    "gameExpansions": [
+      0
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.35",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1631770678,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 9,
+        "max": 64
+      }
+    },
+    "guid": "c03f8466-1431-4f30-9124-fdff781dcc3f",
+    "port": 25500,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! [BEER BOOBS BACON] 4 | NO JETS | Classic Maps | Hardcore",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "XP0_Metro",
     "gameId": "36028797037816345",
     "gameExpansions": [
@@ -557,7 +624,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631770213,
+    "updatedAt": 1631770701,
     "slots": {
       "8": {
         "current": 0,
@@ -568,7 +635,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 4,
         "max": 64
       },
       "4": {
@@ -623,7 +690,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631770076,
+    "updatedAt": 1631770656,
     "slots": {
       "8": {
         "current": 0,
@@ -686,7 +753,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631770192,
+    "updatedAt": 1631770656,
     "slots": {
       "8": {
         "current": 0,
@@ -753,18 +820,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1631770218,
+    "updatedAt": 1631770700,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 3,
         "max": 20
       },
       "2": {
-        "current": 61,
+        "current": 63,
         "max": 64
       }
     },

@@ -1,6 +1,6 @@
 [
   {
-    "map": "MP_Tremors",
+    "map": "MP_Siege",
     "gameId": "18014398528326273",
     "gameExpansions": [
       0,
@@ -24,18 +24,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632063497,
+    "updatedAt": 1632064569,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 3,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 42,
+        "current": 33,
         "max": 42
       }
     },
@@ -90,7 +90,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632063497,
+    "updatedAt": 1632064566,
     "slots": {
       "8": {
         "current": 0,
@@ -101,7 +101,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 1,
         "max": 8
       }
     },
@@ -152,7 +152,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632063497,
+    "updatedAt": 1632064566,
     "slots": {
       "8": {
         "current": 0,
@@ -221,7 +221,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632063502,
+    "updatedAt": 1632064566,
     "slots": {
       "8": {
         "current": 0,
@@ -232,7 +232,7 @@
         "max": 20
       },
       "2": {
-        "current": 48,
+        "current": 60,
         "max": 64
       },
       "4": {
@@ -287,7 +287,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632063497,
+    "updatedAt": 1632064566,
     "slots": {
       "8": {
         "current": 0,
@@ -298,7 +298,7 @@
         "max": 20
       },
       "2": {
-        "current": 9,
+        "current": 10,
         "max": 64
       }
     },
@@ -330,13 +330,13 @@
     "country": "au"
   },
   {
-    "map": "XP3_Prpganda",
+    "map": "XP4_Titan",
     "gameId": "36028797037818677",
     "gameExpansions": [
-      4194304,
-      524288,
-      1048576,
       8388608,
+      524288,
+      4194304,
+      1048576,
       8589934592,
       2097152
     ],
@@ -354,7 +354,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632063497,
+    "updatedAt": 1632064566,
     "slots": {
       "8": {
         "current": 0,
@@ -365,7 +365,7 @@
         "max": 20
       },
       "2": {
-        "current": 54,
+        "current": 43,
         "max": 64
       },
       "4": {
@@ -377,7 +377,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
+    "gameExpansion": "8388608",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -401,7 +401,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Damage",
+    "map": "MP_Journey",
     "gameId": "36028797037818673",
     "gameExpansions": [
       0
@@ -420,18 +420,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632063498,
+    "updatedAt": 1632064566,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 3,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 45,
         "max": 64
       },
       "4": {
@@ -486,7 +486,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632063503,
+    "updatedAt": 1632064566,
     "slots": {
       "8": {
         "current": 0,
@@ -497,7 +497,7 @@
         "max": 20
       },
       "2": {
-        "current": 36,
+        "current": 35,
         "max": 48
       }
     },
@@ -551,7 +551,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632063497,
+    "updatedAt": 1632064566,
     "slots": {
       "8": {
         "current": 0,
@@ -594,13 +594,13 @@
     "country": "au"
   },
   {
-    "map": "XP0_Metro",
-    "gameId": "36028797037818675",
+    "map": "MP_Resort",
+    "gameId": "36028797037800055",
     "gameExpansions": [
-      524288
+      0
     ],
     "mapMode": "64",
-    "ip": "103.193.80.33",
+    "ip": "139.99.144.143",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -613,31 +613,27 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632063497,
+    "updatedAt": 1632064566,
     "slots": {
       "8": {
         "current": 0,
-        "max": 2
+        "max": 0
       },
       "1": {
         "current": 0,
         "max": 20
       },
       "2": {
-        "current": 3,
-        "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
+        "current": 2,
+        "max": 32
       }
     },
-    "guid": "db49a41d-fd40-4dc8-bbbb-b495925af385",
-    "port": 25300,
+    "guid": "e559af80-847a-411b-883d-d4735250bee9",
+    "port": 25500,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
-    "name": "! [FPSG] 24/7 Operation Metro 1000 Tickets! fpsgamerz.com",
+    "gameExpansion": "0",
+    "name": "Rogue Gaming AU",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -645,7 +641,7 @@
     "ping": 999,
     "serverType": 2,
     "experience": 0,
-    "tickRate": 60,
+    "tickRate": 30,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -679,7 +675,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632063497,
+    "updatedAt": 1632064566,
     "slots": {
       "8": {
         "current": 0,
@@ -722,12 +718,12 @@
     "country": "au"
   },
   {
-    "map": "XP2_002",
+    "map": "XP3_UrbanGdn",
     "gameId": "18014398528325968",
     "gameExpansions": [
-      2097152,
-      0,
       4194304,
+      0,
+      2097152,
       524288,
       8388608
     ],
@@ -745,7 +741,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632063497,
+    "updatedAt": 1632064566,
     "slots": {
       "8": {
         "current": 0,
@@ -756,7 +752,7 @@
         "max": 20
       },
       "2": {
-        "current": 36,
+        "current": 7,
         "max": 64
       }
     },
@@ -764,7 +760,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "2097152",
+    "gameExpansion": "4194304",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,

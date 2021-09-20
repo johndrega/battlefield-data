@@ -1,72 +1,5 @@
 [
   {
-    "map": "XP4_WlkrFtry",
-    "gameId": "36028797037820237",
-    "gameExpansions": [
-      8388608,
-      0,
-      4194304,
-      524288,
-      1048576,
-      2097152
-    ],
-    "mapMode": "1024",
-    "ip": "103.193.80.29",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1632153448,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 2
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 19,
-        "max": 42
-      }
-    },
-    "guid": "533ca218-2e11-4693-bafc-feeb9ce5ccde",
-    "port": 25200,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "8388608",
-    "name": "! ! . O C E A N I A365 . | Active Admins | Custom HC | Infantry",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 8,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
     "map": "MP_Naval",
     "gameId": "36028797037820221",
     "gameExpansions": [
@@ -86,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632153448,
+    "updatedAt": 1632155029,
     "slots": {
       "8": {
         "current": 0,
@@ -155,7 +88,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632153448,
+    "updatedAt": 1632155038,
     "slots": {
       "8": {
         "current": 0,
@@ -166,7 +99,7 @@
         "max": 20
       },
       "2": {
-        "current": 8,
+        "current": 7,
         "max": 64
       },
       "4": {
@@ -221,7 +154,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632153488,
+    "updatedAt": 1632155036,
     "slots": {
       "8": {
         "current": 0,
@@ -232,7 +165,7 @@
         "max": 20
       },
       "2": {
-        "current": 57,
+        "current": 21,
         "max": 64
       }
     },
@@ -283,18 +216,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632153500,
+    "updatedAt": 1632155036,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 4,
         "max": 20
       },
       "2": {
-        "current": 55,
+        "current": 63,
         "max": 64
       },
       "4": {
@@ -330,7 +263,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
+    "map": "MP_Journey",
     "gameId": "36028797037820327",
     "gameExpansions": [
       0
@@ -349,7 +282,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632153504,
+    "updatedAt": 1632155029,
     "slots": {
       "8": {
         "current": 0,
@@ -360,7 +293,7 @@
         "max": 20
       },
       "2": {
-        "current": 45,
+        "current": 48,
         "max": 48
       }
     },
@@ -392,13 +325,18 @@
     "country": "au"
   },
   {
-    "map": "XP2_004",
-    "gameId": "36028797037820333",
+    "map": "XP0_Firestorm",
+    "gameId": "36028797037820334",
     "gameExpansions": [
+      524288,
+      0,
+      4194304,
+      17179869184,
+      1048576,
       2097152
     ],
-    "mapMode": "64",
-    "ip": "108.61.227.145",
+    "mapMode": "32",
+    "ip": "108.61.227.193",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -411,7 +349,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632153457,
+    "updatedAt": 1632155031,
     "slots": {
       "8": {
         "current": 0,
@@ -422,28 +360,24 @@
         "max": 20
       },
       "2": {
-        "current": 10,
-        "max": 48
-      },
-      "4": {
-        "current": 0,
-        "max": 2
+        "current": 1,
+        "max": 16
       }
     },
-    "guid": "d4ccf31d-03d2-4ce6-b48e-84f6c29bed59",
-    "port": 30000,
+    "guid": "fd874bb1-6265-42fe-8152-5f69373b21a5",
+    "port": 30090,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "2097152",
-    "name": "=MBT= Armored Warfare | Naval Strike Server",
+    "gameExpansion": "524288",
+    "name": "Come Get Some!!",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
     "serverType": 2,
-    "experience": 34,
-    "tickRate": 60,
+    "experience": 0,
+    "tickRate": 30,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -453,7 +387,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   }

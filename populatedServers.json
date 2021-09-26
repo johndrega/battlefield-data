@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632676886,
+    "updatedAt": 1632677677,
     "slots": {
       "8": {
         "current": 0,
@@ -89,7 +89,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632676907,
+    "updatedAt": 1632677685,
     "slots": {
       "8": {
         "current": 0,
@@ -100,7 +100,7 @@
         "max": 20
       },
       "2": {
-        "current": 55,
+        "current": 34,
         "max": 64
       },
       "4": {
@@ -155,7 +155,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632676886,
+    "updatedAt": 1632677677,
     "slots": {
       "8": {
         "current": 0,
@@ -221,7 +221,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1632676886,
+    "updatedAt": 1632677680,
     "slots": {
       "8": {
         "current": 0,
@@ -249,6 +249,68 @@
     "ping": 999,
     "serverType": 2,
     "experience": 1,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "XP2_003",
+    "gameId": "18014398528344124",
+    "gameExpansions": [
+      2097152
+    ],
+    "mapMode": "67108864",
+    "ip": "108.61.227.145",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1632677680,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 2,
+        "max": 48
+      }
+    },
+    "guid": "d4ccf31d-03d2-4ce6-b48e-84f6c29bed59",
+    "port": 30000,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "2097152",
+    "name": "=MBT= Armored Warfare | XP2 Carrier Assault",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 34,
     "tickRate": 60,
     "hasPassword": 0,
     "maps": {

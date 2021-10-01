@@ -22,7 +22,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633126345,
+    "updatedAt": 1633127340,
     "slots": {
       "8": {
         "current": 0,
@@ -33,7 +33,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 5,
         "max": 64
       },
       "4": {
@@ -69,7 +69,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
+    "map": "MP_Resort",
     "gameId": "18014398528348343",
     "gameExpansions": [
       0
@@ -88,7 +88,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633126345,
+    "updatedAt": 1633127322,
     "slots": {
       "8": {
         "current": 0,
@@ -99,7 +99,7 @@
         "max": 20
       },
       "2": {
-        "current": 3,
+        "current": 6,
         "max": 64
       },
       "4": {
@@ -135,72 +135,7 @@
     "country": "au"
   },
   {
-    "map": "XP0_Caspian",
-    "gameId": "36028797037836980",
-    "gameExpansions": [
-      524288,
-      0,
-      1048576,
-      4194304
-    ],
-    "mapMode": "524288",
-    "ip": "108.61.227.169",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1633126345,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 1,
-        "max": 48
-      }
-    },
-    "guid": "cfe46e6a-fe09-4b96-8670-0419c99cfc04",
-    "port": 30040,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "524288",
-    "name": "CCQ | MIxed Mode | No Weapon Rules",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 1,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 1,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "XP1_004",
+    "map": "XP1_003",
     "gameId": "36028797037839357",
     "gameExpansions": [
       1048576,
@@ -222,7 +157,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633126353,
+    "updatedAt": 1633127340,
     "slots": {
       "8": {
         "current": 0,
@@ -233,7 +168,7 @@
         "max": 20
       },
       "2": {
-        "current": 33,
+        "current": 40,
         "max": 48
       },
       "4": {
@@ -265,6 +200,76 @@
     },
     "secret": "",
     "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Flooded",
+    "gameId": "36028797037839849",
+    "gameExpansions": [
+      0,
+      524288,
+      2097152,
+      8388608,
+      4194304
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.35",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1633127233,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 62
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "f58c8346-1c9e-48b0-84f0-8d5d09d2b9da",
+    "port": 25200,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   }

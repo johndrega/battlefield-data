@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633185317,
+    "updatedAt": 1633185786,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 14,
+        "current": 11,
         "max": 42
       }
     },
@@ -86,7 +86,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633185317,
+    "updatedAt": 1633185787,
     "slots": {
       "8": {
         "current": 0,
@@ -129,7 +129,7 @@
     "country": "au"
   },
   {
-    "map": "XP1_002",
+    "map": "XP1_001",
     "gameId": "18014398528347944",
     "gameExpansions": [
       1048576,
@@ -151,18 +151,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633185317,
+    "updatedAt": 1633185787,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 3,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 60,
         "max": 64
       },
       "4": {
@@ -217,7 +217,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633185317,
+    "updatedAt": 1633185787,
     "slots": {
       "8": {
         "current": 0,
@@ -228,7 +228,7 @@
         "max": 20
       },
       "2": {
-        "current": 45,
+        "current": 52,
         "max": 64
       }
     },
@@ -284,7 +284,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633185317,
+    "updatedAt": 1633185789,
     "slots": {
       "8": {
         "current": 0,
@@ -295,7 +295,7 @@
         "max": 20
       },
       "2": {
-        "current": 51,
+        "current": 57,
         "max": 64
       },
       "4": {
@@ -350,7 +350,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633185317,
+    "updatedAt": 1633185787,
     "slots": {
       "8": {
         "current": 0,
@@ -361,7 +361,7 @@
         "max": 20
       },
       "2": {
-        "current": 52,
+        "current": 58,
         "max": 64
       },
       "4": {
@@ -416,7 +416,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633185317,
+    "updatedAt": 1633185787,
     "slots": {
       "8": {
         "current": 0,
@@ -459,13 +459,13 @@
     "country": "au"
   },
   {
-    "map": "MP_TheDish",
+    "map": "XP5_Night_01",
     "gameId": "36028797037838924",
     "gameExpansions": [
+      268435456,
       0,
       8589934592,
-      17179869184,
-      268435456
+      17179869184
     ],
     "mapMode": "512",
     "ip": "108.61.227.226",
@@ -481,7 +481,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633185317,
+    "updatedAt": 1633185787,
     "slots": {
       "8": {
         "current": 0,
@@ -492,7 +492,7 @@
         "max": 20
       },
       "2": {
-        "current": 6,
+        "current": 7,
         "max": 16
       }
     },
@@ -500,7 +500,7 @@
     "port": 30000,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "268435456",
     "name": "Firing Blanks Will Not Save You",
     "settings": {},
     "fairfight": 1,
@@ -524,7 +524,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Abandoned",
+    "map": "MP_Tremors",
     "gameId": "18014398528349604",
     "gameExpansions": [
       0
@@ -543,7 +543,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633185317,
+    "updatedAt": 1633185787,
     "slots": {
       "8": {
         "current": 0,
@@ -554,7 +554,7 @@
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 51,
         "max": 64
       },
       "4": {
@@ -612,7 +612,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633185317,
+    "updatedAt": 1633185791,
     "slots": {
       "8": {
         "current": 0,
@@ -623,7 +623,7 @@
         "max": 20
       },
       "2": {
-        "current": 11,
+        "current": 7,
         "max": 48
       }
     },
@@ -655,12 +655,78 @@
     "country": "au"
   },
   {
+    "map": "XP0_Metro",
+    "gameId": "36028797037841416",
+    "gameExpansions": [
+      524288
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.30",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1633185789,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "db49a41d-fd40-4dc8-bbbb-b495925af385",
+    "port": 25400,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "524288",
+    "name": "! [FPSG] 24/7 Operation Metro 1000 Tickets! fpsgamerz.com",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "MP_Prison",
     "gameId": "18014398528347181",
     "gameExpansions": [
       0
     ],
-    "mapMode": "1024",
+    "mapMode": "1",
     "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -674,7 +740,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633185309,
+    "updatedAt": 1633185787,
     "slots": {
       "8": {
         "current": 0,
@@ -685,7 +751,7 @@
         "max": 20
       },
       "2": {
-        "current": 13,
+        "current": 14,
         "max": 62
       }
     },
@@ -740,18 +806,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633185318,
+    "updatedAt": 1633185787,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 3,
         "max": 20
       },
       "2": {
-        "current": 54,
+        "current": 62,
         "max": 62
       },
       "4": {
@@ -811,7 +877,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633185317,
+    "updatedAt": 1633185787,
     "slots": {
       "8": {
         "current": 0,

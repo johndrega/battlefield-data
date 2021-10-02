@@ -19,18 +19,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633157549,
+    "updatedAt": 1633158096,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 3,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 51,
         "max": 64
       },
       "4": {
@@ -85,7 +85,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633157550,
+    "updatedAt": 1633158073,
     "slots": {
       "8": {
         "current": 0,
@@ -156,7 +156,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633157550,
+    "updatedAt": 1633158074,
     "slots": {
       "8": {
         "current": 0,
@@ -167,7 +167,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 1,
         "max": 64
       }
     },
@@ -223,14 +223,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633157553,
+    "updatedAt": 1633158072,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 2,
+        "current": 3,
         "max": 20
       },
       "2": {
@@ -294,7 +294,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633157550,
+    "updatedAt": 1633158085,
     "slots": {
       "8": {
         "current": 0,
@@ -305,7 +305,7 @@
         "max": 20
       },
       "2": {
-        "current": 18,
+        "current": 23,
         "max": 42
       }
     },
@@ -337,12 +337,12 @@
     "country": "au"
   },
   {
-    "map": "XP0_Caspian",
+    "map": "XP4_WlkrFtry",
     "gameId": "18014398528347944",
     "gameExpansions": [
-      524288,
-      0,
       8388608,
+      0,
+      524288,
       1048576
     ],
     "mapMode": "64",
@@ -359,7 +359,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633157562,
+    "updatedAt": 1633158088,
     "slots": {
       "8": {
         "current": 0,
@@ -370,7 +370,7 @@
         "max": 20
       },
       "2": {
-        "current": 57,
+        "current": 62,
         "max": 64
       },
       "4": {
@@ -382,7 +382,7 @@
     "port": 26100,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "8388608",
     "name": "=MBT= Armored Warfare | Large Scale Battles",
     "settings": {},
     "fairfight": 1,
@@ -425,7 +425,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633157558,
+    "updatedAt": 1633158073,
     "slots": {
       "8": {
         "current": 0,
@@ -492,14 +492,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633157550,
+    "updatedAt": 1633158072,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 7,
+        "current": 5,
         "max": 20
       },
       "2": {
@@ -539,7 +539,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Journey",
+    "map": "MP_Naval",
     "gameId": "18014398528349601",
     "gameExpansions": [
       0
@@ -558,18 +558,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633157558,
+    "updatedAt": 1633158083,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 5,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 61,
         "max": 64
       },
       "4": {
@@ -605,7 +605,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
+    "map": "MP_Abandoned",
     "gameId": "36028797037840929",
     "gameExpansions": [
       0
@@ -624,14 +624,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633157550,
+    "updatedAt": 1633158078,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 5,
+        "current": 2,
         "max": 20
       },
       "2": {
@@ -686,7 +686,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633157567,
+    "updatedAt": 1633158073,
     "slots": {
       "8": {
         "current": 0,
@@ -733,75 +733,6 @@
     "country": "au"
   },
   {
-    "map": "MP_Tremors",
-    "gameId": "36028797037839357",
-    "gameExpansions": [
-      0,
-      1048576,
-      4194304,
-      2097152
-    ],
-    "mapMode": "64",
-    "ip": "108.61.227.145",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1633157550,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 3,
-        "max": 48
-      },
-      "4": {
-        "current": 0,
-        "max": 2
-      }
-    },
-    "guid": "d4ccf31d-03d2-4ce6-b48e-84f6c29bed59",
-    "port": 30000,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "=MBT= Armored Warfare | Trail of The Dragon",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 1,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 1,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
     "map": "XP0_Metro",
     "gameId": "36028797037841416",
     "gameExpansions": [
@@ -821,7 +752,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633157550,
+    "updatedAt": 1633158073,
     "slots": {
       "8": {
         "current": 0,
@@ -832,7 +763,7 @@
         "max": 20
       },
       "2": {
-        "current": 6,
+        "current": 8,
         "max": 64
       },
       "4": {
@@ -887,7 +818,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633157550,
+    "updatedAt": 1633158073,
     "slots": {
       "8": {
         "current": 1,
@@ -898,7 +829,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 1,
         "max": 62
       }
     },
@@ -949,7 +880,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633157550,
+    "updatedAt": 1633158073,
     "slots": {
       "8": {
         "current": 0,
@@ -992,14 +923,14 @@
     "country": "au"
   },
   {
-    "map": "XP0_Metro",
+    "map": "XP3_MarketPl",
     "gameId": "18014398528349546",
     "gameExpansions": [
-      524288,
+      4194304,
       0,
       2097152,
-      8388608,
-      4194304
+      524288,
+      8388608
     ],
     "mapMode": "64",
     "ip": "103.193.80.35",
@@ -1015,14 +946,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633157560,
+    "updatedAt": 1633158077,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 4,
+        "current": 0,
         "max": 20
       },
       "2": {
@@ -1030,7 +961,7 @@
         "max": 62
       },
       "4": {
-        "current": 0,
+        "current": 2,
         "max": 2
       }
     },
@@ -1038,7 +969,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "4194304",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,

@@ -1,6 +1,6 @@
 [
   {
-    "map": "MP_Siege",
+    "map": "MP_Journey",
     "gameId": "18014398528347944",
     "gameExpansions": [
       0,
@@ -22,7 +22,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633378120,
+    "updatedAt": 1633379189,
     "slots": {
       "8": {
         "current": 0,
@@ -33,7 +33,7 @@
         "max": 20
       },
       "2": {
-        "current": 14,
+        "current": 59,
         "max": 64
       },
       "4": {
@@ -65,6 +65,71 @@
     },
     "secret": "",
     "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "XP3_Prpganda",
+    "gameId": "36028797037836980",
+    "gameExpansions": [
+      4194304,
+      0,
+      524288,
+      1048576
+    ],
+    "mapMode": "2097152",
+    "ip": "108.61.227.169",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1633379189,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 9,
+        "max": 48
+      }
+    },
+    "guid": "cfe46e6a-fe09-4b96-8670-0419c99cfc04",
+    "port": 30040,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "4194304",
+    "name": "CCQ | MIxed Mode | No Weapon Rules",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 1,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   }

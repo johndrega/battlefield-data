@@ -1,5 +1,74 @@
 [
   {
+    "map": "MP_Damage",
+    "gameId": "18014398528362949",
+    "gameExpansions": [
+      0,
+      524288,
+      8388608,
+      1048576
+    ],
+    "mapMode": "64",
+    "ip": "139.99.144.143",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1633472237,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "9a22c5cc-1882-4e36-a87f-25b3b873e3b9",
+    "port": 26100,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "=MBT= Armored Warfare | Large Scale Battles",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 54,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "MP_TheDish",
     "gameId": "36028797037855100",
     "gameExpansions": [
@@ -19,7 +88,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633471129,
+    "updatedAt": 1633472233,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +99,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 1,
         "max": 64
       },
       "4": {
@@ -66,7 +135,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Resort",
+    "map": "MP_Damage",
     "gameId": "36028797037839357",
     "gameExpansions": [
       0
@@ -85,7 +154,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633471129,
+    "updatedAt": 1633472258,
     "slots": {
       "8": {
         "current": 0,
@@ -96,7 +165,7 @@
         "max": 20
       },
       "2": {
-        "current": 31,
+        "current": 40,
         "max": 48
       },
       "4": {
@@ -132,21 +201,19 @@
     "country": "au"
   },
   {
-    "map": "MP_Damage",
-    "gameId": "36028797037839698",
+    "map": "XP5_Night_01",
+    "gameId": "18014398528349982",
     "gameExpansions": [
-      0,
-      524288,
-      1048576,
       268435456,
+      0,
+      1048576,
+      524288,
       2097152,
-      4194304,
       8388608,
-      8589934592,
-      17179869184
+      4194304
     ],
-    "mapMode": "2097152",
-    "ip": "108.61.227.158",
+    "mapMode": "64",
+    "ip": "103.193.80.35",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -159,11 +226,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633471129,
+    "updatedAt": 1633472233,
     "slots": {
       "8": {
         "current": 0,
-        "max": 0
+        "max": 2
       },
       "1": {
         "current": 0,
@@ -171,15 +238,15 @@
       },
       "2": {
         "current": 1,
-        "max": 32
+        "max": 64
       }
     },
-    "guid": "ef1f0430-788a-4d54-82ab-9d19d08b7f2d",
-    "port": 30010,
+    "guid": "e7d0de8e-4946-4243-91bb-ba6758cd1aa2",
+    "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "-A1- Agent Smiths Hurt Locker Emporium -",
+    "gameExpansion": "268435456",
+    "name": "! [BEER BOOBS BACON] 5 | NO JETS | DLC Maps | Hardcore",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -197,7 +264,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 8,
+    "preset": 2,
     "pingSite": "syd",
     "country": "au"
   }

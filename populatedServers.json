@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633391907,
+    "updatedAt": 1633395319,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 1,
+        "current": 2,
         "max": 64
       },
       "4": {
@@ -71,12 +71,12 @@
     "country": "au"
   },
   {
-    "map": "XP0_Caspian",
+    "map": "XP4_Arctic",
     "gameId": "18014398528347944",
     "gameExpansions": [
-      524288,
-      0,
       8388608,
+      0,
+      524288,
       1048576
     ],
     "mapMode": "64",
@@ -93,22 +93,22 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633391908,
+    "updatedAt": 1633395407,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 2,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 55,
         "max": 64
       },
       "4": {
-        "current": 2,
+        "current": 0,
         "max": 2
       }
     },
@@ -116,7 +116,7 @@
     "port": 26100,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "8388608",
     "name": "=MBT= Armored Warfare | Large Scale Battles",
     "settings": {},
     "fairfight": 1,
@@ -164,7 +164,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633391907,
+    "updatedAt": 1633395320,
     "slots": {
       "8": {
         "current": 0,
@@ -211,7 +211,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Journey",
+    "map": "MP_Naval",
     "gameId": "36028797037854192",
     "gameExpansions": [
       0
@@ -230,7 +230,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633391907,
+    "updatedAt": 1633395404,
     "slots": {
       "8": {
         "current": 0,
@@ -241,7 +241,7 @@
         "max": 20
       },
       "2": {
-        "current": 15,
+        "current": 39,
         "max": 64
       },
       "4": {
@@ -278,15 +278,12 @@
   },
   {
     "map": "MP_Journey",
-    "gameId": "36028797037836980",
+    "gameId": "36028797037854088",
     "gameExpansions": [
-      0,
-      524288,
-      1048576,
-      4194304
+      0
     ],
-    "mapMode": "1024",
-    "ip": "108.61.227.169",
+    "mapMode": "64",
+    "ip": "103.193.80.35",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -299,11 +296,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633391907,
+    "updatedAt": 1633395319,
     "slots": {
       "8": {
         "current": 0,
-        "max": 0
+        "max": 2
       },
       "1": {
         "current": 0,
@@ -311,22 +308,22 @@
       },
       "2": {
         "current": 1,
-        "max": 48
+        "max": 64
       }
     },
-    "guid": "cfe46e6a-fe09-4b96-8670-0419c99cfc04",
-    "port": 30040,
+    "guid": "c03f8466-1431-4f30-9124-fdff781dcc3f",
+    "port": 25500,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "CCQ | MIxed Mode | No Weapon Rules",
+    "name": "! [BEER BOOBS BACON] 4 | NO JETS | Classic Maps | Hardcore",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
     "serverType": 2,
-    "experience": 1,
+    "experience": 0,
     "tickRate": 60,
     "hasPassword": 0,
     "maps": {
@@ -337,7 +334,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 8,
+    "preset": 2,
     "pingSite": "syd",
     "country": "au"
   }

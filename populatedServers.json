@@ -1,6 +1,74 @@
 [
   {
-    "map": "MP_Siege",
+    "map": "XP0_Firestorm",
+    "gameId": "18014398528365259",
+    "gameExpansions": [
+      524288,
+      0,
+      17179869184,
+      1048576,
+      2097152,
+      8388608,
+      4194304
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.35",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1633556908,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      }
+    },
+    "guid": "46883ca5-e020-4c0c-9e7c-d3bb167e40dc",
+    "port": 25300,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "524288",
+    "name": "! [BEER BOOBS BACON] 2 | NO JETS | Noob Friendly",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Journey",
     "gameId": "18014398528362949",
     "gameExpansions": [
       0,
@@ -22,7 +90,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633556444,
+    "updatedAt": 1633556909,
     "slots": {
       "8": {
         "current": 0,
@@ -33,7 +101,7 @@
         "max": 20
       },
       "2": {
-        "current": 31,
+        "current": 37,
         "max": 64
       },
       "4": {
@@ -69,13 +137,17 @@
     "country": "au"
   },
   {
-    "map": "MP_Naval",
-    "gameId": "36028797037839357",
+    "map": "MP_Siege",
+    "gameId": "36028797037856527",
     "gameExpansions": [
-      0
+      0,
+      524288,
+      2097152,
+      1048576,
+      4194304
     ],
     "mapMode": "64",
-    "ip": "108.61.227.145",
+    "ip": "103.193.80.35",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -88,11 +160,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633556438,
+    "updatedAt": 1633556908,
     "slots": {
       "8": {
         "current": 0,
-        "max": 0
+        "max": 2
       },
       "1": {
         "current": 0,
@@ -100,26 +172,26 @@
       },
       "2": {
         "current": 1,
-        "max": 48
+        "max": 62
       },
       "4": {
         "current": 0,
         "max": 2
       }
     },
-    "guid": "d4ccf31d-03d2-4ce6-b48e-84f6c29bed59",
-    "port": 30000,
+    "guid": "f58c8346-1c9e-48b0-84f0-8d5d09d2b9da",
+    "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "=MBT= Armored Warfare | Conquest Classics",
+    "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
     "serverType": 2,
-    "experience": 1,
+    "experience": 0,
     "tickRate": 60,
     "hasPassword": 0,
     "maps": {
@@ -130,7 +202,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   }

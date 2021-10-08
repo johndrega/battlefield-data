@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633736189,
+    "updatedAt": 1633736687,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +30,7 @@
         "max": 20
       },
       "2": {
-        "current": 17,
+        "current": 16,
         "max": 64
       },
       "4": {
@@ -90,7 +90,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633736189,
+    "updatedAt": 1633736687,
     "slots": {
       "8": {
         "current": 0,
@@ -101,7 +101,7 @@
         "max": 20
       },
       "2": {
-        "current": 1,
+        "current": 2,
         "max": 42
       }
     },
@@ -155,18 +155,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633736205,
+    "updatedAt": 1633736691,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 0,
+        "current": 1,
         "max": 20
       },
       "2": {
-        "current": 37,
+        "current": 62,
         "max": 64
       },
       "4": {
@@ -221,7 +221,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633736189,
+    "updatedAt": 1633736687,
     "slots": {
       "8": {
         "current": 0,
@@ -287,7 +287,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633736189,
+    "updatedAt": 1633736687,
     "slots": {
       "8": {
         "current": 0,
@@ -298,7 +298,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 1,
         "max": 64
       }
     },
@@ -330,13 +330,17 @@
     "country": "au"
   },
   {
-    "map": "XP1_002",
-    "gameId": "36028797037861288",
+    "map": "MP_Siege",
+    "gameId": "36028797037860862",
     "gameExpansions": [
-      1048576
+      0,
+      524288,
+      2097152,
+      1048576,
+      4194304
     ],
-    "mapMode": "8388608",
-    "ip": "139.99.125.28",
+    "mapMode": "64",
+    "ip": "103.193.80.35",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -349,11 +353,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633736217,
+    "updatedAt": 1633736687,
     "slots": {
       "8": {
         "current": 0,
-        "max": 0
+        "max": 2
       },
       "1": {
         "current": 0,
@@ -361,15 +365,19 @@
       },
       "2": {
         "current": 1,
-        "max": 18
+        "max": 62
+      },
+      "4": {
+        "current": 0,
+        "max": 2
       }
     },
-    "guid": "c789cf38-4fba-4614-89ec-50b4b6ed43d6",
-    "port": 25500,
+    "guid": "f58c8346-1c9e-48b0-84f0-8d5d09d2b9da",
+    "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "1048576",
-    "name": "Asia Air Superiority :: 5GHz Server :: 144Hz",
+    "gameExpansion": "0",
+    "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -377,7 +385,7 @@
     "ping": 999,
     "serverType": 2,
     "experience": 0,
-    "tickRate": 144,
+    "tickRate": 60,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -387,8 +395,8 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
-    "pingSite": "nrt",
-    "country": "sg"
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
   }
 ]

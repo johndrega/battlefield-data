@@ -1,6 +1,6 @@
 [
   {
-    "map": "XP0_Oman",
+    "map": "XP0_Firestorm",
     "gameId": "18014398528369443",
     "gameExpansions": [
       524288,
@@ -22,7 +22,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633716374,
+    "updatedAt": 1633717693,
     "slots": {
       "8": {
         "current": 0,
@@ -33,7 +33,7 @@
         "max": 20
       },
       "2": {
-        "current": 17,
+        "current": 5,
         "max": 64
       },
       "4": {
@@ -88,7 +88,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633716375,
+    "updatedAt": 1633717653,
     "slots": {
       "8": {
         "current": 0,
@@ -99,7 +99,7 @@
         "max": 20
       },
       "2": {
-        "current": 37,
+        "current": 42,
         "max": 64
       }
     },
@@ -131,10 +131,15 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
-    "gameId": "18014398528368599",
+    "map": "XP3_Prpganda",
+    "gameId": "36028797037860409",
     "gameExpansions": [
-      0
+      4194304,
+      524288,
+      1048576,
+      8388608,
+      8589934592,
+      2097152
     ],
     "mapMode": "64",
     "ip": "103.193.80.30",
@@ -150,7 +155,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633716373,
+    "updatedAt": 1633717653,
     "slots": {
       "8": {
         "current": 0,
@@ -169,12 +174,12 @@
         "max": 2
       }
     },
-    "guid": "aefb50eb-944d-4535-aba5-6e0a98fb9d9d",
-    "port": 25200,
+    "guid": "aae289d7-d58b-4c72-ac89-f062424ee035",
+    "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! [FPSG] Classic Maps Rotation 1000 Tickets! fpsgamerz.com",
+    "gameExpansion": "4194304",
+    "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -197,7 +202,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
+    "map": "MP_Flooded",
     "gameId": "18014398528368423",
     "gameExpansions": [
       0
@@ -216,18 +221,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633716373,
+    "updatedAt": 1633717677,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 3,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 48,
+        "current": 45,
         "max": 48
       },
       "4": {

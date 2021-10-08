@@ -24,22 +24,22 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633665087,
+    "updatedAt": 1633665547,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 0,
+        "current": 2,
         "max": 20
       },
       "2": {
-        "current": 61,
+        "current": 63,
         "max": 64
       },
       "4": {
-        "current": 0,
+        "current": 1,
         "max": 2
       }
     },
@@ -71,7 +71,7 @@
     "country": "au"
   },
   {
-    "map": "XP4_WlkrFtry",
+    "map": "XP4_SubBase",
     "gameId": "18014398528362949",
     "gameExpansions": [
       8388608,
@@ -93,7 +93,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633665078,
+    "updatedAt": 1633665549,
     "slots": {
       "8": {
         "current": 0,
@@ -104,11 +104,11 @@
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 62,
         "max": 64
       },
       "4": {
-        "current": 0,
+        "current": 1,
         "max": 2
       }
     },
@@ -159,7 +159,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633665072,
+    "updatedAt": 1633665494,
     "slots": {
       "8": {
         "current": 0,
@@ -170,7 +170,7 @@
         "max": 20
       },
       "2": {
-        "current": 37,
+        "current": 42,
         "max": 64
       }
     },
@@ -226,7 +226,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633665090,
+    "updatedAt": 1633665539,
     "slots": {
       "8": {
         "current": 0,
@@ -237,7 +237,7 @@
         "max": 20
       },
       "2": {
-        "current": 55,
+        "current": 63,
         "max": 64
       },
       "4": {
@@ -273,6 +273,71 @@
     "country": "au"
   },
   {
+    "map": "XP5_Night_01",
+    "gameId": "36028797037860469",
+    "gameExpansions": [
+      268435456,
+      0,
+      8589934592,
+      17179869184
+    ],
+    "mapMode": "512",
+    "ip": "128.0.115.167",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1633665508,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 32
+      }
+    },
+    "guid": "ad6d28dd-6648-4f4c-810b-2436e428a803",
+    "port": 38000,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "268435456",
+    "name": "AUS / THP / Tag Hunting Party - GunMaster / 32 /",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "MP_TheDish",
     "gameId": "36028797037860406",
     "gameExpansions": [
@@ -292,7 +357,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633665072,
+    "updatedAt": 1633665471,
     "slots": {
       "8": {
         "current": 0,
@@ -358,7 +423,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633665088,
+    "updatedAt": 1633665487,
     "slots": {
       "8": {
         "current": 0,
@@ -369,7 +434,7 @@
         "max": 20
       },
       "2": {
-        "current": 20,
+        "current": 26,
         "max": 48
       },
       "4": {
@@ -405,11 +470,11 @@
     "country": "au"
   },
   {
-    "map": "XP0_Firestorm",
+    "map": "MP_Naval",
     "gameId": "18014398528368323",
     "gameExpansions": [
-      524288,
       0,
+      524288,
       2097152,
       1048576,
       4194304
@@ -428,7 +493,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633665072,
+    "updatedAt": 1633665471,
     "slots": {
       "8": {
         "current": 0,
@@ -451,7 +516,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "0",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,

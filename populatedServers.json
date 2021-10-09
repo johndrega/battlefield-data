@@ -1,68 +1,6 @@
 [
   {
-    "map": "MP_Flooded",
-    "gameId": "18014398528383597",
-    "gameExpansions": [
-      0
-    ],
-    "mapMode": "512",
-    "ip": "108.61.227.192",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1633818280,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 2,
-        "max": 24
-      }
-    },
-    "guid": "00569787-e5f9-431d-89eb-03c5914e0099",
-    "port": 30040,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "[BMNK] Battlemonks [BMNK]",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 30,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 8,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "XP4_WlkrFtry",
+    "map": "XP4_SubBase",
     "gameId": "18014398528370297",
     "gameExpansions": [
       8388608,
@@ -84,14 +22,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633818280,
+    "updatedAt": 1633818922,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 1,
+        "current": 0,
         "max": 20
       },
       "2": {
@@ -131,15 +69,10 @@
     "country": "au"
   },
   {
-    "map": "XP1_001",
-    "gameId": "36028797037875401",
+    "map": "MP_Damage",
+    "gameId": "36028797037875399",
     "gameExpansions": [
-      1048576,
-      524288,
-      4194304,
-      8388608,
-      8589934592,
-      2097152
+      0
     ],
     "mapMode": "64",
     "ip": "103.193.80.30",
@@ -155,7 +88,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633818280,
+    "updatedAt": 1633818934,
     "slots": {
       "8": {
         "current": 0,
@@ -166,7 +99,7 @@
         "max": 20
       },
       "2": {
-        "current": 1,
+        "current": 42,
         "max": 64
       },
       "4": {
@@ -174,12 +107,12 @@
         "max": 2
       }
     },
-    "guid": "aae289d7-d58b-4c72-ac89-f062424ee035",
-    "port": 25600,
+    "guid": "aefb50eb-944d-4535-aba5-6e0a98fb9d9d",
+    "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "1048576",
-    "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
+    "gameExpansion": "0",
+    "name": "! [FPSG] Classic Maps Rotation 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -203,12 +136,12 @@
   },
   {
     "map": "MP_Damage",
-    "gameId": "36028797037875399",
+    "gameId": "18014398528383616",
     "gameExpansions": [
       0
     ],
     "mapMode": "64",
-    "ip": "103.193.80.30",
+    "ip": "108.61.227.145",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -221,38 +154,38 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633818280,
+    "updatedAt": 1633818935,
     "slots": {
       "8": {
         "current": 0,
-        "max": 2
+        "max": 0
       },
       "1": {
         "current": 0,
         "max": 20
       },
       "2": {
-        "current": 38,
-        "max": 64
+        "current": 4,
+        "max": 48
       },
       "4": {
         "current": 0,
         "max": 2
       }
     },
-    "guid": "aefb50eb-944d-4535-aba5-6e0a98fb9d9d",
-    "port": 25200,
+    "guid": "d4ccf31d-03d2-4ce6-b48e-84f6c29bed59",
+    "port": 30000,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "! [FPSG] Classic Maps Rotation 1000 Tickets! fpsgamerz.com",
+    "name": "=MBT= Armored Warfare | Conquest Classics",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
     "serverType": 2,
-    "experience": 0,
+    "experience": 1,
     "tickRate": 60,
     "hasPassword": 0,
     "maps": {

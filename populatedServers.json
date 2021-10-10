@@ -1,11 +1,11 @@
 [
   {
-    "map": "MP_Resort",
+    "map": "XP3_WtrFront",
     "gameId": "36028797037875026",
     "gameExpansions": [
+      4194304,
       0,
-      524288,
-      4194304
+      524288
     ],
     "mapMode": "64",
     "ip": "103.193.80.27",
@@ -21,7 +21,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633887663,
+    "updatedAt": 1633888255,
     "slots": {
       "8": {
         "current": 0,
@@ -44,7 +44,7 @@
     "port": 26200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "4194304",
     "name": "! ! ! ! Water Bottle [2042] - Classic/Mixed DLC Maps ! ! ! !",
     "settings": {},
     "fairfight": 1,
@@ -68,7 +68,7 @@
     "country": "au"
   },
   {
-    "map": "XP0_Oman",
+    "map": "XP0_Firestorm",
     "gameId": "18014398528385368",
     "gameExpansions": [
       524288,
@@ -90,7 +90,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633887794,
+    "updatedAt": 1633888255,
     "slots": {
       "8": {
         "current": 0,
@@ -101,7 +101,7 @@
         "max": 20
       },
       "2": {
-        "current": 50,
+        "current": 42,
         "max": 64
       },
       "4": {
@@ -137,72 +137,6 @@
     "country": "au"
   },
   {
-    "map": "MP_Resort",
-    "gameId": "36028797037857069",
-    "gameExpansions": [
-      0
-    ],
-    "mapMode": "64",
-    "ip": "103.193.80.27",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1633887663,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 2
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 1,
-        "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
-      }
-    },
-    "guid": "d066ab27-19c9-4487-be50-5e6eb1c89b7b",
-    "port": 26500,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! ! . [CG] CONQUEST ALL WELCOME | NOOB BOOTCAMP",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 8,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
     "map": "MP_Siege",
     "gameId": "18014398528385765",
     "gameExpansions": [
@@ -222,7 +156,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1633887783,
+    "updatedAt": 1633888255,
     "slots": {
       "8": {
         "current": 0,
@@ -233,7 +167,7 @@
         "max": 20
       },
       "2": {
-        "current": 27,
+        "current": 31,
         "max": 48
       },
       "4": {
@@ -265,73 +199,6 @@
     },
     "secret": "",
     "preset": 1,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "XP0_Caspian",
-    "gameId": "36028797037857067",
-    "gameExpansions": [
-      524288,
-      0,
-      4194304,
-      1048576,
-      8388608,
-      2097152
-    ],
-    "mapMode": "64",
-    "ip": "103.193.80.29",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1633887663,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 2
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 3,
-        "max": 64
-      }
-    },
-    "guid": "fac7b38d-6d74-4e54-822d-3ff2a8af59ad",
-    "port": 25300,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "524288",
-    "name": "! ! . O C E A N I A 365 . | Active Admins | Conquest Mixed",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   }

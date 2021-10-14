@@ -1,5 +1,71 @@
 [
   {
+    "map": "MP_Siege",
+    "gameId": "36028797037900080",
+    "gameExpansions": [
+      0
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.30",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1634180327,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "1bc6f2c7-8323-41e2-8897-8f35ef2e89db",
+    "port": 25700,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! [FPSG] 24/7 Siege of Shanghai 1000 Tickets! fpsgamerz.com",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "XP2_001",
     "gameId": "36028797037878526",
     "gameExpansions": [
@@ -24,7 +90,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634179850,
+    "updatedAt": 1634180326,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +101,7 @@
         "max": 20
       },
       "2": {
-        "current": 24,
+        "current": 32,
         "max": 64
       },
       "4": {
@@ -92,14 +158,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634179870,
+    "updatedAt": 1634180326,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 2,
+        "current": 0,
         "max": 20
       },
       "2": {
@@ -139,6 +205,72 @@
     "country": "au"
   },
   {
+    "map": "MP_Damage",
+    "gameId": "18014398528402653",
+    "gameExpansions": [
+      0
+    ],
+    "mapMode": "64",
+    "ip": "108.61.227.168",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1634180327,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 2,
+        "max": 8
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "996adbc5-9c76-45b5-a4a0-32d950ffa51b",
+    "port": 30000,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! [FPSG] Classic Jasons Gay-G-Banger GRINDER  fpsgays.com",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 1,
+    "experience": 0,
+    "tickRate": 30,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "MP_Prison",
     "gameId": "36028797037900082",
     "gameExpansions": [
@@ -158,18 +290,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634179864,
+    "updatedAt": 1634180335,
     "slots": {
       "8": {
         "current": 0,
         "max": 4
       },
       "1": {
-        "current": 2,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 54,
         "max": 64
       }
     },
@@ -201,13 +333,13 @@
     "country": "au"
   },
   {
-    "map": "XP3_WtrFront",
+    "map": "XP4_Arctic",
     "gameId": "36028797037900083",
     "gameExpansions": [
-      4194304,
-      524288,
-      1048576,
       8388608,
+      524288,
+      4194304,
+      1048576,
       8589934592,
       2097152
     ],
@@ -225,18 +357,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634179867,
+    "updatedAt": 1634180336,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 4,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 47,
         "max": 64
       },
       "4": {
@@ -248,7 +380,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
+    "gameExpansion": "8388608",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -272,7 +404,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
+    "map": "MP_Resort",
     "gameId": "36028797037900081",
     "gameExpansions": [
       0
@@ -291,18 +423,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634179853,
+    "updatedAt": 1634180331,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 5,
+        "current": 3,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 63,
         "max": 64
       },
       "4": {
@@ -338,138 +470,6 @@
     "country": "au"
   },
   {
-    "map": "MP_TheDish",
-    "gameId": "18014398528408281",
-    "gameExpansions": [
-      0
-    ],
-    "mapMode": "64",
-    "ip": "103.193.80.30",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1634179740,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 2
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 1,
-        "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
-      }
-    },
-    "guid": "cacf6662-e88c-4829-8192-06382517b7e4",
-    "port": 25300,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! [FPSG] Classic Maps Rotation 2 1000 Tickets fpsgamerz.com",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 1,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "MP_Siege",
-    "gameId": "36028797037857069",
-    "gameExpansions": [
-      0
-    ],
-    "mapMode": "64",
-    "ip": "103.193.80.27",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1634179747,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 2
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 1,
-        "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
-      }
-    },
-    "guid": "d066ab27-19c9-4487-be50-5e6eb1c89b7b",
-    "port": 26500,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! ! . [CG] CONQUEST ALL WELCOME | NOOB BOOTCAMP",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 8,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
     "map": "MP_Damage",
     "gameId": "18014398528408871",
     "gameExpansions": [
@@ -489,7 +489,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634179833,
+    "updatedAt": 1634180327,
     "slots": {
       "8": {
         "current": 0,
@@ -500,7 +500,7 @@
         "max": 20
       },
       "2": {
-        "current": 4,
+        "current": 1,
         "max": 48
       },
       "4": {
@@ -532,6 +532,68 @@
     },
     "secret": "",
     "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Prison",
+    "gameId": "18014398528386262",
+    "gameExpansions": [
+      0
+    ],
+    "mapMode": "1",
+    "ip": "103.193.80.27",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1634180327,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 4,
+        "max": 62
+      }
+    },
+    "guid": "e6d53b11-d846-4786-b437-9435b7f99fd5",
+    "port": 25900,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! [AUS] 120 TICK | LOCKERS/METRO | REAL HC | FAST EXP",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 120,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   }

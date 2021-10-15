@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634334756,
+    "updatedAt": 1634335177,
     "slots": {
       "8": {
         "current": 0,
@@ -92,7 +92,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634334756,
+    "updatedAt": 1634335169,
     "slots": {
       "8": {
         "current": 0,
@@ -139,10 +139,15 @@
     "country": "au"
   },
   {
-    "map": "MP_Prison",
-    "gameId": "36028797037920873",
+    "map": "XP1_001",
+    "gameId": "36028797037920874",
     "gameExpansions": [
-      0
+      1048576,
+      524288,
+      4194304,
+      8388608,
+      8589934592,
+      2097152
     ],
     "mapMode": "64",
     "ip": "103.193.80.30",
@@ -158,11 +163,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634334756,
+    "updatedAt": 1634335168,
     "slots": {
       "8": {
         "current": 0,
-        "max": 4
+        "max": 2
       },
       "1": {
         "current": 0,
@@ -171,14 +176,18 @@
       "2": {
         "current": 1,
         "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
       }
     },
-    "guid": "9c435b6c-f3a0-4e25-9417-31995c85d633",
-    "port": 25500,
+    "guid": "aae289d7-d58b-4c72-ac89-f062424ee035",
+    "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! [FPSG] 24/7 Operation Lockers 2000 Tickets! fpsgamerz.com",
+    "gameExpansion": "1048576",
+    "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -220,7 +229,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634334756,
+    "updatedAt": 1634335215,
     "slots": {
       "8": {
         "current": 0,
@@ -231,7 +240,7 @@
         "max": 20
       },
       "2": {
-        "current": 13,
+        "current": 27,
         "max": 64
       },
       "4": {
@@ -267,7 +276,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Damage",
+    "map": "MP_Siege",
     "gameId": "36028797037914920",
     "gameExpansions": [
       0
@@ -286,7 +295,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634334760,
+    "updatedAt": 1634335232,
     "slots": {
       "8": {
         "current": 0,
@@ -297,7 +306,7 @@
         "max": 20
       },
       "2": {
-        "current": 1,
+        "current": 5,
         "max": 48
       },
       "4": {
@@ -329,6 +338,75 @@
     },
     "secret": "",
     "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "XP6_CMP",
+    "gameId": "36028797037914914",
+    "gameExpansions": [
+      8589934592,
+      0,
+      1048576,
+      524288,
+      268435456,
+      4194304,
+      8388608,
+      17179869184
+    ],
+    "mapMode": "512",
+    "ip": "108.61.227.192",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1634335203,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 2,
+        "max": 32
+      }
+    },
+    "guid": "f28900b4-2a2d-4e3f-a251-3825a841c393",
+    "port": 30020,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "8589934592",
+    "name": "[BFS] Custom Mixed-Mode | Real HC | Votemap | Active Admins",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   }

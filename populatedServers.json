@@ -1,12 +1,12 @@
 [
   {
-    "map": "XP1_004",
+    "map": "XP0_Caspian",
     "gameId": "18014398528449424",
     "gameExpansions": [
-      1048576,
+      524288,
       0,
       4194304,
-      524288,
+      1048576,
       8388608,
       2097152
     ],
@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634917029,
+    "updatedAt": 1634917697,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 14,
+        "current": 8,
         "max": 64
       },
       "4": {
@@ -47,7 +47,7 @@
     "port": 25800,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "1048576",
+    "gameExpansion": "524288",
     "name": "! !  . O C E A N I A 365 . | Active Admins | All Conquest Maps",
     "settings": {},
     "fairfight": 1,
@@ -71,11 +71,11 @@
     "country": "au"
   },
   {
-    "map": "XP0_Metro",
+    "map": "MP_Siege",
     "gameId": "36028797037941232",
     "gameExpansions": [
-      524288,
       0,
+      524288,
       4194304,
       1048576,
       8388608,
@@ -95,7 +95,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634917038,
+    "updatedAt": 1634917715,
     "slots": {
       "8": {
         "current": 0,
@@ -106,7 +106,7 @@
         "max": 20
       },
       "2": {
-        "current": 13,
+        "current": 7,
         "max": 42
       }
     },
@@ -114,7 +114,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "0",
     "name": "! ! . O C E A N I A365 . | Active Admins | Custom HC | Infantry",
     "settings": {},
     "fairfight": 1,
@@ -159,7 +159,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634917029,
+    "updatedAt": 1634917697,
     "slots": {
       "8": {
         "current": 0,
@@ -170,7 +170,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 1,
         "max": 64
       },
       "4": {
@@ -206,7 +206,7 @@
     "country": "au"
   },
   {
-    "map": "XP4_WlkrFtry",
+    "map": "XP4_SubBase",
     "gameId": "36028797037941872",
     "gameExpansions": [
       8388608,
@@ -228,14 +228,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634917030,
+    "updatedAt": 1634917712,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 4,
+        "current": 7,
         "max": 20
       },
       "2": {
@@ -290,7 +290,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634917029,
+    "updatedAt": 1634917713,
     "slots": {
       "8": {
         "current": 0,
@@ -301,7 +301,7 @@
         "max": 20
       },
       "2": {
-        "current": 30,
+        "current": 32,
         "max": 64
       }
     },
@@ -352,7 +352,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634917029,
+    "updatedAt": 1634917697,
     "slots": {
       "8": {
         "current": 0,
@@ -363,7 +363,7 @@
         "max": 20
       },
       "2": {
-        "current": 7,
+        "current": 6,
         "max": 64
       },
       "4": {
@@ -418,18 +418,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634917046,
+    "updatedAt": 1634917697,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 0,
+        "current": 2,
         "max": 20
       },
       "2": {
-        "current": 44,
+        "current": 48,
         "max": 48
       },
       "4": {
@@ -465,18 +465,20 @@
     "country": "au"
   },
   {
-    "map": "MP_Damage",
-    "gameId": "36028797037941231",
+    "map": "MP_Prison",
+    "gameId": "36028797037941410",
     "gameExpansions": [
       0,
       524288,
-      4194304,
       1048576,
+      268435456,
+      4194304,
       8388608,
-      2097152
+      8589934592,
+      17179869184
     ],
-    "mapMode": "64",
-    "ip": "103.193.80.29",
+    "mapMode": "1024",
+    "ip": "108.61.227.192",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -489,27 +491,27 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1634917029,
+    "updatedAt": 1634917697,
     "slots": {
       "8": {
         "current": 0,
-        "max": 2
+        "max": 0
       },
       "1": {
         "current": 0,
         "max": 20
       },
       "2": {
-        "current": 3,
-        "max": 64
+        "current": 1,
+        "max": 32
       }
     },
-    "guid": "fac7b38d-6d74-4e54-822d-3ff2a8af59ad",
-    "port": 25300,
+    "guid": "f28900b4-2a2d-4e3f-a251-3825a841c393",
+    "port": 30020,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "! ! . O C E A N I A 365 . | Active Admins | Conquest Mixed",
+    "name": "[BFS] Custom Mixed-Mode | Real HC | Votemap | Active Admins",
     "settings": {},
     "fairfight": 1,
     "region": 64,

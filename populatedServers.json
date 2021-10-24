@@ -1,12 +1,14 @@
 [
   {
-    "map": "MP_Tremors",
-    "gameId": "36028797037957548",
+    "map": "MP_Damage",
+    "gameId": "18014398528448950",
     "gameExpansions": [
-      0
+      0,
+      524288,
+      1048576
     ],
-    "mapMode": "32",
-    "ip": "109.200.214.230",
+    "mapMode": "64",
+    "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -19,27 +21,31 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635108512,
+    "updatedAt": 1635108980,
     "slots": {
       "8": {
         "current": 0,
-        "max": 0
+        "max": 2
       },
       "1": {
         "current": 0,
         "max": 20
       },
       "2": {
-        "current": 1,
-        "max": 32
+        "current": 2,
+        "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
       }
     },
-    "guid": "78af7202-bcd3-4933-8e33-6e3564fab6c7",
-    "port": 25560,
+    "guid": "98576e31-79d5-4fd3-8836-f6c26fb09b45",
+    "port": 26200,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "[OCE] Small Format TDM + Dom | Good Maps | sonsofvalour.net",
+    "name": "! ! ! ! Water Bottle - Classic/DLC maps [2042] ! ! ! !",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -57,7 +63,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   },
@@ -86,7 +92,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635108512,
+    "updatedAt": 1635108980,
     "slots": {
       "8": {
         "current": 0,
@@ -97,7 +103,7 @@
         "max": 20
       },
       "2": {
-        "current": 11,
+        "current": 13,
         "max": 64
       },
       "4": {
@@ -152,7 +158,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635108512,
+    "updatedAt": 1635108980,
     "slots": {
       "8": {
         "current": 0,

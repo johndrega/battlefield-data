@@ -1,16 +1,16 @@
 [
   {
-    "map": "XP0_Firestorm",
+    "map": "XP1_001",
     "gameId": "18014398528490557",
     "gameExpansions": [
-      524288,
+      1048576,
       0,
       4194304,
-      1048576,
+      524288,
       8388608,
       2097152
     ],
-    "mapMode": "32",
+    "mapMode": "1024",
     "ip": "108.61.227.223",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635513982,
+    "updatedAt": 1635514692,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 11,
+        "current": 8,
         "max": 14
       }
     },
@@ -43,7 +43,7 @@
     "port": 30010,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "1048576",
     "name": "Adelaide Beer & Pizza CLASSIC MODE **DOM | TDM **",
     "settings": {},
     "fairfight": 1,
@@ -86,7 +86,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635513962,
+    "updatedAt": 1635514677,
     "slots": {
       "8": {
         "current": 0,
@@ -157,18 +157,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635513986,
+    "updatedAt": 1635514681,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 0,
+        "current": 3,
         "max": 20
       },
       "2": {
-        "current": 61,
+        "current": 63,
         "max": 64
       },
       "4": {
@@ -228,7 +228,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635513987,
+    "updatedAt": 1635514690,
     "slots": {
       "8": {
         "current": 0,
@@ -239,7 +239,7 @@
         "max": 20
       },
       "2": {
-        "current": 41,
+        "current": 38,
         "max": 42
       }
     },
@@ -290,7 +290,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635513962,
+    "updatedAt": 1635514677,
     "slots": {
       "8": {
         "current": 0,
@@ -301,7 +301,7 @@
         "max": 20
       },
       "2": {
-        "current": 6,
+        "current": 8,
         "max": 8
       },
       "4": {
@@ -337,74 +337,6 @@
     "country": "au"
   },
   {
-    "map": "XP0_Oman",
-    "gameId": "18014398528490465",
-    "gameExpansions": [
-      524288,
-      0,
-      1048576
-    ],
-    "mapMode": "64",
-    "ip": "103.193.80.27",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1635513962,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 2
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 20,
-        "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
-      }
-    },
-    "guid": "98576e31-79d5-4fd3-8836-f6c26fb09b45",
-    "port": 26200,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "524288",
-    "name": "! ! ! ! Water Bottle - Classic/DLC maps [2042] ! ! ! !",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 8,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
     "map": "MP_Prison",
     "gameId": "36028797037982255",
     "gameExpansions": [
@@ -424,7 +356,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635513982,
+    "updatedAt": 1635514690,
     "slots": {
       "8": {
         "current": 0,
@@ -435,7 +367,7 @@
         "max": 20
       },
       "2": {
-        "current": 60,
+        "current": 64,
         "max": 64
       }
     },
@@ -467,15 +399,15 @@
     "country": "au"
   },
   {
-    "map": "XP0_Metro",
+    "map": "XP2_003",
     "gameId": "36028797037982239",
     "gameExpansions": [
+      2097152,
       524288,
-      8589934592,
-      4194304,
       1048576,
       8388608,
-      2097152
+      8589934592,
+      4194304
     ],
     "mapMode": "64",
     "ip": "103.193.80.30",
@@ -491,18 +423,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635513962,
+    "updatedAt": 1635514677,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 4,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 63,
         "max": 64
       },
       "4": {
@@ -514,7 +446,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "2097152",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -557,18 +489,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635513985,
+    "updatedAt": 1635514685,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 3,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 62,
         "max": 64
       },
       "4": {
@@ -623,7 +555,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635513964,
+    "updatedAt": 1635514699,
     "slots": {
       "8": {
         "current": 0,
@@ -634,7 +566,7 @@
         "max": 20
       },
       "2": {
-        "current": 46,
+        "current": 41,
         "max": 64
       }
     },
@@ -685,7 +617,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635513963,
+    "updatedAt": 1635514677,
     "slots": {
       "8": {
         "current": 0,
@@ -696,7 +628,7 @@
         "max": 20
       },
       "2": {
-        "current": 19,
+        "current": 16,
         "max": 48
       },
       "4": {
@@ -751,7 +683,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635513962,
+    "updatedAt": 1635514677,
     "slots": {
       "8": {
         "current": 0,
@@ -819,7 +751,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635513962,
+    "updatedAt": 1635514677,
     "slots": {
       "8": {
         "current": 0,
@@ -884,7 +816,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635513979,
+    "updatedAt": 1635514677,
     "slots": {
       "8": {
         "current": 0,
@@ -895,7 +827,7 @@
         "max": 20
       },
       "2": {
-        "current": 42,
+        "current": 49,
         "max": 62
       },
       "4": {

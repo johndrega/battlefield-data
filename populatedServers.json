@@ -1,16 +1,16 @@
 [
   {
-    "map": "XP3_Prpganda",
+    "map": "MP_Abandoned",
     "gameId": "18014398528509310",
     "gameExpansions": [
-      4194304,
       0,
-      1048576,
       524288,
+      4194304,
+      1048576,
       8388608,
       2097152
     ],
-    "mapMode": "32",
+    "mapMode": "1024",
     "ip": "108.61.227.223",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635754693,
+    "updatedAt": 1635755747,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 12,
+        "current": 14,
         "max": 14
       }
     },
@@ -43,7 +43,7 @@
     "port": 30010,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
+    "gameExpansion": "0",
     "name": "Adelaide Beer & Pizza CLASSIC MODE **DOM | TDM **",
     "settings": {},
     "fairfight": 1,
@@ -67,15 +67,15 @@
     "country": "au"
   },
   {
-    "map": "MP_Naval",
+    "map": "XP2_002",
     "gameId": "18014398528507152",
     "gameExpansions": [
+      2097152,
       0,
-      524288,
-      4194304,
       1048576,
+      524288,
       8388608,
-      2097152
+      4194304
     ],
     "mapMode": "64",
     "ip": "103.193.80.29",
@@ -91,14 +91,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635754717,
+    "updatedAt": 1635755826,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 6,
+        "current": 1,
         "max": 20
       },
       "2": {
@@ -114,7 +114,7 @@
     "port": 25800,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "2097152",
     "name": "! !  . O C E A N I A 365 . | Active Admins | All Conquest Maps",
     "settings": {},
     "fairfight": 1,
@@ -138,17 +138,17 @@
     "country": "au"
   },
   {
-    "map": "MP_Prison",
+    "map": "XP0_Metro",
     "gameId": "18014398528507179",
     "gameExpansions": [
-      0,
       524288,
+      0,
       4194304,
       1048576,
       8388608,
       2097152
     ],
-    "mapMode": "2097152",
+    "mapMode": "524288",
     "ip": "103.193.80.29",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -162,7 +162,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635754716,
+    "updatedAt": 1635755826,
     "slots": {
       "8": {
         "current": 0,
@@ -173,7 +173,7 @@
         "max": 20
       },
       "2": {
-        "current": 21,
+        "current": 23,
         "max": 42
       }
     },
@@ -181,7 +181,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "524288",
     "name": "! ! . O C E A N I A365 . | Active Admins | Custom HC | Infantry",
     "settings": {},
     "fairfight": 1,
@@ -224,18 +224,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635754731,
+    "updatedAt": 1635755831,
     "slots": {
       "8": {
         "current": 0,
         "max": 4
       },
       "1": {
-        "current": 5,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 48,
         "max": 64
       }
     },
@@ -291,18 +291,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635754735,
+    "updatedAt": 1635755800,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 3,
+        "current": 6,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 63,
         "max": 64
       },
       "4": {
@@ -357,14 +357,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635754736,
+    "updatedAt": 1635755833,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 4,
+        "current": 5,
         "max": 20
       },
       "2": {
@@ -423,7 +423,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635754710,
+    "updatedAt": 1635755816,
     "slots": {
       "8": {
         "current": 0,
@@ -434,7 +434,7 @@
         "max": 20
       },
       "2": {
-        "current": 33,
+        "current": 58,
         "max": 64
       }
     },
@@ -466,12 +466,12 @@
     "country": "au"
   },
   {
-    "map": "XP7_Valley",
+    "map": "XP6_CMP",
     "gameId": "36028797037955252",
     "gameExpansions": [
-      17179869184,
-      0,
       8589934592,
+      0,
+      17179869184,
       268435456
     ],
     "mapMode": "512",
@@ -488,7 +488,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635754693,
+    "updatedAt": 1635755809,
     "slots": {
       "8": {
         "current": 0,
@@ -499,7 +499,7 @@
         "max": 20
       },
       "2": {
-        "current": 13,
+        "current": 6,
         "max": 16
       }
     },
@@ -507,7 +507,7 @@
     "port": 30000,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "17179869184",
+    "gameExpansion": "8589934592",
     "name": "Firing Blanks Will Not Save You",
     "settings": {},
     "fairfight": 1,
@@ -550,22 +550,22 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635754731,
+    "updatedAt": 1635755837,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 1,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 48,
+        "current": 45,
         "max": 48
       },
       "4": {
-        "current": 1,
+        "current": 0,
         "max": 2
       }
     },
@@ -616,7 +616,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635754693,
+    "updatedAt": 1635755705,
     "slots": {
       "8": {
         "current": 0,
@@ -627,7 +627,7 @@
         "max": 20
       },
       "2": {
-        "current": 1,
+        "current": 2,
         "max": 62
       }
     },
@@ -659,12 +659,12 @@
     "country": "au"
   },
   {
-    "map": "MP_Abandoned",
+    "map": "XP3_MarketPl",
     "gameId": "36028797038001572",
     "gameExpansions": [
+      4194304,
       0,
       524288,
-      4194304,
       2097152
     ],
     "mapMode": "64",
@@ -681,18 +681,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635754714,
+    "updatedAt": 1635755823,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 1,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 62,
+        "current": 50,
         "max": 62
       },
       "4": {
@@ -704,7 +704,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "4194304",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,
@@ -728,7 +728,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Journey",
+    "map": "MP_Tremors",
     "gameId": "36028797037998963",
     "gameExpansions": [
       0,
@@ -752,7 +752,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1635754726,
+    "updatedAt": 1635755769,
     "slots": {
       "8": {
         "current": 0,
@@ -763,7 +763,7 @@
         "max": 20
       },
       "2": {
-        "current": 12,
+        "current": 16,
         "max": 64
       }
     },

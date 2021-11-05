@@ -1,6 +1,6 @@
 [
   {
-    "map": "MP_Damage",
+    "map": "MP_Siege",
     "gameId": "18014398528544742",
     "gameExpansions": [
       0,
@@ -10,7 +10,7 @@
       8388608,
       2097152
     ],
-    "mapMode": "1024",
+    "mapMode": "512",
     "ip": "103.193.80.29",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636132027,
+    "updatedAt": 1636133429,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 8,
+        "current": 3,
         "max": 42
       }
     },
@@ -86,7 +86,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636131968,
+    "updatedAt": 1636133432,
     "slots": {
       "8": {
         "current": 0,
@@ -97,7 +97,7 @@
         "max": 20
       },
       "2": {
-        "current": 6,
+        "current": 4,
         "max": 64
       }
     },
@@ -129,18 +129,13 @@
     "country": "au"
   },
   {
-    "map": "XP1_004",
-    "gameId": "36028797038040094",
+    "map": "MP_Siege",
+    "gameId": "36028797038041240",
     "gameExpansions": [
-      1048576,
-      0,
-      4194304,
-      524288,
-      8388608,
-      2097152
+      0
     ],
     "mapMode": "64",
-    "ip": "103.193.80.27",
+    "ip": "103.193.80.30",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -153,11 +148,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636132023,
+    "updatedAt": 1636133429,
     "slots": {
       "8": {
         "current": 0,
-        "max": 0
+        "max": 2
       },
       "1": {
         "current": 0,
@@ -172,20 +167,20 @@
         "max": 2
       }
     },
-    "guid": "bb1f83ca-0400-499e-a560-b769334c8de8",
+    "guid": "aefb50eb-944d-4535-aba5-6e0a98fb9d9d",
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "1048576",
-    "name": "BATTLEFIELD 2020 || Admiral Chang's War",
+    "gameExpansion": "0",
+    "name": "! [FPSG] Classic Maps Rotation 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 1,
-    "experience": 54,
-    "tickRate": 45,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -196,7 +191,7 @@
     },
     "secret": "",
     "preset": 1,
-    "pingSite": "nrt",
+    "pingSite": "syd",
     "country": "au"
   }
 ]

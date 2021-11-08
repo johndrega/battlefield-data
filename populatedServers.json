@@ -1,6 +1,6 @@
 [
   {
-    "map": "MP_Naval",
+    "map": "MP_Damage",
     "gameId": "36028797038039442",
     "gameExpansions": [
       0
@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636369990,
+    "updatedAt": 1636370765,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +30,7 @@
         "max": 20
       },
       "2": {
-        "current": 5,
+        "current": 4,
         "max": 32
       },
       "4": {
@@ -66,13 +66,13 @@
     "country": "au"
   },
   {
-    "map": "XP3_WtrFront",
+    "map": "XP0_Caspian",
     "gameId": "18014398528548352",
     "gameExpansions": [
-      4194304,
-      0,
-      1048576,
       524288,
+      0,
+      4194304,
+      1048576,
       8388608,
       2097152
     ],
@@ -90,7 +90,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636369999,
+    "updatedAt": 1636370765,
     "slots": {
       "8": {
         "current": 0,
@@ -101,7 +101,7 @@
         "max": 20
       },
       "2": {
-        "current": 62,
+        "current": 49,
         "max": 64
       },
       "4": {
@@ -113,7 +113,7 @@
     "port": 25800,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
+    "gameExpansion": "524288",
     "name": "! !  . O C E A N I A 365 . | Active Admins | All Conquest Maps",
     "settings": {},
     "fairfight": 1,
@@ -161,7 +161,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636370001,
+    "updatedAt": 1636370765,
     "slots": {
       "8": {
         "current": 0,
@@ -172,7 +172,7 @@
         "max": 20
       },
       "2": {
-        "current": 38,
+        "current": 42,
         "max": 42
       }
     },
@@ -223,10 +223,10 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636369990,
+    "updatedAt": 1636370765,
     "slots": {
       "8": {
-        "current": 0,
+        "current": 1,
         "max": 4
       },
       "1": {
@@ -234,7 +234,7 @@
         "max": 20
       },
       "2": {
-        "current": 55,
+        "current": 64,
         "max": 64
       }
     },
@@ -266,15 +266,15 @@
     "country": "au"
   },
   {
-    "map": "XP0_Metro",
+    "map": "XP2_003",
     "gameId": "18014398528583464",
     "gameExpansions": [
+      2097152,
       524288,
-      8589934592,
-      4194304,
       1048576,
       8388608,
-      2097152
+      8589934592,
+      4194304
     ],
     "mapMode": "64",
     "ip": "103.193.80.30",
@@ -290,18 +290,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636370011,
+    "updatedAt": 1636370765,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 2,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 50,
         "max": 64
       },
       "4": {
@@ -313,7 +313,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "2097152",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -356,7 +356,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636370011,
+    "updatedAt": 1636370766,
     "slots": {
       "8": {
         "current": 0,
@@ -367,7 +367,7 @@
         "max": 20
       },
       "2": {
-        "current": 62,
+        "current": 63,
         "max": 64
       },
       "4": {
@@ -403,77 +403,6 @@
     "country": "au"
   },
   {
-    "map": "XP4_SubBase",
-    "gameId": "36028797038040094",
-    "gameExpansions": [
-      8388608,
-      0,
-      4194304,
-      524288,
-      1048576,
-      2097152
-    ],
-    "mapMode": "64",
-    "ip": "103.193.80.27",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1636369990,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 1,
-        "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
-      }
-    },
-    "guid": "bb1f83ca-0400-499e-a560-b769334c8de8",
-    "port": 25200,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "8388608",
-    "name": "[EA] BATTLEFIELD 2020 || Admiral Chang's War",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 1,
-    "experience": 54,
-    "tickRate": 45,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 1,
-    "pingSite": "nrt",
-    "country": "au"
-  },
-  {
     "map": "MP_Siege",
     "gameId": "18014398528582633",
     "gameExpansions": [
@@ -493,18 +422,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636370010,
+    "updatedAt": 1636370765,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 2,
         "max": 20
       },
       "2": {
-        "current": 59,
+        "current": 63,
         "max": 64
       }
     },
@@ -555,7 +484,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636369990,
+    "updatedAt": 1636370765,
     "slots": {
       "8": {
         "current": 0,
@@ -624,18 +553,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636369991,
+    "updatedAt": 1636370765,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 1,
         "max": 20
       },
       "2": {
-        "current": 58,
+        "current": 62,
         "max": 62
       },
       "4": {
@@ -671,13 +600,13 @@
     "country": "au"
   },
   {
-    "map": "XP1_003",
+    "map": "MP_Abandoned",
     "gameId": "18014398528583131",
     "gameExpansions": [
-      1048576,
       0,
-      4194304,
       524288,
+      4194304,
+      1048576,
       8388608,
       2097152
     ],
@@ -695,7 +624,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636370012,
+    "updatedAt": 1636370765,
     "slots": {
       "8": {
         "current": 0,
@@ -706,7 +635,7 @@
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 62,
         "max": 64
       }
     },
@@ -714,7 +643,7 @@
     "port": 25300,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "1048576",
+    "gameExpansion": "0",
     "name": "! ! . O C E A N I A 365 . | Active Admins | Conquest Mixed",
     "settings": {},
     "fairfight": 1,

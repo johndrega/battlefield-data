@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636620864,
+    "updatedAt": 1636621681,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +30,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 1,
         "max": 64
       },
       "4": {
@@ -90,7 +90,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636620864,
+    "updatedAt": 1636621680,
     "slots": {
       "8": {
         "current": 0,
@@ -101,7 +101,7 @@
         "max": 20
       },
       "2": {
-        "current": 38,
+        "current": 42,
         "max": 42
       }
     },
@@ -152,18 +152,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636620876,
+    "updatedAt": 1636621680,
     "slots": {
       "8": {
         "current": 0,
         "max": 4
       },
       "1": {
-        "current": 2,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 47,
         "max": 64
       }
     },
@@ -195,13 +195,13 @@
     "country": "au"
   },
   {
-    "map": "XP4_Arctic",
+    "map": "XP1_002",
     "gameId": "36028797038096655",
     "gameExpansions": [
-      8388608,
+      1048576,
       524288,
       4194304,
-      1048576,
+      8388608,
       8589934592,
       2097152
     ],
@@ -219,14 +219,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636620864,
+    "updatedAt": 1636621683,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 8,
+        "current": 5,
         "max": 20
       },
       "2": {
@@ -242,7 +242,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "8388608",
+    "gameExpansion": "1048576",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -266,7 +266,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Abandoned",
+    "map": "MP_Tremors",
     "gameId": "36028797038096654",
     "gameExpansions": [
       0
@@ -285,22 +285,22 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636620866,
+    "updatedAt": 1636621682,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 4,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 51,
         "max": 64
       },
       "4": {
-        "current": 1,
+        "current": 0,
         "max": 2
       }
     },
@@ -332,7 +332,78 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
+    "map": "XP2_002",
+    "gameId": "36028797038040094",
+    "gameExpansions": [
+      2097152,
+      0,
+      1048576,
+      524288,
+      8388608,
+      4194304
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.27",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1636621681,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "bb1f83ca-0400-499e-a560-b769334c8de8",
+    "port": 25200,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "2097152",
+    "name": "[EA] Battlefield 2020 | Admiral Chang's War",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 1,
+    "experience": 54,
+    "tickRate": 45,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
+    "pingSite": "nrt",
+    "country": "au"
+  },
+  {
+    "map": "MP_Flooded",
     "gameId": "18014398528582633",
     "gameExpansions": [
       0
@@ -351,18 +422,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636620862,
+    "updatedAt": 1636621681,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 1,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 59,
         "max": 64
       }
     },
@@ -413,7 +484,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636620864,
+    "updatedAt": 1636621680,
     "slots": {
       "8": {
         "current": 0,
@@ -479,7 +550,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636620864,
+    "updatedAt": 1636621680,
     "slots": {
       "8": {
         "current": 0,
@@ -490,7 +561,7 @@
         "max": 20
       },
       "2": {
-        "current": 4,
+        "current": 10,
         "max": 48
       },
       "4": {
@@ -527,11 +598,11 @@
   },
   {
     "map": "MP_Prison",
-    "gameId": "18014398528548275",
+    "gameId": "18014398528606283",
     "gameExpansions": [
       0
     ],
-    "mapMode": "1",
+    "mapMode": "1024",
     "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -545,7 +616,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636620864,
+    "updatedAt": 1636621680,
     "slots": {
       "8": {
         "current": 0,
@@ -556,7 +627,7 @@
         "max": 20
       },
       "2": {
-        "current": 12,
+        "current": 4,
         "max": 62
       }
     },
@@ -613,14 +684,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636620864,
+    "updatedAt": 1636621680,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 3,
         "max": 20
       },
       "2": {
@@ -660,7 +731,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Tremors",
+    "map": "MP_Naval",
     "gameId": "18014398528583131",
     "gameExpansions": [
       0,
@@ -684,18 +755,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636620862,
+    "updatedAt": 1636621680,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 3,
+        "current": 2,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 63,
         "max": 64
       }
     },

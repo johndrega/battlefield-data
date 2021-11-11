@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636642252,
+    "updatedAt": 1636642763,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 9,
+        "current": 10,
         "max": 42
       }
     },
@@ -67,15 +67,15 @@
     "country": "au"
   },
   {
-    "map": "XP2_004",
+    "map": "XP3_UrbanGdn",
     "gameId": "36028797038096655",
     "gameExpansions": [
-      2097152,
+      4194304,
       524288,
       1048576,
       8388608,
       8589934592,
-      4194304
+      2097152
     ],
     "mapMode": "64",
     "ip": "103.193.80.30",
@@ -91,7 +91,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636642303,
+    "updatedAt": 1636642774,
     "slots": {
       "8": {
         "current": 0,
@@ -102,7 +102,7 @@
         "max": 20
       },
       "2": {
-        "current": 58,
+        "current": 51,
         "max": 64
       },
       "4": {
@@ -114,7 +114,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "2097152",
+    "gameExpansion": "4194304",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -138,7 +138,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Damage",
+    "map": "MP_Journey",
     "gameId": "36028797038096654",
     "gameExpansions": [
       0
@@ -157,18 +157,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636642281,
+    "updatedAt": 1636642764,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 1,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 43,
         "max": 64
       },
       "4": {
@@ -204,19 +204,18 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
-    "gameId": "36028797038079897",
+    "map": "MP_Abandoned",
+    "gameId": "36028797038040094",
     "gameExpansions": [
       0,
       524288,
-      17179869184,
-      2097152,
+      4194304,
+      1048576,
       8388608,
-      8589934592,
-      4194304
+      2097152
     ],
     "mapMode": "64",
-    "ip": "103.193.80.35",
+    "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -229,11 +228,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636642252,
+    "updatedAt": 1636642764,
     "slots": {
       "8": {
         "current": 0,
-        "max": 2
+        "max": 0
       },
       "1": {
         "current": 0,
@@ -241,27 +240,27 @@
       },
       "2": {
         "current": 1,
-        "max": 62
+        "max": 64
       },
       "4": {
         "current": 0,
         "max": 2
       }
     },
-    "guid": "f58c8346-1c9e-48b0-84f0-8d5d09d2b9da",
+    "guid": "bb1f83ca-0400-499e-a560-b769334c8de8",
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
+    "name": "[EA] Battlefield 2020 | Admiral Chang's War",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
+    "serverType": 1,
+    "experience": 54,
+    "tickRate": 45,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -271,8 +270,8 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 8,
-    "pingSite": "syd",
+    "preset": 1,
+    "pingSite": "nrt",
     "country": "au"
   }
 ]

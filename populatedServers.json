@@ -1,6 +1,6 @@
 [
   {
-    "map": "MP_Tremors",
+    "map": "MP_Abandoned",
     "gameId": "18014398528588093",
     "gameExpansions": [
       0,
@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636636592,
+    "updatedAt": 1636637482,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 13,
+        "current": 10,
         "max": 42
       }
     },
@@ -86,7 +86,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636636580,
+    "updatedAt": 1636637503,
     "slots": {
       "8": {
         "current": 0,
@@ -129,13 +129,13 @@
     "country": "au"
   },
   {
-    "map": "XP3_Prpganda",
+    "map": "XP4_Titan",
     "gameId": "36028797038096655",
     "gameExpansions": [
-      4194304,
-      524288,
-      1048576,
       8388608,
+      524288,
+      4194304,
+      1048576,
       8589934592,
       2097152
     ],
@@ -153,18 +153,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636636562,
+    "updatedAt": 1636637506,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 1,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 63,
         "max": 64
       },
       "4": {
@@ -176,7 +176,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
+    "gameExpansion": "8388608",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -219,18 +219,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636636584,
+    "updatedAt": 1636637494,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 1,
         "max": 20
       },
       "2": {
-        "current": 55,
+        "current": 64,
         "max": 64
       },
       "4": {
@@ -266,13 +266,18 @@
     "country": "au"
   },
   {
-    "map": "MP_Damage",
-    "gameId": "18014398528582633",
+    "map": "XP4_SubBase",
+    "gameId": "36028797038040094",
     "gameExpansions": [
-      0
+      8388608,
+      0,
+      4194304,
+      524288,
+      1048576,
+      2097152
     ],
     "mapMode": "64",
-    "ip": "103.193.80.35",
+    "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -285,35 +290,39 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636636591,
+    "updatedAt": 1636637491,
     "slots": {
       "8": {
         "current": 0,
-        "max": 2
+        "max": 0
       },
       "1": {
         "current": 0,
         "max": 20
       },
       "2": {
-        "current": 15,
+        "current": 3,
         "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
       }
     },
-    "guid": "c03f8466-1431-4f30-9124-fdff781dcc3f",
-    "port": 25500,
+    "guid": "bb1f83ca-0400-499e-a560-b769334c8de8",
+    "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! [BEER BOOBS BACON] 4 | NO JETS | Classic Maps | Hardcore",
+    "gameExpansion": "8388608",
+    "name": "[EA] Battlefield 2020 | Admiral Chang's War",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
+    "serverType": 1,
+    "experience": 54,
+    "tickRate": 45,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -323,20 +332,20 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 2,
-    "pingSite": "syd",
+    "preset": 1,
+    "pingSite": "nrt",
     "country": "au"
   },
   {
-    "map": "XP7_Valley",
+    "map": "XP6_CMP",
     "gameId": "36028797038079897",
     "gameExpansions": [
-      17179869184,
+      8589934592,
       0,
-      8388608,
+      17179869184,
       524288,
       2097152,
-      8589934592,
+      8388608,
       4194304
     ],
     "mapMode": "64",
@@ -353,7 +362,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636636562,
+    "updatedAt": 1636637505,
     "slots": {
       "8": {
         "current": 0,
@@ -364,7 +373,7 @@
         "max": 20
       },
       "2": {
-        "current": 35,
+        "current": 8,
         "max": 62
       },
       "4": {
@@ -376,7 +385,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "17179869184",
+    "gameExpansion": "8589934592",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,

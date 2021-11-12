@@ -1,12 +1,17 @@
 [
   {
-    "map": "MP_Naval",
-    "gameId": "36028797038098870",
+    "map": "XP3_WtrFront",
+    "gameId": "18014398528607054",
     "gameExpansions": [
-      0
+      4194304,
+      0,
+      1048576,
+      524288,
+      8388608,
+      2097152
     ],
     "mapMode": "64",
-    "ip": "103.193.80.30",
+    "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -19,77 +24,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636737309,
+    "updatedAt": 1636738620,
     "slots": {
       "8": {
         "current": 0,
-        "max": 2
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 2,
-        "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
-      }
-    },
-    "guid": "aefb50eb-944d-4535-aba5-6e0a98fb9d9d",
-    "port": 25200,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! [FPSG] Classic Maps Rotation 1000 Tickets! fpsgamerz.com",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 1,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "MP_TheDish",
-    "gameId": "36028797038098874",
-    "gameExpansions": [
-      0
-    ],
-    "mapMode": "64",
-    "ip": "103.193.80.30",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1636737309,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 2
+        "max": 0
       },
       "1": {
         "current": 0,
@@ -104,20 +43,20 @@
         "max": 2
       }
     },
-    "guid": "cacf6662-e88c-4829-8192-06382517b7e4",
-    "port": 25300,
+    "guid": "bb1f83ca-0400-499e-a560-b769334c8de8",
+    "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! [FPSG] Classic Maps Rotation 2 1000 Tickets fpsgamerz.com",
+    "gameExpansion": "4194304",
+    "name": "[EA] Battlefield 2020 | Admiral Chang's War",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
+    "serverType": 1,
+    "experience": 54,
+    "tickRate": 45,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -128,7 +67,7 @@
     },
     "secret": "",
     "preset": 1,
-    "pingSite": "syd",
+    "pingSite": "nrt",
     "country": "au"
   }
 ]

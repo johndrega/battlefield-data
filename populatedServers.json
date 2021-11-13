@@ -1,12 +1,17 @@
 [
   {
-    "map": "MP_Damage",
-    "gameId": "36028797038039442",
+    "map": "XP2_002",
+    "gameId": "18014398528607054",
     "gameExpansions": [
-      0
+      2097152,
+      0,
+      1048576,
+      524288,
+      8388608,
+      4194304
     ],
     "mapMode": "64",
-    "ip": "108.61.227.170",
+    "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -19,39 +24,39 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636826070,
+    "updatedAt": 1636826753,
     "slots": {
       "8": {
         "current": 0,
-        "max": 2
+        "max": 0
       },
       "1": {
         "current": 0,
         "max": 20
       },
       "2": {
-        "current": 1,
-        "max": 32
+        "current": 3,
+        "max": 64
       },
       "4": {
         "current": 0,
         "max": 2
       }
     },
-    "guid": "1e578f31-8cd3-4d95-b3f1-7a61f8ef21d7",
-    "port": 30030,
+    "guid": "bb1f83ca-0400-499e-a560-b769334c8de8",
+    "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "[NZA] NZ Anomaly | Noobs forever",
+    "gameExpansion": "2097152",
+    "name": "[EA] Battlefield 2020 | Admiral Chang's War",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
     "serverType": 1,
-    "experience": 0,
-    "tickRate": 30,
+    "experience": 54,
+    "tickRate": 45,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -61,12 +66,12 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 8,
-    "pingSite": "syd",
+    "preset": 1,
+    "pingSite": "nrt",
     "country": "au"
   },
   {
-    "map": "MP_Siege",
+    "map": "MP_Tremors",
     "gameId": "18014398528587958",
     "gameExpansions": [
       0
@@ -85,7 +90,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636826070,
+    "updatedAt": 1636826753,
     "slots": {
       "8": {
         "current": 0,
@@ -96,7 +101,7 @@
         "max": 20
       },
       "2": {
-        "current": 24,
+        "current": 16,
         "max": 48
       },
       "4": {

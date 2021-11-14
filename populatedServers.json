@@ -1,16 +1,16 @@
 [
   {
-    "map": "MP_Prison",
+    "map": "XP0_Metro",
     "gameId": "18014398528607058",
     "gameExpansions": [
-      0,
       524288,
+      0,
       4194304,
       1048576,
       8388608,
       2097152
     ],
-    "mapMode": "64",
+    "mapMode": "2",
     "ip": "103.193.80.29",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636854190,
+    "updatedAt": 1636856257,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 18,
+        "current": 21,
         "max": 42
       }
     },
@@ -43,7 +43,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "524288",
     "name": "! ! . O C E A N I A365 . | Active Admins | Custom HC | Infantry",
     "settings": {},
     "fairfight": 1,
@@ -86,7 +86,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636854190,
+    "updatedAt": 1636856213,
     "slots": {
       "8": {
         "current": 0,
@@ -97,7 +97,7 @@
         "max": 20
       },
       "2": {
-        "current": 12,
+        "current": 11,
         "max": 64
       }
     },
@@ -129,14 +129,14 @@
     "country": "au"
   },
   {
-    "map": "XP1_001",
+    "map": "XP0_Caspian",
     "gameId": "36028797038099479",
     "gameExpansions": [
-      1048576,
       524288,
-      4194304,
-      8388608,
       8589934592,
+      4194304,
+      1048576,
+      8388608,
       2097152
     ],
     "mapMode": "64",
@@ -153,18 +153,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636854191,
+    "updatedAt": 1636856237,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 5,
         "max": 20
       },
       "2": {
-        "current": 46,
+        "current": 64,
         "max": 64
       },
       "4": {
@@ -176,7 +176,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "1048576",
+    "gameExpansion": "524288",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -200,7 +200,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Resort",
+    "map": "MP_Abandoned",
     "gameId": "36028797038099406",
     "gameExpansions": [
       0
@@ -219,18 +219,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636854190,
+    "updatedAt": 1636856276,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 3,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 62,
         "max": 64
       },
       "4": {
@@ -267,12 +267,17 @@
   },
   {
     "map": "MP_Journey",
-    "gameId": "36028797038099330",
+    "gameId": "18014398528607054",
     "gameExpansions": [
-      0
+      0,
+      524288,
+      4194304,
+      1048576,
+      8388608,
+      2097152
     ],
     "mapMode": "64",
-    "ip": "103.193.80.35",
+    "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -285,35 +290,39 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636854190,
+    "updatedAt": 1636856218,
     "slots": {
       "8": {
         "current": 0,
-        "max": 2
+        "max": 0
       },
       "1": {
         "current": 0,
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 1,
         "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
       }
     },
-    "guid": "c03f8466-1431-4f30-9124-fdff781dcc3f",
-    "port": 25500,
+    "guid": "bb1f83ca-0400-499e-a560-b769334c8de8",
+    "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "! [BEER BOOBS BACON] 4 | NO JETS | Classic Maps | Hardcore",
+    "name": "[EA] Battlefield 2020 | Admiral Chang's War",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
+    "serverType": 1,
+    "experience": 54,
+    "tickRate": 45,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -323,12 +332,12 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 2,
-    "pingSite": "syd",
+    "preset": 1,
+    "pingSite": "nrt",
     "country": "au"
   },
   {
-    "map": "MP_Naval",
+    "map": "MP_Resort",
     "gameId": "18014398528587958",
     "gameExpansions": [
       0
@@ -347,14 +356,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1636854190,
+    "updatedAt": 1636856277,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 1,
+        "current": 2,
         "max": 20
       },
       "2": {
@@ -390,6 +399,137 @@
     },
     "secret": "",
     "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_TheDish",
+    "gameId": "36028797038099400",
+    "gameExpansions": [
+      0,
+      524288,
+      4194304
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.35",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1636856213,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 2,
+        "max": 64
+      }
+    },
+    "guid": "f58c8346-1c9e-48b0-84f0-8d5d09d2b9da",
+    "port": 25200,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Journey",
+    "gameId": "18014398528607582",
+    "gameExpansions": [
+      0,
+      524288,
+      4194304,
+      1048576,
+      8388608,
+      2097152
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.29",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1636856214,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 3,
+        "max": 64
+      }
+    },
+    "guid": "fac7b38d-6d74-4e54-822d-3ff2a8af59ad",
+    "port": 25300,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! ! . O C E A N I A 365 . | Active Admins | Conquest Mixed",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   }

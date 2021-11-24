@@ -1,12 +1,17 @@
 [
   {
-    "map": "MP_Prison",
-    "gameId": "18014398528547641",
+    "map": "MP_Resort",
+    "gameId": "36028797038114199",
     "gameExpansions": [
-      0
+      0,
+      524288,
+      4194304,
+      1048576,
+      8388608,
+      2097152
     ],
-    "mapMode": "512",
-    "ip": "108.61.227.192",
+    "mapMode": "64",
+    "ip": "103.193.80.29",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -19,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637727231,
+    "updatedAt": 1637728894,
     "slots": {
       "8": {
         "current": 0,
@@ -31,15 +36,15 @@
       },
       "2": {
         "current": 1,
-        "max": 24
+        "max": 64
       }
     },
-    "guid": "00569787-e5f9-431d-89eb-03c5914e0099",
-    "port": 30040,
+    "guid": "1fe0937c-2d96-4335-8609-00d48229e533",
+    "port": 25500,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "[BMNK] Battlemonks [BMNK]",
+    "name": "! ! . O C E A N I A365 . | Active Admins | Custom HC | Vehicles",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -47,7 +52,7 @@
     "ping": 999,
     "serverType": 2,
     "experience": 0,
-    "tickRate": 30,
+    "tickRate": 60,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -81,7 +86,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637727231,
+    "updatedAt": 1637728854,
     "slots": {
       "8": {
         "current": 0,
@@ -92,7 +97,7 @@
         "max": 20
       },
       "2": {
-        "current": 17,
+        "current": 22,
         "max": 64
       }
     },
@@ -124,7 +129,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Resort",
+    "map": "MP_Abandoned",
     "gameId": "18014398528625570",
     "gameExpansions": [
       0
@@ -143,14 +148,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637727246,
+    "updatedAt": 1637728898,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 1,
+        "current": 3,
         "max": 20
       },
       "2": {
@@ -190,12 +195,12 @@
     "country": "au"
   },
   {
-    "map": "XP3_WtrFront",
+    "map": "MP_Siege",
     "gameId": "18014398528624384",
     "gameExpansions": [
-      4194304,
       0,
-      524288
+      524288,
+      4194304
     ],
     "mapMode": "64",
     "ip": "103.193.80.35",
@@ -211,7 +216,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637727261,
+    "updatedAt": 1637728863,
     "slots": {
       "8": {
         "current": 0,
@@ -222,7 +227,7 @@
         "max": 20
       },
       "2": {
-        "current": 59,
+        "current": 57,
         "max": 64
       }
     },
@@ -230,8 +235,75 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
+    "gameExpansion": "0",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Resort",
+    "gameId": "36028797038114202",
+    "gameExpansions": [
+      0,
+      524288,
+      4194304,
+      1048576,
+      8388608,
+      2097152
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.29",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1637728831,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      }
+    },
+    "guid": "fac7b38d-6d74-4e54-822d-3ff2a8af59ad",
+    "port": 25300,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! ! . O C E A N I A 365 . | Active Admins | Conquest Mixed",
     "settings": {},
     "fairfight": 1,
     "region": 64,

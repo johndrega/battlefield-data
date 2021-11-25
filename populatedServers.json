@@ -1,6 +1,6 @@
 [
   {
-    "map": "MP_Abandoned",
+    "map": "MP_Damage",
     "gameId": "36028797038099631",
     "gameExpansions": [
       0,
@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637829719,
+    "updatedAt": 1637830222,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 19,
+        "current": 12,
         "max": 64
       },
       "4": {
@@ -71,11 +71,11 @@
     "country": "au"
   },
   {
-    "map": "MP_Damage",
+    "map": "XP0_Caspian",
     "gameId": "18014398528610964",
     "gameExpansions": [
-      0,
       524288,
+      0,
       8388608,
       2097152
     ],
@@ -93,22 +93,22 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637829700,
+    "updatedAt": 1637830223,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 1,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 49,
         "max": 64
       },
       "4": {
-        "current": 1,
+        "current": 0,
         "max": 2
       }
     },
@@ -116,7 +116,7 @@
     "port": 26200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "524288",
     "name": "! ! ! ! Water Bottle - Classic/DLC maps [2042] ! ! ! !",
     "settings": {},
     "fairfight": 1,
@@ -159,7 +159,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637829733,
+    "updatedAt": 1637830222,
     "slots": {
       "8": {
         "current": 0,
@@ -170,7 +170,7 @@
         "max": 20
       },
       "2": {
-        "current": 62,
+        "current": 43,
         "max": 64
       }
     },
@@ -226,7 +226,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637829700,
+    "updatedAt": 1637830222,
     "slots": {
       "8": {
         "current": 0,
@@ -237,7 +237,7 @@
         "max": 20
       },
       "2": {
-        "current": 9,
+        "current": 10,
         "max": 64
       },
       "4": {
@@ -292,14 +292,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637829730,
+    "updatedAt": 1637830228,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 2,
+        "current": 6,
         "max": 20
       },
       "2": {
@@ -360,18 +360,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637829732,
+    "updatedAt": 1637830227,
     "slots": {
       "8": {
         "current": 1,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 3,
         "max": 20
       },
       "2": {
-        "current": 61,
+        "current": 64,
         "max": 64
       }
     },
@@ -381,73 +381,6 @@
     "playlist": 0,
     "gameExpansion": "4194304",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 8,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "MP_Siege",
-    "gameId": "36028797038114202",
-    "gameExpansions": [
-      0,
-      524288,
-      4194304,
-      1048576,
-      8388608,
-      2097152
-    ],
-    "mapMode": "64",
-    "ip": "103.193.80.29",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1637829720,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 2
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 3,
-        "max": 64
-      }
-    },
-    "guid": "fac7b38d-6d74-4e54-822d-3ff2a8af59ad",
-    "port": 25300,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! ! . O C E A N I A 365 . | Active Admins | Conquest Mixed",
     "settings": {},
     "fairfight": 1,
     "region": 64,

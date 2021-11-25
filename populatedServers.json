@@ -1,10 +1,10 @@
 [
   {
-    "map": "MP_Tremors",
+    "map": "XP0_Oman",
     "gameId": "18014398528610964",
     "gameExpansions": [
-      0,
       524288,
+      0,
       8388608,
       2097152
     ],
@@ -22,7 +22,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637832755,
+    "updatedAt": 1637833431,
     "slots": {
       "8": {
         "current": 0,
@@ -33,7 +33,7 @@
         "max": 20
       },
       "2": {
-        "current": 59,
+        "current": 64,
         "max": 64
       },
       "4": {
@@ -45,7 +45,7 @@
     "port": 26200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "524288",
     "name": "! ! ! ! Water Bottle - Classic/DLC maps [2042] ! ! ! !",
     "settings": {},
     "fairfight": 1,
@@ -88,18 +88,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637832742,
+    "updatedAt": 1637833419,
     "slots": {
       "8": {
         "current": 0,
         "max": 4
       },
       "1": {
-        "current": 0,
+        "current": 10,
         "max": 20
       },
       "2": {
-        "current": 59,
+        "current": 64,
         "max": 64
       }
     },
@@ -155,7 +155,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637832742,
+    "updatedAt": 1637833424,
     "slots": {
       "8": {
         "current": 0,
@@ -166,7 +166,7 @@
         "max": 20
       },
       "2": {
-        "current": 19,
+        "current": 36,
         "max": 64
       },
       "4": {
@@ -221,22 +221,22 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637832746,
+    "updatedAt": 1637833424,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 1,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 61,
         "max": 64
       },
       "4": {
-        "current": 1,
+        "current": 2,
         "max": 2
       }
     },
@@ -268,20 +268,18 @@
     "country": "au"
   },
   {
-    "map": "MP_Prison",
-    "gameId": "36028797038078275",
+    "map": "MP_Journey",
+    "gameId": "18014398528607778",
     "gameExpansions": [
       0,
       524288,
-      1048576,
-      268435456,
       4194304,
+      1048576,
       8388608,
-      8589934592,
-      17179869184
+      2097152
     ],
-    "mapMode": "1024",
-    "ip": "108.61.227.192",
+    "mapMode": "64",
+    "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -294,7 +292,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637832742,
+    "updatedAt": 1637833331,
     "slots": {
       "8": {
         "current": 0,
@@ -306,23 +304,27 @@
       },
       "2": {
         "current": 2,
-        "max": 32
+        "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
       }
     },
-    "guid": "f28900b4-2a2d-4e3f-a251-3825a841c393",
-    "port": 30020,
+    "guid": "bb1f83ca-0400-499e-a560-b769334c8de8",
+    "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "[BFS] Custom Mixed-Mode | Real HC | Votemap | Active Admins",
+    "name": "[EA] Battlefield 2020 | Admiral Chang's War",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
+    "serverType": 1,
+    "experience": 54,
+    "tickRate": 45,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -332,12 +334,12 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 8,
-    "pingSite": "syd",
+    "preset": 1,
+    "pingSite": "nrt",
     "country": "au"
   },
   {
-    "map": "XP0_Firestorm",
+    "map": "XP0_Caspian",
     "gameId": "18014398528624384",
     "gameExpansions": [
       524288,
@@ -358,18 +360,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637832746,
+    "updatedAt": 1637833429,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 4,
+        "current": 6,
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 64,
         "max": 64
       }
     },

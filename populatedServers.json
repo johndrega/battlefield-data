@@ -22,18 +22,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637831797,
+    "updatedAt": 1637832755,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 2,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 59,
         "max": 64
       },
       "4": {
@@ -88,18 +88,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637831797,
+    "updatedAt": 1637832742,
     "slots": {
       "8": {
         "current": 0,
         "max": 4
       },
       "1": {
-        "current": 4,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 59,
         "max": 64
       }
     },
@@ -155,7 +155,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637831797,
+    "updatedAt": 1637832742,
     "slots": {
       "8": {
         "current": 0,
@@ -166,7 +166,7 @@
         "max": 20
       },
       "2": {
-        "current": 5,
+        "current": 19,
         "max": 64
       },
       "4": {
@@ -202,7 +202,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Naval",
+    "map": "MP_Siege",
     "gameId": "18014398528626721",
     "gameExpansions": [
       0
@@ -221,14 +221,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637831806,
+    "updatedAt": 1637832746,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 3,
+        "current": 1,
         "max": 20
       },
       "2": {
@@ -268,18 +268,20 @@
     "country": "au"
   },
   {
-    "map": "MP_Journey",
-    "gameId": "18014398528607778",
+    "map": "MP_Prison",
+    "gameId": "36028797038078275",
     "gameExpansions": [
       0,
       524288,
-      4194304,
       1048576,
+      268435456,
+      4194304,
       8388608,
-      2097152
+      8589934592,
+      17179869184
     ],
-    "mapMode": "64",
-    "ip": "103.193.80.27",
+    "mapMode": "1024",
+    "ip": "108.61.227.192",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -292,7 +294,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637831797,
+    "updatedAt": 1637832742,
     "slots": {
       "8": {
         "current": 0,
@@ -303,28 +305,24 @@
         "max": 20
       },
       "2": {
-        "current": 1,
-        "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
+        "current": 2,
+        "max": 32
       }
     },
-    "guid": "bb1f83ca-0400-499e-a560-b769334c8de8",
-    "port": 25200,
+    "guid": "f28900b4-2a2d-4e3f-a251-3825a841c393",
+    "port": 30020,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "[EA] Battlefield 2020 | Admiral Chang's War",
+    "name": "[BFS] Custom Mixed-Mode | Real HC | Votemap | Active Admins",
     "settings": {},
     "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 1,
-    "experience": 54,
-    "tickRate": 45,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -334,8 +332,8 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
-    "pingSite": "nrt",
+    "preset": 8,
+    "pingSite": "syd",
     "country": "au"
   },
   {
@@ -360,18 +358,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637831797,
+    "updatedAt": 1637832746,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 4,
         "max": 20
       },
       "2": {
-        "current": 60,
+        "current": 63,
         "max": 64
       }
     },

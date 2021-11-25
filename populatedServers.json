@@ -1,12 +1,79 @@
 [
   {
-    "map": "XP2_001",
-    "gameId": "18014398528610964",
+    "map": "MP_Flooded",
+    "gameId": "36028797038118902",
     "gameExpansions": [
-      2097152,
       0,
       524288,
-      8388608
+      4194304,
+      1048576,
+      8388608,
+      2097152
+    ],
+    "mapMode": "1024",
+    "ip": "108.61.227.223",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1637839799,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 14
+      }
+    },
+    "guid": "19d8e1f9-7c25-4d15-aeed-24ee9079c834",
+    "port": 30010,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "Adelaide Beer & Pizza CLASSIC MODE **DOM | TDM **",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 32,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Abandoned",
+    "gameId": "18014398528610964",
+    "gameExpansions": [
+      0,
+      524288,
+      8388608,
+      2097152
     ],
     "mapMode": "64",
     "ip": "103.193.80.27",
@@ -22,7 +89,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637839317,
+    "updatedAt": 1637839804,
     "slots": {
       "8": {
         "current": 0,
@@ -33,7 +100,7 @@
         "max": 20
       },
       "2": {
-        "current": 37,
+        "current": 25,
         "max": 64
       },
       "4": {
@@ -45,7 +112,7 @@
     "port": 26200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "2097152",
+    "gameExpansion": "0",
     "name": "! ! ! ! Water Bottle - Classic/DLC maps [2042] ! ! ! !",
     "settings": {},
     "fairfight": 1,
@@ -88,7 +155,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637839300,
+    "updatedAt": 1637839799,
     "slots": {
       "8": {
         "current": 0,
@@ -155,14 +222,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637839260,
+    "updatedAt": 1637839799,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 2,
+        "current": 1,
         "max": 20
       },
       "2": {
@@ -202,7 +269,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Flooded",
+    "map": "MP_TheDish",
     "gameId": "18014398528626721",
     "gameExpansions": [
       0
@@ -221,18 +288,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637839317,
+    "updatedAt": 1637839801,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 4,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 54,
         "max": 64
       },
       "4": {
@@ -268,7 +335,7 @@
     "country": "au"
   },
   {
-    "map": "MP_TheDish",
+    "map": "MP_Flooded",
     "gameId": "18014398528624384",
     "gameExpansions": [
       0,
@@ -289,7 +356,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637839309,
+    "updatedAt": 1637839809,
     "slots": {
       "8": {
         "current": 0,
@@ -300,7 +367,7 @@
         "max": 20
       },
       "2": {
-        "current": 61,
+        "current": 58,
         "max": 64
       }
     },

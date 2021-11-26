@@ -1,72 +1,5 @@
 [
   {
-    "map": "XP1_001",
-    "gameId": "18014398528627762",
-    "gameExpansions": [
-      1048576,
-      0,
-      4194304,
-      524288,
-      8388608,
-      2097152
-    ],
-    "mapMode": "1024",
-    "ip": "108.61.227.223",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1637929253,
-    "slots": {
-      "8": {
-        "current": 1,
-        "max": 2
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 10,
-        "max": 14
-      }
-    },
-    "guid": "19d8e1f9-7c25-4d15-aeed-24ee9079c834",
-    "port": 30010,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "1048576",
-    "name": "Adelaide Beer & Pizza CLASSIC MODE **DOM | TDM **",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 32,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
     "map": "MP_Tremors",
     "gameId": "36028797038119935",
     "gameExpansions": [
@@ -86,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637929253,
+    "updatedAt": 1637931065,
     "slots": {
       "8": {
         "current": 0,
@@ -97,7 +30,7 @@
         "max": 20
       },
       "2": {
-        "current": 4,
+        "current": 1,
         "max": 32
       }
     },
@@ -148,14 +81,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637929255,
+    "updatedAt": 1637931065,
     "slots": {
       "8": {
         "current": 0,
         "max": 4
       },
       "1": {
-        "current": 3,
+        "current": 2,
         "max": 20
       },
       "2": {
@@ -191,14 +124,14 @@
     "country": "au"
   },
   {
-    "map": "XP1_002",
+    "map": "XP0_Firestorm",
     "gameId": "18014398528627694",
     "gameExpansions": [
-      1048576,
       524288,
-      4194304,
-      8388608,
       8589934592,
+      4194304,
+      1048576,
+      8388608,
       2097152
     ],
     "mapMode": "64",
@@ -215,18 +148,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637929253,
+    "updatedAt": 1637931074,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 1,
         "max": 20
       },
       "2": {
-        "current": 54,
+        "current": 64,
         "max": 64
       },
       "4": {
@@ -238,7 +171,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "1048576",
+    "gameExpansion": "524288",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -281,7 +214,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637929261,
+    "updatedAt": 1637931065,
     "slots": {
       "8": {
         "current": 0,
@@ -328,7 +261,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Tremors",
+    "map": "MP_Flooded",
     "gameId": "18014398528628066",
     "gameExpansions": [
       0
@@ -347,7 +280,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637929253,
+    "updatedAt": 1637931072,
     "slots": {
       "8": {
         "current": 0,
@@ -358,11 +291,11 @@
         "max": 20
       },
       "2": {
-        "current": 55,
+        "current": 34,
         "max": 64
       },
       "4": {
-        "current": 1,
+        "current": 0,
         "max": 2
       }
     },
@@ -394,7 +327,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Flooded",
+    "map": "MP_Abandoned",
     "gameId": "18014398528628089",
     "gameExpansions": [
       0,
@@ -415,7 +348,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1637929253,
+    "updatedAt": 1637931067,
     "slots": {
       "8": {
         "current": 0,
@@ -426,7 +359,7 @@
         "max": 20
       },
       "2": {
-        "current": 40,
+        "current": 38,
         "max": 64
       }
     },

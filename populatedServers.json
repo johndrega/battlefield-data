@@ -1,12 +1,17 @@
 [
   {
-    "map": "MP_Prison",
-    "gameId": "36028797038137085",
+    "map": "XP0_Metro",
+    "gameId": "18014398528628100",
     "gameExpansions": [
-      0
+      524288,
+      0,
+      4194304,
+      1048576,
+      8388608,
+      2097152
     ],
-    "mapMode": "64",
-    "ip": "103.193.80.30",
+    "mapMode": "1024",
+    "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -19,11 +24,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638152097,
+    "updatedAt": 1638153769,
     "slots": {
       "8": {
         "current": 0,
-        "max": 4
+        "max": 0
       },
       "1": {
         "current": 0,
@@ -31,15 +36,15 @@
       },
       "2": {
         "current": 1,
-        "max": 64
+        "max": 42
       }
     },
-    "guid": "9c435b6c-f3a0-4e25-9417-31995c85d633",
-    "port": 25500,
+    "guid": "533ca218-2e11-4693-bafc-feeb9ce5ccde",
+    "port": 25400,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! [FPSG] 24/7 Operation Lockers 2000 Tickets! fpsgamerz.com",
+    "gameExpansion": "524288",
+    "name": "! !  . O C E A N I A 365 | Active Admins | Custom HC | Infantry",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -57,19 +62,19 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   },
   {
-    "map": "XP1_001",
+    "map": "XP0_Caspian",
     "gameId": "36028797038137084",
     "gameExpansions": [
-      1048576,
       524288,
-      4194304,
-      8388608,
       8589934592,
+      4194304,
+      1048576,
+      8388608,
       2097152
     ],
     "mapMode": "64",
@@ -86,7 +91,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638152136,
+    "updatedAt": 1638153839,
     "slots": {
       "8": {
         "current": 0,
@@ -97,7 +102,7 @@
         "max": 20
       },
       "2": {
-        "current": 5,
+        "current": 15,
         "max": 64
       },
       "4": {
@@ -109,7 +114,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "1048576",
+    "gameExpansion": "524288",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -133,7 +138,75 @@
     "country": "au"
   },
   {
-    "map": "MP_Abandoned",
+    "map": "MP_Naval",
+    "gameId": "18014398528645545",
+    "gameExpansions": [
+      0,
+      524288,
+      17179869184,
+      1048576,
+      2097152,
+      8589934592,
+      268435456
+    ],
+    "mapMode": "512",
+    "ip": "128.0.115.167",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1638153769,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 3,
+        "max": 32
+      }
+    },
+    "guid": "ad6d28dd-6648-4f4c-810b-2436e428a803",
+    "port": 38000,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "AUS / THP / Tag Hunting Party - GunMaster / 32 /",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Tremors",
     "gameId": "36028797038137086",
     "gameExpansions": [
       0
@@ -152,18 +225,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638152205,
+    "updatedAt": 1638153810,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 7,
+        "current": 4,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 62,
         "max": 64
       },
       "4": {

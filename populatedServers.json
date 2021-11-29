@@ -1,16 +1,16 @@
 [
   {
-    "map": "MP_Resort",
+    "map": "XP2_004",
     "gameId": "18014398528645944",
     "gameExpansions": [
+      2097152,
       0,
-      524288,
-      4194304,
       1048576,
+      524288,
       8388608,
-      2097152
+      4194304
     ],
-    "mapMode": "32",
+    "mapMode": "1024",
     "ip": "108.61.227.223",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638174697,
+    "updatedAt": 1638175499,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 11,
+        "current": 6,
         "max": 14
       }
     },
@@ -43,7 +43,7 @@
     "port": 30010,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "2097152",
     "name": "Adelaide Beer & Pizza CLASSIC MODE **DOM | TDM **",
     "settings": {},
     "fairfight": 1,
@@ -67,13 +67,78 @@
     "country": "au"
   },
   {
-    "map": "XP3_UrbanGdn",
+    "map": "MP_Siege",
+    "gameId": "18014398528628090",
+    "gameExpansions": [
+      0,
+      524288,
+      1048576,
+      4194304
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.35",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1638175500,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      }
+    },
+    "guid": "46883ca5-e020-4c0c-9e7c-d3bb167e40dc",
+    "port": 25300,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! [BEER BOOBS BACON] 2 | NO JETS | Noob Friendly",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Resort",
     "gameId": "36028797038120437",
     "gameExpansions": [
-      4194304,
       0,
-      1048576,
       524288,
+      4194304,
+      1048576,
       8388608,
       2097152
     ],
@@ -91,14 +156,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638174712,
+    "updatedAt": 1638175562,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 0,
+        "current": 2,
         "max": 20
       },
       "2": {
@@ -110,7 +175,7 @@
     "port": 25300,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
+    "gameExpansion": "0",
     "name": "! !  . O C E A N I A 365 . | Active Admins | All Conquest Maps",
     "settings": {},
     "fairfight": 1,
@@ -153,18 +218,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638174699,
+    "updatedAt": 1638175535,
     "slots": {
       "8": {
         "current": 0,
         "max": 4
       },
       "1": {
-        "current": 0,
+        "current": 4,
         "max": 20
       },
       "2": {
-        "current": 60,
+        "current": 64,
         "max": 64
       }
     },
@@ -220,7 +285,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638174697,
+    "updatedAt": 1638175563,
     "slots": {
       "8": {
         "current": 0,
@@ -231,7 +296,7 @@
         "max": 20
       },
       "2": {
-        "current": 27,
+        "current": 25,
         "max": 64
       },
       "4": {
@@ -286,18 +351,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638174713,
+    "updatedAt": 1638175520,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 5,
+        "current": 3,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 63,
         "max": 64
       },
       "4": {
@@ -333,7 +398,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Resort",
+    "map": "MP_TheDish",
     "gameId": "18014398528628088",
     "gameExpansions": [
       0
@@ -352,7 +417,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638174710,
+    "updatedAt": 1638175500,
     "slots": {
       "8": {
         "current": 0,
@@ -416,7 +481,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638174718,
+    "updatedAt": 1638175551,
     "slots": {
       "8": {
         "current": 0,
@@ -427,7 +492,7 @@
         "max": 20
       },
       "2": {
-        "current": 26,
+        "current": 34,
         "max": 64
       }
     },

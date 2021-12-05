@@ -1,14 +1,14 @@
 [
   {
-    "map": "XP2_002",
+    "map": "XP3_Prpganda",
     "gameId": "36028797038158304",
     "gameExpansions": [
-      2097152,
+      4194304,
       0,
       1048576,
       524288,
       8388608,
-      4194304
+      2097152
     ],
     "mapMode": "64",
     "ip": "103.193.80.27",
@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638661893,
+    "updatedAt": 1638663241,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 50,
+        "current": 60,
         "max": 64
       }
     },
@@ -43,7 +43,7 @@
     "port": 25300,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "2097152",
+    "gameExpansion": "4194304",
     "name": "! !  . O C E A N I A 365 . | Active Admins | All Conquest Maps",
     "settings": {},
     "fairfight": 1,
@@ -67,7 +67,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Resort",
+    "map": "MP_Abandoned",
     "gameId": "18014398528666376",
     "gameExpansions": [
       0
@@ -86,7 +86,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638661904,
+    "updatedAt": 1638663314,
     "slots": {
       "8": {
         "current": 0,
@@ -97,11 +97,11 @@
         "max": 20
       },
       "2": {
-        "current": 28,
+        "current": 13,
         "max": 64
       },
       "4": {
-        "current": 1,
+        "current": 0,
         "max": 2
       }
     },
@@ -133,16 +133,19 @@
     "country": "au"
   },
   {
-    "map": "XP7_Valley",
-    "gameId": "36028797038095661",
+    "map": "MP_Resort",
+    "gameId": "36028797038119936",
     "gameExpansions": [
-      17179869184,
       0,
-      8589934592,
+      524288,
+      4194304,
+      1048576,
+      2097152,
+      8388608,
       268435456
     ],
-    "mapMode": "512",
-    "ip": "108.61.227.226",
+    "mapMode": "64",
+    "ip": "103.193.80.35",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -155,11 +158,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638661876,
+    "updatedAt": 1638663317,
     "slots": {
       "8": {
         "current": 0,
-        "max": 0
+        "max": 2
       },
       "1": {
         "current": 0,
@@ -167,15 +170,15 @@
       },
       "2": {
         "current": 1,
-        "max": 16
+        "max": 64
       }
     },
-    "guid": "c8b1c1ce-679e-4571-8cfa-683badb3329f",
-    "port": 30000,
+    "guid": "e7d0de8e-4946-4243-91bb-ba6758cd1aa2",
+    "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "17179869184",
-    "name": "Firing Blanks Will Not Save You",
+    "gameExpansion": "0",
+    "name": "! [BEER BOOBS BACON] 5 | NO JETS | DLC Maps | Hardcore",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -183,7 +186,7 @@
     "ping": 999,
     "serverType": 2,
     "experience": 0,
-    "tickRate": 120,
+    "tickRate": 60,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -193,7 +196,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 8,
+    "preset": 2,
     "pingSite": "syd",
     "country": "au"
   }

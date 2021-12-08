@@ -1,6 +1,6 @@
 [
   {
-    "map": "MP_Siege",
+    "map": "MP_Prison",
     "gameId": "18014398528666474",
     "gameExpansions": [
       0,
@@ -10,7 +10,7 @@
       8388608,
       2097152
     ],
-    "mapMode": "512",
+    "mapMode": "2097152",
     "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638943076,
+    "updatedAt": 1638944267,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 14,
+        "current": 16,
         "max": 42
       }
     },
@@ -67,17 +67,13 @@
     "country": "au"
   },
   {
-    "map": "XP3_MarketPl",
-    "gameId": "18014398528686205",
+    "map": "MP_Prison",
+    "gameId": "18014398528686323",
     "gameExpansions": [
-      4194304,
-      0,
-      268435456,
-      524288,
-      1048576
+      0
     ],
     "mapMode": "64",
-    "ip": "108.61.227.171",
+    "ip": "103.193.80.30",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -90,27 +86,27 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638943033,
+    "updatedAt": 1638944320,
     "slots": {
       "8": {
         "current": 0,
-        "max": 0
+        "max": 4
       },
       "1": {
         "current": 0,
         "max": 20
       },
       "2": {
-        "current": 1,
-        "max": 32
+        "current": 11,
+        "max": 64
       }
     },
-    "guid": "60324239-0ea7-4850-ac8b-5fe73213e1cc",
-    "port": 30000,
+    "guid": "9c435b6c-f3a0-4e25-9417-31995c85d633",
+    "port": 25500,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
-    "name": "INFANTRY ONLY 120HZ BF BATTLES",
+    "gameExpansion": "0",
+    "name": "! [FPSG] 24/7 Operation Lockers 2000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -118,7 +114,7 @@
     "ping": 999,
     "serverType": 2,
     "experience": 0,
-    "tickRate": 120,
+    "tickRate": 60,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -128,18 +124,18 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 8,
+    "preset": 1,
     "pingSite": "syd",
     "country": "au"
   },
   {
-    "map": "XP4_Arctic",
+    "map": "XP1_002",
     "gameId": "36028797038178138",
     "gameExpansions": [
-      8388608,
+      1048576,
       524288,
       4194304,
-      1048576,
+      8388608,
       8589934592,
       2097152
     ],
@@ -157,7 +153,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638943070,
+    "updatedAt": 1638944371,
     "slots": {
       "8": {
         "current": 0,
@@ -172,7 +168,7 @@
         "max": 64
       },
       "4": {
-        "current": 2,
+        "current": 1,
         "max": 2
       }
     },
@@ -180,7 +176,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "8388608",
+    "gameExpansion": "1048576",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -204,7 +200,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Abandoned",
+    "map": "MP_Tremors",
     "gameId": "18014398528686321",
     "gameExpansions": [
       0
@@ -223,14 +219,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638943070,
+    "updatedAt": 1638944365,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 7,
+        "current": 4,
         "max": 20
       },
       "2": {
@@ -238,7 +234,7 @@
         "max": 64
       },
       "4": {
-        "current": 2,
+        "current": 1,
         "max": 2
       }
     },
@@ -270,7 +266,7 @@
     "country": "au"
   },
   {
-    "map": "MP_TheDish",
+    "map": "MP_Flooded",
     "gameId": "18014398528666371",
     "gameExpansions": [
       0,
@@ -291,7 +287,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1638943053,
+    "updatedAt": 1638944316,
     "slots": {
       "8": {
         "current": 0,
@@ -302,7 +298,7 @@
         "max": 20
       },
       "2": {
-        "current": 20,
+        "current": 33,
         "max": 64
       }
     },

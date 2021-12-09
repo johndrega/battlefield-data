@@ -1,17 +1,12 @@
 [
   {
-    "map": "XP3_MarketPl",
-    "gameId": "36028797038182360",
+    "map": "MP_Siege",
+    "gameId": "18014398528690370",
     "gameExpansions": [
-      4194304,
-      0,
-      1048576,
-      524288,
-      8388608,
-      268435456
+      0
     ],
     "mapMode": "64",
-    "ip": "108.61.227.171",
+    "ip": "103.193.80.30",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -24,11 +19,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639033206,
+    "updatedAt": 1639034497,
     "slots": {
       "8": {
         "current": 0,
-        "max": 0
+        "max": 2
       },
       "1": {
         "current": 0,
@@ -36,15 +31,19 @@
       },
       "2": {
         "current": 1,
-        "max": 32
+        "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
       }
     },
-    "guid": "60324239-0ea7-4850-ac8b-5fe73213e1cc",
-    "port": 30000,
+    "guid": "1bc6f2c7-8323-41e2-8897-8f35ef2e89db",
+    "port": 25700,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
-    "name": "INFANTRY 120HZ BF BATTLES",
+    "gameExpansion": "0",
+    "name": "! [FPSG] 24/7 Siege of Shanghai 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -52,7 +51,72 @@
     "ping": 999,
     "serverType": 2,
     "experience": 0,
-    "tickRate": 120,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Flooded",
+    "gameId": "36028797038158196",
+    "gameExpansions": [
+      0,
+      524288,
+      1048576,
+      4194304
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.35",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1639034497,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      }
+    },
+    "guid": "46883ca5-e020-4c0c-9e7c-d3bb167e40dc",
+    "port": 25300,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! [BEER BOOBS BACON] 2 | NO JETS | Noob Friendly",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -86,7 +150,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639033221,
+    "updatedAt": 1639034501,
     "slots": {
       "8": {
         "current": 0,
@@ -97,7 +161,7 @@
         "max": 20
       },
       "2": {
-        "current": 37,
+        "current": 26,
         "max": 64
       }
     },
@@ -129,13 +193,13 @@
     "country": "au"
   },
   {
-    "map": "XP3_WtrFront",
+    "map": "XP4_Arctic",
     "gameId": "18014398528690372",
     "gameExpansions": [
-      4194304,
-      524288,
-      1048576,
       8388608,
+      524288,
+      4194304,
+      1048576,
       8589934592,
       2097152
     ],
@@ -153,7 +217,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639033206,
+    "updatedAt": 1639034497,
     "slots": {
       "8": {
         "current": 0,
@@ -164,7 +228,7 @@
         "max": 20
       },
       "2": {
-        "current": 14,
+        "current": 15,
         "max": 64
       },
       "4": {
@@ -176,7 +240,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
+    "gameExpansion": "8388608",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -219,22 +283,22 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639033220,
+    "updatedAt": 1639034497,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 5,
         "max": 20
       },
       "2": {
-        "current": 62,
+        "current": 64,
         "max": 64
       },
       "4": {
-        "current": 0,
+        "current": 2,
         "max": 2
       }
     },
@@ -266,7 +330,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Naval",
+    "map": "MP_Journey",
     "gameId": "36028797038158195",
     "gameExpansions": [
       0
@@ -285,7 +349,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639033206,
+    "updatedAt": 1639034497,
     "slots": {
       "8": {
         "current": 0,
@@ -328,12 +392,12 @@
     "country": "au"
   },
   {
-    "map": "MP_Flooded",
+    "map": "XP3_MarketPl",
     "gameId": "18014398528666371",
     "gameExpansions": [
+      4194304,
       0,
-      524288,
-      4194304
+      524288
     ],
     "mapMode": "64",
     "ip": "103.193.80.35",
@@ -349,18 +413,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639033241,
+    "updatedAt": 1639034497,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 2,
         "max": 20
       },
       "2": {
-        "current": 56,
+        "current": 64,
         "max": 64
       }
     },
@@ -368,7 +432,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "4194304",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,

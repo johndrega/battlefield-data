@@ -1,16 +1,16 @@
 [
   {
-    "map": "XP0_Metro",
+    "map": "MP_Flooded",
     "gameId": "18014398528723193",
     "gameExpansions": [
-      524288,
       0,
+      524288,
       4194304,
       1048576,
       8388608,
       2097152
     ],
-    "mapMode": "1024",
+    "mapMode": "32",
     "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639657911,
+    "updatedAt": 1639659554,
     "slots": {
       "8": {
         "current": 0,
@@ -43,7 +43,7 @@
     "port": 25400,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "0",
     "name": "! ! . O C E A N I A 365  | Active Admins | Custom HC | Infantry",
     "settings": {},
     "fairfight": 1,
@@ -86,7 +86,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639657868,
+    "updatedAt": 1639659713,
     "slots": {
       "8": {
         "current": 0,
@@ -97,7 +97,7 @@
         "max": 20
       },
       "2": {
-        "current": 42,
+        "current": 26,
         "max": 64
       }
     },
@@ -129,7 +129,7 @@
     "country": "au"
   },
   {
-    "map": "MP_TheDish",
+    "map": "MP_Damage",
     "gameId": "36028797038215689",
     "gameExpansions": [
       0
@@ -148,7 +148,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639657916,
+    "updatedAt": 1639659688,
     "slots": {
       "8": {
         "current": 0,
@@ -159,7 +159,7 @@
         "max": 20
       },
       "2": {
-        "current": 49,
+        "current": 62,
         "max": 64
       },
       "4": {
@@ -195,70 +195,7 @@
     "country": "au"
   },
   {
-    "map": "XP1_001",
-    "gameId": "36028797038215594",
-    "gameExpansions": [
-      1048576,
-      0
-    ],
-    "mapMode": "8388608",
-    "ip": "",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1639657869,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 2,
-        "max": 10
-      }
-    },
-    "guid": "babb94f5-8fe4-41a8-8c41-375ba579bbed",
-    "port": 0,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "1048576",
-    "name": "Mooaaks DF server",
-    "settings": {},
-    "fairfight": 0,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 8,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 1,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "8cc0017a:7108f6e9f812873fcae0928f4ac2e8efe05b9e79",
-    "preset": 8,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "MP_Abandoned",
+    "map": "MP_Resort",
     "gameId": "36028797038215001",
     "gameExpansions": [
       0,
@@ -279,18 +216,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639657906,
+    "updatedAt": 1639659697,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 2,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 53,
         "max": 64
       }
     },

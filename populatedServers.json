@@ -1,14 +1,14 @@
 [
   {
-    "map": "XP1_001",
+    "map": "MP_Tremors",
     "gameId": "18014398528724391",
     "gameExpansions": [
-      1048576,
       0,
       8388608,
+      1048576,
       4194304
     ],
-    "mapMode": "8",
+    "mapMode": "1024",
     "ip": "108.61.227.223",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -22,10 +22,10 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639734925,
+    "updatedAt": 1639736132,
     "slots": {
       "8": {
-        "current": 1,
+        "current": 0,
         "max": 2
       },
       "1": {
@@ -33,7 +33,7 @@
         "max": 20
       },
       "2": {
-        "current": 8,
+        "current": 5,
         "max": 14
       }
     },
@@ -41,7 +41,7 @@
     "port": 30010,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "1048576",
+    "gameExpansion": "0",
     "name": "Adelaide Beer & Pizza CLASSIC MODE **DOM | TDM **",
     "settings": {},
     "fairfight": 1,
@@ -65,7 +65,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
+    "map": "MP_Damage",
     "gameId": "18014398528723193",
     "gameExpansions": [
       0,
@@ -75,7 +75,7 @@
       8388608,
       2097152
     ],
-    "mapMode": "512",
+    "mapMode": "1024",
     "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -89,7 +89,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639734925,
+    "updatedAt": 1639736132,
     "slots": {
       "8": {
         "current": 0,
@@ -100,7 +100,7 @@
         "max": 20
       },
       "2": {
-        "current": 12,
+        "current": 15,
         "max": 42
       }
     },
@@ -118,74 +118,6 @@
     "serverType": 2,
     "experience": 0,
     "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 8,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "XP3_MarketPl",
-    "gameId": "36028797038196656",
-    "gameExpansions": [
-      4194304,
-      0,
-      1048576,
-      524288,
-      2097152,
-      8388608,
-      17179869184
-    ],
-    "mapMode": "64",
-    "ip": "108.61.227.171",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1639734925,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 5,
-        "max": 32
-      }
-    },
-    "guid": "60324239-0ea7-4850-ac8b-5fe73213e1cc",
-    "port": 30000,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "4194304",
-    "name": "INFANTRY  BF DOMINATION ;HC 60%HEALTH CUSTOM",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 120,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -219,7 +151,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639735017,
+    "updatedAt": 1639736132,
     "slots": {
       "8": {
         "current": 0,
@@ -230,7 +162,7 @@
         "max": 20
       },
       "2": {
-        "current": 23,
+        "current": 36,
         "max": 64
       }
     },
@@ -286,7 +218,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639735016,
+    "updatedAt": 1639736140,
     "slots": {
       "8": {
         "current": 0,
@@ -297,11 +229,11 @@
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 58,
         "max": 64
       },
       "4": {
-        "current": 0,
+        "current": 2,
         "max": 2
       }
     },
@@ -333,7 +265,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Abandoned",
+    "map": "MP_Tremors",
     "gameId": "18014398528724363",
     "gameExpansions": [
       0
@@ -352,7 +284,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639735009,
+    "updatedAt": 1639736135,
     "slots": {
       "8": {
         "current": 0,
@@ -363,7 +295,7 @@
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 62,
         "max": 64
       },
       "4": {
@@ -399,11 +331,11 @@
     "country": "au"
   },
   {
-    "map": "XP0_Firestorm",
+    "map": "MP_Journey",
     "gameId": "36028797038215001",
     "gameExpansions": [
-      524288,
       0,
+      524288,
       4194304
     ],
     "mapMode": "64",
@@ -420,7 +352,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639735028,
+    "updatedAt": 1639736141,
     "slots": {
       "8": {
         "current": 0,
@@ -431,7 +363,7 @@
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 59,
         "max": 64
       }
     },
@@ -439,7 +371,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "0",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,

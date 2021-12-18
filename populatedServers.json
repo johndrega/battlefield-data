@@ -1,16 +1,16 @@
 [
   {
-    "map": "MP_Flooded",
+    "map": "XP0_Metro",
     "gameId": "18014398528723193",
     "gameExpansions": [
-      0,
       524288,
+      0,
       4194304,
       1048576,
       8388608,
       2097152
     ],
-    "mapMode": "32",
+    "mapMode": "1024",
     "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639803470,
+    "updatedAt": 1639804506,
     "slots": {
       "8": {
         "current": 0,
@@ -43,7 +43,7 @@
     "port": 25400,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "524288",
     "name": "! ! . O C E A N I A 365  | Active Admins | Custom HC | Infantry",
     "settings": {},
     "fairfight": 1,
@@ -86,18 +86,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639803488,
+    "updatedAt": 1639804506,
     "slots": {
       "8": {
         "current": 0,
         "max": 4
       },
       "1": {
-        "current": 0,
+        "current": 6,
         "max": 20
       },
       "2": {
-        "current": 56,
+        "current": 64,
         "max": 64
       }
     },
@@ -107,6 +107,77 @@
     "playlist": 0,
     "gameExpansion": "0",
     "name": "! [FPSG] 24/7 Operation Lockers 2000 Tickets! fpsgamerz.com",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "XP1_001",
+    "gameId": "18014398528724904",
+    "gameExpansions": [
+      1048576,
+      524288,
+      4194304,
+      8388608,
+      8589934592,
+      2097152
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.30",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1639804506,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 2,
+        "max": 64
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "aae289d7-d58b-4c72-ac89-f062424ee035",
+    "port": 25600,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "1048576",
+    "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -148,22 +219,22 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639803489,
+    "updatedAt": 1639804506,
     "slots": {
       "8": {
-        "current": 0,
+        "current": 1,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 8,
         "max": 20
       },
       "2": {
-        "current": 62,
+        "current": 64,
         "max": 64
       },
       "4": {
-        "current": 0,
+        "current": 1,
         "max": 2
       }
     },
@@ -215,7 +286,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639803470,
+    "updatedAt": 1639804506,
     "slots": {
       "8": {
         "current": 0,
@@ -226,7 +297,7 @@
         "max": 20
       },
       "2": {
-        "current": 3,
+        "current": 1,
         "max": 10
       }
     },
@@ -277,7 +348,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639803470,
+    "updatedAt": 1639804506,
     "slots": {
       "8": {
         "current": 0,
@@ -288,7 +359,7 @@
         "max": 20
       },
       "2": {
-        "current": 10,
+        "current": 13,
         "max": 64
       }
     },
@@ -339,7 +410,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1639803470,
+    "updatedAt": 1639804506,
     "slots": {
       "8": {
         "current": 0,
@@ -382,6 +453,70 @@
     },
     "secret": "",
     "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "XP0_Firestorm",
+    "gameId": "36028797038215001",
+    "gameExpansions": [
+      524288,
+      0,
+      4194304
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.35",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1639804506,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 2,
+        "max": 64
+      }
+    },
+    "guid": "f58c8346-1c9e-48b0-84f0-8d5d09d2b9da",
+    "port": 25200,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "524288",
+    "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   }

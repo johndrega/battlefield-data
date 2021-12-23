@@ -1,6 +1,6 @@
 [
   {
-    "map": "MP_Tremors",
+    "map": "MP_Flooded",
     "gameId": "36028797038219056",
     "gameExpansions": [
       0
@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640270267,
+    "updatedAt": 1640270798,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +30,7 @@
         "max": 20
       },
       "2": {
-        "current": 12,
+        "current": 4,
         "max": 64
       },
       "4": {
@@ -66,77 +66,11 @@
     "country": "au"
   },
   {
-    "map": "MP_TheDish",
-    "gameId": "36028797038219058",
-    "gameExpansions": [
-      0
-    ],
-    "mapMode": "64",
-    "ip": "103.193.80.30",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1640270267,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 2
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 2,
-        "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
-      }
-    },
-    "guid": "cacf6662-e88c-4829-8192-06382517b7e4",
-    "port": 25300,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! [FPSG] Classic Maps Rotation 2 1000 Tickets fpsgamerz.com",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 1,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "MP_Journey",
+    "map": "XP0_Caspian",
     "gameId": "36028797038218798",
     "gameExpansions": [
-      0,
       524288,
+      0,
       4194304
     ],
     "mapMode": "64",
@@ -153,7 +87,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640270339,
+    "updatedAt": 1640270798,
     "slots": {
       "8": {
         "current": 0,
@@ -164,7 +98,7 @@
         "max": 20
       },
       "2": {
-        "current": 46,
+        "current": 30,
         "max": 64
       }
     },
@@ -172,7 +106,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "524288",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,

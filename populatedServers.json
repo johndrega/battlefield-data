@@ -26,7 +26,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640676457,
+    "updatedAt": 1640677124,
     "slots": {
       "8": {
         "current": 0,
@@ -93,7 +93,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640676569,
+    "updatedAt": 1640677117,
     "slots": {
       "8": {
         "current": 0,
@@ -104,7 +104,7 @@
         "max": 20
       },
       "2": {
-        "current": 7,
+        "current": 4,
         "max": 42
       }
     },
@@ -155,7 +155,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640676536,
+    "updatedAt": 1640677117,
     "slots": {
       "8": {
         "current": 0,
@@ -166,7 +166,7 @@
         "max": 20
       },
       "2": {
-        "current": 49,
+        "current": 53,
         "max": 64
       }
     },
@@ -222,7 +222,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640676568,
+    "updatedAt": 1640677117,
     "slots": {
       "8": {
         "current": 0,
@@ -233,7 +233,7 @@
         "max": 20
       },
       "2": {
-        "current": 58,
+        "current": 56,
         "max": 64
       },
       "4": {
@@ -269,7 +269,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
+    "map": "MP_Resort",
     "gameId": "18014398528728420",
     "gameExpansions": [
       0
@@ -288,7 +288,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640676570,
+    "updatedAt": 1640677120,
     "slots": {
       "8": {
         "current": 0,
@@ -299,7 +299,7 @@
         "max": 20
       },
       "2": {
-        "current": 61,
+        "current": 62,
         "max": 64
       },
       "4": {
@@ -335,11 +335,79 @@
     "country": "au"
   },
   {
-    "map": "MP_Journey",
-    "gameId": "18014398528729330",
+    "map": "MP_Resort",
+    "gameId": "36028797038119936",
     "gameExpansions": [
       0,
       524288,
+      4194304,
+      1048576,
+      2097152,
+      8388608,
+      268435456
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.35",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1640677117,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      }
+    },
+    "guid": "e7d0de8e-4946-4243-91bb-ba6758cd1aa2",
+    "port": 25600,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! [BEER BOOBS BACON] 5 | NO JETS | DLC Maps | Hardcore",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 2,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "XP0_Caspian",
+    "gameId": "18014398528729330",
+    "gameExpansions": [
+      524288,
+      0,
       4194304
     ],
     "mapMode": "64",
@@ -356,18 +424,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640676570,
+    "updatedAt": 1640677117,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 4,
+        "current": 1,
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 64,
         "max": 64
       }
     },
@@ -375,7 +443,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "524288",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,

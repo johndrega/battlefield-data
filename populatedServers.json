@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640664192,
+    "updatedAt": 1640666005,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +30,7 @@
         "max": 20
       },
       "2": {
-        "current": 4,
+        "current": 2,
         "max": 64
       },
       "4": {
@@ -66,19 +66,19 @@
     "country": "au"
   },
   {
-    "map": "XP3_MarketPl",
+    "map": "XP4_Titan",
     "gameId": "18014398528728467",
     "gameExpansions": [
-      4194304,
-      0,
       8388608,
+      0,
+      1048576,
       524288,
-      17179869184,
       2097152,
+      4194304,
       8589934592,
-      1048576
+      17179869184
     ],
-    "mapMode": "1",
+    "mapMode": "2",
     "ip": "108.61.227.171",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -92,7 +92,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640664236,
+    "updatedAt": 1640666005,
     "slots": {
       "8": {
         "current": 0,
@@ -103,7 +103,7 @@
         "max": 20
       },
       "2": {
-        "current": 7,
+        "current": 6,
         "max": 32
       }
     },
@@ -111,7 +111,7 @@
     "port": 30010,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
+    "gameExpansion": "8388608",
     "name": "HARDCORE MOSH",
     "settings": {},
     "fairfight": 1,
@@ -159,7 +159,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640664192,
+    "updatedAt": 1640666005,
     "slots": {
       "8": {
         "current": 0,
@@ -221,7 +221,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640664192,
+    "updatedAt": 1640666016,
     "slots": {
       "8": {
         "current": 0,
@@ -232,7 +232,7 @@
         "max": 20
       },
       "2": {
-        "current": 34,
+        "current": 31,
         "max": 64
       }
     },
@@ -288,18 +288,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640664208,
+    "updatedAt": 1640666008,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 1,
+        "current": 6,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 63,
         "max": 64
       },
       "4": {
@@ -335,7 +335,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Resort",
+    "map": "MP_Tremors",
     "gameId": "18014398528728420",
     "gameExpansions": [
       0
@@ -354,14 +354,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640664239,
+    "updatedAt": 1640666019,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 2,
+        "current": 0,
         "max": 20
       },
       "2": {
@@ -369,7 +369,7 @@
         "max": 64
       },
       "4": {
-        "current": 0,
+        "current": 1,
         "max": 2
       }
     },
@@ -402,69 +402,6 @@
   },
   {
     "map": "MP_Siege",
-    "gameId": "18014398528727554",
-    "gameExpansions": [
-      0,
-      1048576
-    ],
-    "mapMode": "64",
-    "ip": "",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1640664192,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 1,
-        "max": 10
-      }
-    },
-    "guid": "babb94f5-8fe4-41a8-8c41-375ba579bbed",
-    "port": 0,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "Mooaaks DF server",
-    "settings": {},
-    "fairfight": 0,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 8,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 1,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "aca2228f:f4c737f10bda6ef6a60169b31e277429e0fc33d1",
-    "preset": 8,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "MP_Siege",
     "gameId": "18014398528729330",
     "gameExpansions": [
       0,
@@ -485,7 +422,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640664243,
+    "updatedAt": 1640666017,
     "slots": {
       "8": {
         "current": 0,
@@ -496,7 +433,7 @@
         "max": 20
       },
       "2": {
-        "current": 6,
+        "current": 29,
         "max": 64
       }
     },

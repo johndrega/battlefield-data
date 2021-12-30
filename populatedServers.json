@@ -1,15 +1,19 @@
 [
   {
-    "map": "XP1_001",
-    "gameId": "36028797038221887",
+    "map": "XP2_002",
+    "gameId": "18014398528728467",
     "gameExpansions": [
-      1048576,
+      2097152,
       0,
       8388608,
-      4194304
+      524288,
+      17179869184,
+      4194304,
+      8589934592,
+      1048576
     ],
-    "mapMode": "8",
-    "ip": "108.61.227.223",
+    "mapMode": "134217728",
+    "ip": "108.61.227.171",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -22,11 +26,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640852641,
+    "updatedAt": 1640853688,
     "slots": {
       "8": {
         "current": 0,
-        "max": 2
+        "max": 0
       },
       "1": {
         "current": 0,
@@ -34,15 +38,15 @@
       },
       "2": {
         "current": 1,
-        "max": 14
+        "max": 32
       }
     },
-    "guid": "19d8e1f9-7c25-4d15-aeed-24ee9079c834",
+    "guid": "2d6d8f5a-14fe-4d4c-b3f6-52e2ba660898",
     "port": 30010,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "1048576",
-    "name": "Adelaide Beer & Pizza CLASSIC MODE **DOM | TDM **",
+    "gameExpansion": "2097152",
+    "name": "HARDCORE MOSH",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -60,19 +64,19 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 32,
+    "preset": 2,
     "pingSite": "syd",
     "country": "au"
   },
   {
-    "map": "XP4_WlkrFtry",
+    "map": "XP0_Metro",
     "gameId": "18014398528723193",
     "gameExpansions": [
-      8388608,
+      524288,
       0,
       4194304,
-      524288,
       1048576,
+      8388608,
       2097152
     ],
     "mapMode": "1024",
@@ -89,7 +93,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640852624,
+    "updatedAt": 1640853688,
     "slots": {
       "8": {
         "current": 0,
@@ -108,7 +112,7 @@
     "port": 25400,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "8388608",
+    "gameExpansion": "524288",
     "name": "! ! . O C E A N I A 365  | Active Admins | Custom HC | Infantry",
     "settings": {},
     "fairfight": 1,
@@ -132,7 +136,7 @@
     "country": "au"
   },
   {
-    "map": "XP2_004",
+    "map": "XP2_001",
     "gameId": "18014398528726847",
     "gameExpansions": [
       2097152,
@@ -157,7 +161,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640852624,
+    "updatedAt": 1640853688,
     "slots": {
       "8": {
         "current": 0,
@@ -219,7 +223,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640852633,
+    "updatedAt": 1640853688,
     "slots": {
       "8": {
         "current": 0,
@@ -230,7 +234,7 @@
         "max": 20
       },
       "2": {
-        "current": 49,
+        "current": 44,
         "max": 64
       }
     },
@@ -262,13 +266,13 @@
     "country": "au"
   },
   {
-    "map": "XP3_MarketPl",
+    "map": "XP4_SubBase",
     "gameId": "36028797038221867",
     "gameExpansions": [
-      4194304,
-      524288,
-      1048576,
       8388608,
+      524288,
+      4194304,
+      1048576,
       8589934592,
       2097152
     ],
@@ -286,7 +290,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640852624,
+    "updatedAt": 1640853694,
     "slots": {
       "8": {
         "current": 0,
@@ -297,11 +301,11 @@
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 63,
         "max": 64
       },
       "4": {
-        "current": 2,
+        "current": 0,
         "max": 2
       }
     },
@@ -309,7 +313,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
+    "gameExpansion": "8388608",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -352,22 +356,22 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640852629,
+    "updatedAt": 1640853688,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 5,
         "max": 20
       },
       "2": {
-        "current": 58,
+        "current": 63,
         "max": 64
       },
       "4": {
-        "current": 0,
+        "current": 2,
         "max": 2
       }
     },
@@ -400,72 +404,10 @@
   },
   {
     "map": "MP_Prison",
-    "gameId": "36028797038156556",
-    "gameExpansions": [
-      0
-    ],
-    "mapMode": "1024",
-    "ip": "103.193.80.27",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1640852624,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 2
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 2,
-        "max": 62
-      }
-    },
-    "guid": "e6d53b11-d846-4786-b437-9435b7f99fd5",
-    "port": 25900,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! [AUS] 120 TICK | LOCKERS/METRO | REAL HC | FAST EXP",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 120,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 8,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "XP0_Caspian",
     "gameId": "18014398528729330",
     "gameExpansions": [
-      524288,
       0,
+      524288,
       4194304
     ],
     "mapMode": "64",
@@ -482,18 +424,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1640852638,
+    "updatedAt": 1640853688,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 2,
         "max": 20
       },
       "2": {
-        "current": 55,
+        "current": 64,
         "max": 64
       }
     },
@@ -501,7 +443,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "0",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,

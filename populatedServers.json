@@ -1,18 +1,83 @@
 [
   {
-    "map": "XP3_Prpganda",
-    "gameId": "18014398528728467",
+    "map": "XP1_001",
+    "gameId": "18014398528730814",
     "gameExpansions": [
-      4194304,
+      1048576,
       0,
       8388608,
-      524288,
-      17179869184,
-      2097152,
-      8589934592,
-      1048576
+      4194304
     ],
-    "mapMode": "524288",
+    "mapMode": "8",
+    "ip": "108.61.227.223",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1641019036,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 2,
+        "max": 14
+      }
+    },
+    "guid": "19d8e1f9-7c25-4d15-aeed-24ee9079c834",
+    "port": 30010,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "1048576",
+    "name": "Adelaide Beer & Pizza CLASSIC MODE **DOM | TDM **",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 32,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "XP0_Caspian",
+    "gameId": "18014398528728467",
+    "gameExpansions": [
+      524288,
+      0,
+      1048576,
+      2097152,
+      4194304,
+      8388608,
+      8589934592,
+      17179869184
+    ],
+    "mapMode": "1",
     "ip": "108.61.227.171",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -26,18 +91,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641017607,
+    "updatedAt": 1641019045,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 2,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 32,
+        "current": 25,
         "max": 32
       }
     },
@@ -45,7 +110,7 @@
     "port": 30010,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
+    "gameExpansion": "524288",
     "name": "HARDCORE MOSH",
     "settings": {},
     "fairfight": 1,
@@ -88,7 +153,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641017607,
+    "updatedAt": 1641019035,
     "slots": {
       "8": {
         "current": 0,
@@ -99,7 +164,7 @@
         "max": 20
       },
       "2": {
-        "current": 36,
+        "current": 42,
         "max": 64
       }
     },
@@ -155,7 +220,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641017639,
+    "updatedAt": 1641019035,
     "slots": {
       "8": {
         "current": 0,
@@ -166,11 +231,11 @@
         "max": 20
       },
       "2": {
-        "current": 34,
+        "current": 31,
         "max": 64
       },
       "4": {
-        "current": 0,
+        "current": 1,
         "max": 2
       }
     },
@@ -202,7 +267,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Abandoned",
+    "map": "MP_Tremors",
     "gameId": "18014398528730772",
     "gameExpansions": [
       0
@@ -221,14 +286,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641017635,
+    "updatedAt": 1641019035,
     "slots": {
       "8": {
-        "current": 2,
+        "current": 0,
         "max": 2
       },
       "1": {
-        "current": 7,
+        "current": 3,
         "max": 20
       },
       "2": {
@@ -236,7 +301,7 @@
         "max": 64
       },
       "4": {
-        "current": 2,
+        "current": 0,
         "max": 2
       }
     },
@@ -268,7 +333,75 @@
     "country": "au"
   },
   {
-    "map": "MP_TheDish",
+    "map": "MP_Resort",
+    "gameId": "36028797038119936",
+    "gameExpansions": [
+      0,
+      524288,
+      4194304,
+      1048576,
+      2097152,
+      8388608,
+      268435456
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.35",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1641019035,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      }
+    },
+    "guid": "e7d0de8e-4946-4243-91bb-ba6758cd1aa2",
+    "port": 25600,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! [BEER BOOBS BACON] 5 | NO JETS | DLC Maps | Hardcore",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 2,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Flooded",
     "gameId": "36028797038222365",
     "gameExpansions": [
       0,
@@ -289,18 +422,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641017637,
+    "updatedAt": 1641019035,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 4,
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 64,
         "max": 64
       }
     },

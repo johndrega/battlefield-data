@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641398329,
+    "updatedAt": 1641400288,
     "slots": {
       "8": {
         "current": 0,
@@ -66,13 +66,18 @@
     "country": "au"
   },
   {
-    "map": "MP_Naval",
-    "gameId": "36028797038235027",
+    "map": "MP_Abandoned",
+    "gameId": "36028797038235296",
     "gameExpansions": [
-      0
+      0,
+      524288,
+      17179869184,
+      1048576,
+      8388608,
+      4194304
     ],
-    "mapMode": "64",
-    "ip": "103.193.80.30",
+    "mapMode": "2",
+    "ip": "108.61.227.171",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -85,31 +90,27 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641398338,
+    "updatedAt": 1641400288,
     "slots": {
       "8": {
         "current": 0,
-        "max": 2
+        "max": 0
       },
       "1": {
         "current": 0,
         "max": 20
       },
       "2": {
-        "current": 24,
-        "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
+        "current": 2,
+        "max": 32
       }
     },
-    "guid": "aefb50eb-944d-4535-aba5-6e0a98fb9d9d",
-    "port": 25200,
+    "guid": "2d6d8f5a-14fe-4d4c-b3f6-52e2ba660898",
+    "port": 30010,
     "punkbuster": 1,
     "playlist": 0,
     "gameExpansion": "0",
-    "name": "! [FPSG] Classic Maps Rotation 1000 Tickets! fpsgamerz.com",
+    "name": "HARDCORE MOSH",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -127,7 +128,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
+    "preset": 2,
     "pingSite": "syd",
     "country": "au"
   }

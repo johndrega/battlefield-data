@@ -23,7 +23,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641449989,
+    "updatedAt": 1641451389,
     "slots": {
       "8": {
         "current": 0,
@@ -34,7 +34,7 @@
         "max": 20
       },
       "2": {
-        "current": 1,
+        "current": 5,
         "max": 32
       }
     },
@@ -90,7 +90,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641449989,
+    "updatedAt": 1641451388,
     "slots": {
       "8": {
         "current": 0,
@@ -101,7 +101,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 3,
         "max": 42
       }
     },
@@ -152,7 +152,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641450094,
+    "updatedAt": 1641451392,
     "slots": {
       "8": {
         "current": 0,
@@ -163,7 +163,7 @@
         "max": 20
       },
       "2": {
-        "current": 51,
+        "current": 60,
         "max": 64
       }
     },
@@ -219,7 +219,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641450102,
+    "updatedAt": 1641451397,
     "slots": {
       "8": {
         "current": 0,
@@ -230,7 +230,7 @@
         "max": 20
       },
       "2": {
-        "current": 60,
+        "current": 61,
         "max": 64
       },
       "4": {
@@ -266,7 +266,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Naval",
+    "map": "MP_Siege",
     "gameId": "36028797038235027",
     "gameExpansions": [
       0
@@ -285,7 +285,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641450106,
+    "updatedAt": 1641451402,
     "slots": {
       "8": {
         "current": 0,
@@ -296,11 +296,11 @@
         "max": 20
       },
       "2": {
-        "current": 59,
+        "current": 55,
         "max": 64
       },
       "4": {
-        "current": 1,
+        "current": 0,
         "max": 2
       }
     },
@@ -332,76 +332,11 @@
     "country": "au"
   },
   {
-    "map": "XP1_001",
-    "gameId": "18014398528727554",
-    "gameExpansions": [
-      1048576,
-      0,
-      524288,
-      17179869184
-    ],
-    "mapMode": "8388608",
-    "ip": "",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1641449989,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 2,
-        "max": 10
-      }
-    },
-    "guid": "babb94f5-8fe4-41a8-8c41-375ba579bbed",
-    "port": 0,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "1048576",
-    "name": "Mooaaks DF server",
-    "settings": {},
-    "fairfight": 0,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 8,
-    "experience": 0,
-    "tickRate": 60,
-    "hasPassword": 1,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "aca2228f:f4c737f10bda6ef6a60169b31e277429e0fc33d1",
-    "preset": 8,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
-    "map": "XP0_Caspian",
+    "map": "MP_Prison",
     "gameId": "18014398528743517",
     "gameExpansions": [
-      524288,
       0,
+      524288,
       4194304
     ],
     "mapMode": "64",
@@ -418,7 +353,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641449991,
+    "updatedAt": 1641451388,
     "slots": {
       "8": {
         "current": 0,
@@ -429,7 +364,7 @@
         "max": 20
       },
       "2": {
-        "current": 32,
+        "current": 27,
         "max": 64
       }
     },
@@ -437,7 +372,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "0",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,

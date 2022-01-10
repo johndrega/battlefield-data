@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641800409,
+    "updatedAt": 1641800899,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +30,7 @@
         "max": 20
       },
       "2": {
-        "current": 8,
+        "current": 7,
         "max": 64
       },
       "4": {
@@ -90,7 +90,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641800448,
+    "updatedAt": 1641800899,
     "slots": {
       "8": {
         "current": 0,
@@ -101,7 +101,7 @@
         "max": 20
       },
       "2": {
-        "current": 27,
+        "current": 30,
         "max": 42
       }
     },
@@ -157,7 +157,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641800416,
+    "updatedAt": 1641800900,
     "slots": {
       "8": {
         "current": 0,
@@ -168,7 +168,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 3,
         "max": 32
       }
     },
@@ -219,7 +219,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641800451,
+    "updatedAt": 1641800899,
     "slots": {
       "8": {
         "current": 0,
@@ -230,7 +230,7 @@
         "max": 20
       },
       "2": {
-        "current": 49,
+        "current": 46,
         "max": 64
       }
     },
@@ -286,14 +286,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641800448,
+    "updatedAt": 1641800899,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 5,
         "max": 20
       },
       "2": {
@@ -352,7 +352,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1641800449,
+    "updatedAt": 1641800908,
     "slots": {
       "8": {
         "current": 0,
@@ -363,7 +363,7 @@
         "max": 20
       },
       "2": {
-        "current": 33,
+        "current": 43,
         "max": 64
       },
       "4": {
@@ -395,6 +395,70 @@
     },
     "secret": "",
     "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Abandoned",
+    "gameId": "18014398528745207",
+    "gameExpansions": [
+      0,
+      524288,
+      4194304
+    ],
+    "mapMode": "64",
+    "ip": "103.193.80.35",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1641800899,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 3,
+        "max": 64
+      }
+    },
+    "guid": "f58c8346-1c9e-48b0-84f0-8d5d09d2b9da",
+    "port": 25200,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   }

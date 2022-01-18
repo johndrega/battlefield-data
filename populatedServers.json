@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642516142,
+    "updatedAt": 1642516800,
     "slots": {
       "8": {
         "current": 1,
@@ -30,7 +30,7 @@
         "max": 20
       },
       "2": {
-        "current": 56,
+        "current": 27,
         "max": 64
       }
     },
@@ -62,13 +62,16 @@
     "country": "au"
   },
   {
-    "map": "MP_Flooded",
-    "gameId": "36028797038240841",
+    "map": "XP0_Firestorm",
+    "gameId": "18014398528746214",
     "gameExpansions": [
-      0
+      524288,
+      0,
+      8388608,
+      4194304
     ],
     "mapMode": "64",
-    "ip": "103.193.80.30",
+    "ip": "103.193.80.35",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -81,7 +84,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642516142,
+    "updatedAt": 1642516800,
     "slots": {
       "8": {
         "current": 0,
@@ -92,20 +95,16 @@
         "max": 20
       },
       "2": {
-        "current": 7,
+        "current": 1,
         "max": 64
-      },
-      "4": {
-        "current": 0,
-        "max": 2
       }
     },
-    "guid": "aefb50eb-944d-4535-aba5-6e0a98fb9d9d",
+    "guid": "f58c8346-1c9e-48b0-84f0-8d5d09d2b9da",
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! [FPSG] Classic Maps Rotation 1000 Tickets! fpsgamerz.com",
+    "gameExpansion": "524288",
+    "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -123,7 +122,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 1,
+    "preset": 8,
     "pingSite": "syd",
     "country": "au"
   }

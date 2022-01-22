@@ -1,6 +1,6 @@
 [
   {
-    "map": "MP_Flooded",
+    "map": "MP_Siege",
     "gameId": "36028797038241489",
     "gameExpansions": [
       0,
@@ -10,7 +10,7 @@
       8388608,
       2097152
     ],
-    "mapMode": "2",
+    "mapMode": "512",
     "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642835503,
+    "updatedAt": 1642836305,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 14,
+        "current": 10,
         "max": 42
       }
     },
@@ -89,7 +89,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642835503,
+    "updatedAt": 1642836305,
     "slots": {
       "8": {
         "current": 0,
@@ -151,10 +151,10 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642835503,
+    "updatedAt": 1642836305,
     "slots": {
       "8": {
-        "current": 1,
+        "current": 0,
         "max": 4
       },
       "1": {
@@ -162,7 +162,7 @@
         "max": 20
       },
       "2": {
-        "current": 31,
+        "current": 30,
         "max": 64
       }
     },
@@ -218,7 +218,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642835503,
+    "updatedAt": 1642836307,
     "slots": {
       "8": {
         "current": 0,
@@ -229,7 +229,7 @@
         "max": 20
       },
       "2": {
-        "current": 33,
+        "current": 31,
         "max": 64
       },
       "4": {
@@ -265,7 +265,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Damage",
+    "map": "MP_Journey",
     "gameId": "18014398528750614",
     "gameExpansions": [
       0
@@ -284,18 +284,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642835504,
+    "updatedAt": 1642836326,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 1,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 62,
         "max": 64
       },
       "4": {
@@ -331,11 +331,11 @@
     "country": "au"
   },
   {
-    "map": "XP0_Firestorm",
+    "map": "MP_Flooded",
     "gameId": "18014398528750514",
     "gameExpansions": [
-      524288,
       0,
+      524288,
       4194304
     ],
     "mapMode": "64",
@@ -352,7 +352,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642835507,
+    "updatedAt": 1642836305,
     "slots": {
       "8": {
         "current": 0,
@@ -363,7 +363,7 @@
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 64,
         "max": 64
       }
     },
@@ -371,7 +371,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "0",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,

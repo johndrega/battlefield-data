@@ -1,5 +1,70 @@
 [
   {
+    "map": "XP3_WtrFront",
+    "gameId": "18014398528749726",
+    "gameExpansions": [
+      4194304,
+      524288,
+      1048576,
+      2097152
+    ],
+    "mapMode": "34359738368",
+    "ip": "108.61.227.170",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1642861276,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 6,
+        "max": 10
+      }
+    },
+    "guid": "31e992b1-5c70-4c83-a882-7a48a3156f76",
+    "port": 30020,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "4194304",
+    "name": "MISO Unlock Server!",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 1,
+    "experience": 0,
+    "tickRate": 30,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "MP_Prison",
     "gameId": "18014398528750615",
     "gameExpansions": [
@@ -19,7 +84,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642860393,
+    "updatedAt": 1642861287,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +95,7 @@
         "max": 20
       },
       "2": {
-        "current": 32,
+        "current": 18,
         "max": 64
       }
     },
@@ -62,7 +127,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Tremors",
+    "map": "MP_Flooded",
     "gameId": "18014398528750614",
     "gameExpansions": [
       0
@@ -81,7 +146,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642860422,
+    "updatedAt": 1642861276,
     "slots": {
       "8": {
         "current": 0,
@@ -92,7 +157,7 @@
         "max": 20
       },
       "2": {
-        "current": 52,
+        "current": 29,
         "max": 64
       },
       "4": {
@@ -128,12 +193,12 @@
     "country": "au"
   },
   {
-    "map": "XP3_MarketPl",
+    "map": "MP_Siege",
     "gameId": "18014398528750514",
     "gameExpansions": [
-      4194304,
       0,
-      524288
+      524288,
+      4194304
     ],
     "mapMode": "64",
     "ip": "103.193.80.35",
@@ -149,7 +214,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642860393,
+    "updatedAt": 1642861276,
     "slots": {
       "8": {
         "current": 0,
@@ -160,7 +225,7 @@
         "max": 20
       },
       "2": {
-        "current": 59,
+        "current": 47,
         "max": 64
       }
     },
@@ -168,7 +233,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
+    "gameExpansion": "0",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,

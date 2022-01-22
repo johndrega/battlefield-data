@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642820502,
+    "updatedAt": 1642821712,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 4,
         "max": 42
       }
     },
@@ -86,7 +86,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642820498,
+    "updatedAt": 1642821712,
     "slots": {
       "8": {
         "current": 0,
@@ -97,7 +97,7 @@
         "max": 20
       },
       "2": {
-        "current": 17,
+        "current": 18,
         "max": 64
       }
     },
@@ -153,7 +153,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642820498,
+    "updatedAt": 1642821712,
     "slots": {
       "8": {
         "current": 0,
@@ -200,7 +200,7 @@
     "country": "au"
   },
   {
-    "map": "MP_TheDish",
+    "map": "MP_Damage",
     "gameId": "18014398528750614",
     "gameExpansions": [
       0
@@ -219,7 +219,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642820498,
+    "updatedAt": 1642821714,
     "slots": {
       "8": {
         "current": 0,
@@ -230,7 +230,7 @@
         "max": 20
       },
       "2": {
-        "current": 55,
+        "current": 56,
         "max": 64
       },
       "4": {
@@ -266,12 +266,12 @@
     "country": "au"
   },
   {
-    "map": "MP_Flooded",
+    "map": "XP3_UrbanGdn",
     "gameId": "18014398528750514",
     "gameExpansions": [
+      4194304,
       0,
-      524288,
-      4194304
+      524288
     ],
     "mapMode": "64",
     "ip": "103.193.80.35",
@@ -287,7 +287,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642820498,
+    "updatedAt": 1642821716,
     "slots": {
       "8": {
         "current": 0,
@@ -298,7 +298,7 @@
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 59,
         "max": 64
       }
     },
@@ -306,7 +306,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "4194304",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,
@@ -326,6 +326,72 @@
     },
     "secret": "",
     "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "XP0_Firestorm",
+    "gameId": "36028797038242531",
+    "gameExpansions": [
+      524288
+    ],
+    "mapMode": "64",
+    "ip": "128.0.114.97",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1642821712,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 8
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "f93a24e1-b93d-4ec8-91f5-8327ac560a4b",
+    "port": 17000,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "524288",
+    "name": "australia.sy Battlefield 4 /no kill cam /Firestorm /Oman",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
     "pingSite": "syd",
     "country": "au"
   }

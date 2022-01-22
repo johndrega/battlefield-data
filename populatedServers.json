@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642839289,
+    "updatedAt": 1642840284,
     "slots": {
       "8": {
         "current": 0,
@@ -67,13 +67,13 @@
     "country": "au"
   },
   {
-    "map": "MP_Prison",
+    "map": "XP1_001",
     "gameId": "36028797038240534",
     "gameExpansions": [
+      1048576,
       0,
       524288,
-      8388608,
-      1048576
+      8388608
     ],
     "mapMode": "1024",
     "ip": "108.61.227.171",
@@ -89,7 +89,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642839316,
+    "updatedAt": 1642840284,
     "slots": {
       "8": {
         "current": 0,
@@ -100,7 +100,7 @@
         "max": 20
       },
       "2": {
-        "current": 6,
+        "current": 8,
         "max": 32
       }
     },
@@ -108,7 +108,7 @@
     "port": 30000,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "1048576",
     "name": "-CGL-GAMING INFANTRY |METRO,LOCKERS |CONQ | Active Admins",
     "settings": {},
     "fairfight": 1,
@@ -151,7 +151,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642839313,
+    "updatedAt": 1642840361,
     "slots": {
       "8": {
         "current": 0,
@@ -162,7 +162,7 @@
         "max": 20
       },
       "2": {
-        "current": 36,
+        "current": 43,
         "max": 64
       }
     },
@@ -218,7 +218,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642839289,
+    "updatedAt": 1642840356,
     "slots": {
       "8": {
         "current": 0,
@@ -229,7 +229,7 @@
         "max": 20
       },
       "2": {
-        "current": 28,
+        "current": 37,
         "max": 64
       },
       "4": {
@@ -284,18 +284,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642839308,
+    "updatedAt": 1642840369,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 5,
+        "current": 6,
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 64,
         "max": 64
       },
       "4": {
@@ -331,6 +331,76 @@
     "country": "au"
   },
   {
+    "map": "XP1_003",
+    "gameId": "18014398528748643",
+    "gameExpansions": [
+      1048576,
+      0,
+      8388608,
+      524288,
+      268435456,
+      2097152,
+      4194304,
+      8589934592,
+      17179869184
+    ],
+    "mapMode": "32",
+    "ip": "108.61.227.169",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1642840333,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 2,
+        "max": 10
+      }
+    },
+    "guid": "ce692139-89d3-4287-aac2-9e819e95f8ba",
+    "port": 30000,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "1048576",
+    "name": "Zinger Box - AU Server - All Maps - TDM - 60Hz",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 1,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "MP_Tremors",
     "gameId": "18014398528750514",
     "gameExpansions": [
@@ -352,18 +422,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1642839317,
+    "updatedAt": 1642840361,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 4,
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 64,
         "max": 64
       }
     },

@@ -1,5 +1,71 @@
 [
   {
+    "map": "XP0_Firestorm",
+    "gameId": "18014398528749726",
+    "gameExpansions": [
+      524288,
+      8388608,
+      2097152,
+      1048576,
+      4194304
+    ],
+    "mapMode": "32",
+    "ip": "108.61.227.170",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1643434865,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 10
+      }
+    },
+    "guid": "31e992b1-5c70-4c83-a882-7a48a3156f76",
+    "port": 30020,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "524288",
+    "name": "MISO DLC TDM Server!",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 1,
+    "experience": 0,
+    "tickRate": 30,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "XP0_Oman",
     "gameId": "36028797038241489",
     "gameExpansions": [
@@ -24,7 +90,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1643434355,
+    "updatedAt": 1643434865,
     "slots": {
       "8": {
         "current": 0,
@@ -86,7 +152,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1643434355,
+    "updatedAt": 1643434865,
     "slots": {
       "8": {
         "current": 0,
@@ -97,7 +163,7 @@
         "max": 20
       },
       "2": {
-        "current": 45,
+        "current": 48,
         "max": 64
       }
     },
@@ -129,14 +195,14 @@
     "country": "au"
   },
   {
-    "map": "XP1_001",
+    "map": "XP0_Caspian",
     "gameId": "18014398528764733",
     "gameExpansions": [
-      1048576,
       524288,
-      4194304,
-      8388608,
       8589934592,
+      4194304,
+      1048576,
+      8388608,
       2097152
     ],
     "mapMode": "64",
@@ -153,7 +219,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1643434393,
+    "updatedAt": 1643434884,
     "slots": {
       "8": {
         "current": 0,
@@ -176,7 +242,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "1048576",
+    "gameExpansion": "524288",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -219,14 +285,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1643434408,
+    "updatedAt": 1643434880,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 4,
+        "current": 6,
         "max": 20
       },
       "2": {
@@ -266,12 +332,12 @@
     "country": "au"
   },
   {
-    "map": "MP_Naval",
+    "map": "XP4_Titan",
     "gameId": "36028797038255602",
     "gameExpansions": [
+      8388608,
       0,
       524288,
-      8388608,
       4194304
     ],
     "mapMode": "64",
@@ -288,18 +354,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1643434375,
+    "updatedAt": 1643434865,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 3,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 50,
         "max": 64
       }
     },
@@ -307,7 +373,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "8388608",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,

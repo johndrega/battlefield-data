@@ -1,6 +1,6 @@
 [
   {
-    "map": "MP_Prison",
+    "map": "MP_Siege",
     "gameId": "36028797038241489",
     "gameExpansions": [
       0,
@@ -10,7 +10,7 @@
       8388608,
       2097152
     ],
-    "mapMode": "1024",
+    "mapMode": "512",
     "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -24,7 +24,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1643617575,
+    "updatedAt": 1643618452,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +35,7 @@
         "max": 20
       },
       "2": {
-        "current": 13,
+        "current": 14,
         "max": 42
       }
     },
@@ -86,7 +86,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1643617575,
+    "updatedAt": 1643618452,
     "slots": {
       "8": {
         "current": 0,
@@ -97,7 +97,7 @@
         "max": 20
       },
       "2": {
-        "current": 11,
+        "current": 16,
         "max": 64
       }
     },
@@ -129,15 +129,15 @@
     "country": "au"
   },
   {
-    "map": "XP0_Firestorm",
+    "map": "XP2_002",
     "gameId": "18014398528765393",
     "gameExpansions": [
+      2097152,
       524288,
-      8589934592,
-      4194304,
       1048576,
       8388608,
-      2097152
+      8589934592,
+      4194304
     ],
     "mapMode": "64",
     "ip": "103.193.80.30",
@@ -153,7 +153,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1643617601,
+    "updatedAt": 1643618468,
     "slots": {
       "8": {
         "current": 0,
@@ -164,7 +164,7 @@
         "max": 20
       },
       "2": {
-        "current": 32,
+        "current": 29,
         "max": 64
       },
       "4": {
@@ -176,7 +176,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "2097152",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -200,7 +200,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
+    "map": "MP_Resort",
     "gameId": "18014398528765392",
     "gameExpansions": [
       0
@@ -219,7 +219,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1643617653,
+    "updatedAt": 1643618473,
     "slots": {
       "8": {
         "current": 0,
@@ -230,7 +230,7 @@
         "max": 20
       },
       "2": {
-        "current": 63,
+        "current": 60,
         "max": 64
       },
       "4": {
@@ -266,11 +266,11 @@
     "country": "au"
   },
   {
-    "map": "XP0_Firestorm",
+    "map": "MP_Flooded",
     "gameId": "18014398528764941",
     "gameExpansions": [
-      524288,
       0,
+      524288,
       4194304,
       8388608,
       17179869184
@@ -289,14 +289,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1643617624,
+    "updatedAt": 1643618462,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 1,
+        "current": 2,
         "max": 20
       },
       "2": {
@@ -308,7 +308,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "0",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,

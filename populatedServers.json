@@ -1,16 +1,16 @@
 [
   {
-    "map": "XP3_UrbanGdn",
+    "map": "XP5_Night_01",
     "gameId": "36028797038282234",
     "gameExpansions": [
-      4194304,
-      0,
       268435456,
+      0,
+      4194304,
       524288,
       8388608,
       2097152
     ],
-    "mapMode": "8",
+    "mapMode": "1024",
     "ip": "108.61.227.223",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -24,18 +24,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644308136,
+    "updatedAt": 1644309194,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 2,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 14,
+        "current": 7,
         "max": 14
       }
     },
@@ -43,7 +43,7 @@
     "port": 30010,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
+    "gameExpansion": "268435456",
     "name": "Adelaide Beer & Pizza CLASSIC MODE **DOM | TDM **",
     "settings": {},
     "fairfight": 1,
@@ -86,7 +86,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644308136,
+    "updatedAt": 1644309194,
     "slots": {
       "8": {
         "current": 0,
@@ -97,7 +97,7 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 7,
         "max": 64
       }
     },
@@ -153,7 +153,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644308140,
+    "updatedAt": 1644309194,
     "slots": {
       "8": {
         "current": 0,
@@ -164,11 +164,11 @@
         "max": 20
       },
       "2": {
-        "current": 5,
+        "current": 19,
         "max": 64
       },
       "4": {
-        "current": 1,
+        "current": 0,
         "max": 2
       }
     },
@@ -200,16 +200,17 @@
     "country": "au"
   },
   {
-    "map": "XP2_003",
+    "map": "XP0_Caspian",
     "gameId": "18014398528790758",
     "gameExpansions": [
-      2097152,
       524288,
-      4194304,
       8388608,
-      1048576
+      4194304,
+      17179869184,
+      1048576,
+      2097152
     ],
-    "mapMode": "67108864",
+    "mapMode": "64",
     "ip": "128.0.114.97",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -223,7 +224,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644308136,
+    "updatedAt": 1644309194,
     "slots": {
       "8": {
         "current": 0,
@@ -246,7 +247,7 @@
     "port": 19000,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "2097152",
+    "gameExpansion": "524288",
     "name": "! [Outback Gaming] DLC Maps | Conquest / Carrier Assault Large",
     "settings": {},
     "fairfight": 1,
@@ -293,18 +294,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644308153,
+    "updatedAt": 1644309208,
     "slots": {
       "8": {
-        "current": 0,
+        "current": 1,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 10,
         "max": 20
       },
       "2": {
-        "current": 53,
+        "current": 64,
         "max": 64
       }
     },

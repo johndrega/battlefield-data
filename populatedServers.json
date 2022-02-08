@@ -1,14 +1,14 @@
 [
   {
-    "map": "XP2_001",
+    "map": "XP3_UrbanGdn",
     "gameId": "36028797038282234",
     "gameExpansions": [
-      2097152,
-      0,
       4194304,
+      0,
+      268435456,
       524288,
       8388608,
-      268435456
+      2097152
     ],
     "mapMode": "8",
     "ip": "108.61.227.223",
@@ -24,18 +24,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644306967,
+    "updatedAt": 1644308136,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 2,
         "max": 20
       },
       "2": {
-        "current": 11,
+        "current": 14,
         "max": 14
       }
     },
@@ -43,7 +43,7 @@
     "port": 30010,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "2097152",
+    "gameExpansion": "4194304",
     "name": "Adelaide Beer & Pizza CLASSIC MODE **DOM | TDM **",
     "settings": {},
     "fairfight": 1,
@@ -86,7 +86,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644307017,
+    "updatedAt": 1644308136,
     "slots": {
       "8": {
         "current": 0,
@@ -97,7 +97,7 @@
         "max": 20
       },
       "2": {
-        "current": 10,
+        "current": 2,
         "max": 64
       }
     },
@@ -129,10 +129,15 @@
     "country": "au"
   },
   {
-    "map": "MP_TheDish",
-    "gameId": "36028797038282205",
+    "map": "XP1_002",
+    "gameId": "18014398528790423",
     "gameExpansions": [
-      0
+      1048576,
+      524288,
+      4194304,
+      8388608,
+      8589934592,
+      2097152
     ],
     "mapMode": "64",
     "ip": "103.193.80.30",
@@ -148,7 +153,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644306967,
+    "updatedAt": 1644308140,
     "slots": {
       "8": {
         "current": 0,
@@ -159,20 +164,20 @@
         "max": 20
       },
       "2": {
-        "current": 2,
+        "current": 5,
         "max": 64
       },
       "4": {
-        "current": 0,
+        "current": 1,
         "max": 2
       }
     },
-    "guid": "aefb50eb-944d-4535-aba5-6e0a98fb9d9d",
-    "port": 25200,
+    "guid": "aae289d7-d58b-4c72-ac89-f062424ee035",
+    "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "! [FPSG] Classic Maps Rotation 1000 Tickets! fpsgamerz.com",
+    "gameExpansion": "1048576",
+    "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
     "region": 64,
@@ -218,7 +223,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644306967,
+    "updatedAt": 1644308136,
     "slots": {
       "8": {
         "current": 0,
@@ -229,7 +234,7 @@
         "max": 20
       },
       "2": {
-        "current": 1,
+        "current": 4,
         "max": 64
       },
       "4": {
@@ -265,8 +270,8 @@
     "country": "au"
   },
   {
-    "map": "MP_Damage",
-    "gameId": "36028797038275997",
+    "map": "MP_Siege",
+    "gameId": "18014398528790772",
     "gameExpansions": [
       0,
       524288,
@@ -288,7 +293,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644307017,
+    "updatedAt": 1644308153,
     "slots": {
       "8": {
         "current": 0,
@@ -299,7 +304,7 @@
         "max": 20
       },
       "2": {
-        "current": 5,
+        "current": 53,
         "max": 64
       }
     },

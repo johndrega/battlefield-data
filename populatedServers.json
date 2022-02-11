@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644564178,
+    "updatedAt": 1644564781,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +30,7 @@
         "max": 20
       },
       "2": {
-        "current": 6,
+        "current": 7,
         "max": 64
       }
     },
@@ -62,14 +62,14 @@
     "country": "au"
   },
   {
-    "map": "XP1_001",
+    "map": "XP0_Caspian",
     "gameId": "18014398528809403",
     "gameExpansions": [
-      1048576,
       524288,
-      4194304,
-      8388608,
       8589934592,
+      4194304,
+      1048576,
+      8388608,
       2097152
     ],
     "mapMode": "64",
@@ -86,7 +86,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644564314,
+    "updatedAt": 1644564781,
     "slots": {
       "8": {
         "current": 0,
@@ -97,7 +97,7 @@
         "max": 20
       },
       "2": {
-        "current": 27,
+        "current": 26,
         "max": 64
       },
       "4": {
@@ -109,7 +109,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "1048576",
+    "gameExpansion": "524288",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -152,14 +152,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644564312,
+    "updatedAt": 1644564781,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 5,
+        "current": 9,
         "max": 20
       },
       "2": {
@@ -199,13 +199,79 @@
     "country": "au"
   },
   {
-    "map": "XP3_MarketPl",
+    "map": "MP_Siege",
+    "gameId": "36028797038301325",
+    "gameExpansions": [
+      0,
+      524288,
+      2097152,
+      1048576,
+      4194304
+    ],
+    "mapMode": "64",
+    "ip": "128.0.114.97",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1644564781,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 2,
+        "max": 64
+      }
+    },
+    "guid": "f3a3d8dc-f3f9-4660-8ff1-4d8c54ee6445",
+    "port": 12000,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "! [Battlefield AUS] | Mixed Maps",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
+    "map": "MP_Resort",
     "gameId": "36028797038300527",
     "gameExpansions": [
-      4194304,
       0,
-      8388608,
       524288,
+      4194304,
+      8388608,
       8589934592,
       2097152
     ],
@@ -223,14 +289,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644564265,
+    "updatedAt": 1644564781,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 8,
+        "current": 4,
         "max": 20
       },
       "2": {
@@ -242,7 +308,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "4194304",
+    "gameExpansion": "0",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,

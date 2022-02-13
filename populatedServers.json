@@ -1,5 +1,74 @@
 [
   {
+    "map": "MP_Abandoned",
+    "gameId": "36028797038240534",
+    "gameExpansions": [
+      0,
+      524288,
+      1048576,
+      2097152,
+      4194304,
+      8388608,
+      8589934592,
+      17179869184
+    ],
+    "mapMode": "1024",
+    "ip": "108.61.227.171",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1644725761,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 32
+      }
+    },
+    "guid": "60324239-0ea7-4850-ac8b-5fe73213e1cc",
+    "port": 30000,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "-CGL-GAMING |HARDCORE |DOMINATION|",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 2,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "MP_Prison",
     "gameId": "18014398528824169",
     "gameExpansions": [
@@ -19,7 +88,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644724610,
+    "updatedAt": 1644725762,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +99,7 @@
         "max": 20
       },
       "2": {
-        "current": 17,
+        "current": 28,
         "max": 64
       }
     },
@@ -86,14 +155,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644724605,
+    "updatedAt": 1644725772,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 2,
+        "current": 3,
         "max": 20
       },
       "2": {
@@ -101,7 +170,7 @@
         "max": 64
       },
       "4": {
-        "current": 1,
+        "current": 2,
         "max": 2
       }
     },
@@ -133,7 +202,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Flooded",
+    "map": "MP_TheDish",
     "gameId": "18014398528810211",
     "gameExpansions": [
       0
@@ -152,7 +221,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644724581,
+    "updatedAt": 1644725775,
     "slots": {
       "8": {
         "current": 0,
@@ -163,7 +232,7 @@
         "max": 20
       },
       "2": {
-        "current": 61,
+        "current": 56,
         "max": 64
       },
       "4": {
@@ -199,7 +268,70 @@
     "country": "au"
   },
   {
-    "map": "MP_Siege",
+    "map": "XP0_Firestorm",
+    "gameId": "36028797038315541",
+    "gameExpansions": [
+      524288,
+      2097152
+    ],
+    "mapMode": "32",
+    "ip": "",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1644725761,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 4,
+        "max": 10
+      }
+    },
+    "guid": "caf6c36c-e7bd-4c51-976b-1fa603f69144",
+    "port": 0,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "524288",
+    "name": "FragMans Battlefield 4 Server",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 4,
+    "experience": 0,
+    "tickRate": 30,
+    "hasPassword": 1,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "5d00ba41:74a22676f9902caf4d040619f12594a4548346b2",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "nz"
+  },
+  {
+    "map": "MP_Abandoned",
     "gameId": "36028797038314892",
     "gameExpansions": [
       0,
@@ -221,10 +353,10 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1644724610,
+    "updatedAt": 1644725775,
     "slots": {
       "8": {
-        "current": 1,
+        "current": 0,
         "max": 2
       },
       "1": {

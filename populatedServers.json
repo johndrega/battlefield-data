@@ -1,12 +1,17 @@
 [
   {
-    "map": "MP_Abandoned",
-    "gameId": "18014398528843049",
+    "map": "XP1_001",
+    "gameId": "18014398528843001",
     "gameExpansions": [
-      0
+      1048576,
+      0,
+      17179869184,
+      524288,
+      8589934592,
+      4194304
     ],
-    "mapMode": "64",
-    "ip": "",
+    "mapMode": "8388608",
+    "ip": "108.61.227.171",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -19,11 +24,11 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645345637,
+    "updatedAt": 1645346317,
     "slots": {
       "8": {
         "current": 0,
-        "max": 0
+        "max": 2
       },
       "1": {
         "current": 0,
@@ -31,24 +36,24 @@
       },
       "2": {
         "current": 1,
-        "max": 10
+        "max": 20
       }
     },
-    "guid": "4216d889-e77f-48d6-bdb4-46712a3a755f",
-    "port": 0,
+    "guid": "2d6d8f5a-14fe-4d4c-b3f6-52e2ba660898",
+    "port": 30010,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "PUSHIN P",
+    "gameExpansion": "1048576",
+    "name": "HARDCORE MOSH",
     "settings": {},
-    "fairfight": 0,
+    "fairfight": 1,
     "region": 64,
     "mapVariant": 0,
     "ping": 999,
-    "serverType": 4,
+    "serverType": 2,
     "experience": 0,
     "tickRate": 60,
-    "hasPassword": 1,
+    "hasPassword": 0,
     "maps": {
       "maps": [],
       "currentMapRound": -1,
@@ -56,8 +61,8 @@
       "currentMapIndex": -1,
       "numberMapRounds": -1
     },
-    "secret": "f27166fa:da6617ed6af05f4661d3bdfc363b8a060a5a6d8a",
-    "preset": 8,
+    "secret": "",
+    "preset": 2,
     "pingSite": "syd",
     "country": "au"
   },
@@ -82,7 +87,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645345637,
+    "updatedAt": 1645346301,
     "slots": {
       "8": {
         "current": 0,
@@ -93,7 +98,7 @@
         "max": 20
       },
       "2": {
-        "current": 13,
+        "current": 17,
         "max": 64
       }
     },
@@ -144,7 +149,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645345637,
+    "updatedAt": 1645346318,
     "slots": {
       "8": {
         "current": 0,
@@ -155,7 +160,7 @@
         "max": 20
       },
       "2": {
-        "current": 50,
+        "current": 24,
         "max": 64
       }
     },
@@ -187,15 +192,15 @@
     "country": "au"
   },
   {
-    "map": "XP2_004",
+    "map": "XP3_UrbanGdn",
     "gameId": "18014398528842798",
     "gameExpansions": [
-      2097152,
+      4194304,
       524288,
       1048576,
       8388608,
       8589934592,
-      4194304
+      2097152
     ],
     "mapMode": "64",
     "ip": "103.193.80.30",
@@ -211,22 +216,22 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645345637,
+    "updatedAt": 1645346308,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 7,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 62,
         "max": 64
       },
       "4": {
-        "current": 1,
+        "current": 0,
         "max": 2
       }
     },
@@ -234,7 +239,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "2097152",
+    "gameExpansion": "4194304",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -277,18 +282,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645345637,
+    "updatedAt": 1645346329,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 3,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 58,
         "max": 64
       },
       "4": {
@@ -347,7 +352,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645345637,
+    "updatedAt": 1645346260,
     "slots": {
       "8": {
         "current": 0,
@@ -413,7 +418,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645345649,
+    "updatedAt": 1645346328,
     "slots": {
       "8": {
         "current": 0,
@@ -424,7 +429,7 @@
         "max": 20
       },
       "2": {
-        "current": 53,
+        "current": 58,
         "max": 64
       }
     },

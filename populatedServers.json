@@ -1,5 +1,67 @@
 [
   {
+    "map": "XP0_Metro",
+    "gameId": "36028797038334715",
+    "gameExpansions": [
+      524288
+    ],
+    "mapMode": "64",
+    "ip": "108.61.227.145",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1645426030,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 64
+      }
+    },
+    "guid": "20883417-ff04-4770-a9e9-f3a082665a77",
+    "port": 30000,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "524288",
+    "name": "WeenieMob | 24/7 Operation Metro 2000 Tickets! | Active Admins",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "MP_Tremors",
     "gameId": "18014398528829894",
     "gameExpansions": [
@@ -20,7 +82,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645425195,
+    "updatedAt": 1645426087,
     "slots": {
       "8": {
         "current": 0,
@@ -31,7 +93,7 @@
         "max": 20
       },
       "2": {
-        "current": 48,
+        "current": 46,
         "max": 64
       }
     },
@@ -63,13 +125,19 @@
     "country": "au"
   },
   {
-    "map": "MP_Prison",
-    "gameId": "36028797038334748",
+    "map": "XP6_CMP",
+    "gameId": "36028797038316181",
     "gameExpansions": [
-      0
+      8589934592,
+      0,
+      4194304,
+      1048576,
+      2097152,
+      8388608,
+      268435456
     ],
-    "mapMode": "64",
-    "ip": "108.61.227.157",
+    "mapMode": "32",
+    "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
     "extendedInfo": {
@@ -82,7 +150,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645425061,
+    "updatedAt": 1645426030,
     "slots": {
       "8": {
         "current": 0,
@@ -93,28 +161,24 @@
         "max": 20
       },
       "2": {
-        "current": 1,
-        "max": 8
-      },
-      "4": {
-        "current": 0,
-        "max": 2
+        "current": 5,
+        "max": 14
       }
     },
-    "guid": "97214999-7bb1-4eb2-b8b2-671e195542ed",
-    "port": 30110,
+    "guid": "4d524e43-cb61-42e8-a057-f815482b53a2",
+    "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
-    "name": "Crytical's Mini War Grounds!",
+    "gameExpansion": "8589934592",
+    "name": "Friday Night Casuals - Casual players only",
     "settings": {},
     "fairfight": 1,
     "region": 64,
-    "mapVariant": 0,
+    "mapVariant": 1,
     "ping": 999,
-    "serverType": 1,
+    "serverType": 2,
     "experience": 0,
-    "tickRate": 30,
+    "tickRate": 120,
     "hasPassword": 0,
     "maps": {
       "maps": [],
@@ -124,7 +188,7 @@
       "numberMapRounds": -1
     },
     "secret": "",
-    "preset": 8,
+    "preset": 32,
     "pingSite": "syd",
     "country": "au"
   },
@@ -153,7 +217,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645425144,
+    "updatedAt": 1645426030,
     "slots": {
       "8": {
         "current": 0,
@@ -164,7 +228,7 @@
         "max": 20
       },
       "2": {
-        "current": 16,
+        "current": 17,
         "max": 64
       },
       "4": {
@@ -200,7 +264,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Abandoned",
+    "map": "MP_Tremors",
     "gameId": "18014398528842338",
     "gameExpansions": [
       0
@@ -219,18 +283,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645425186,
+    "updatedAt": 1645426075,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 2,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 62,
         "max": 64
       },
       "4": {
@@ -266,13 +330,13 @@
     "country": "au"
   },
   {
-    "map": "XP0_Caspian",
+    "map": "XP3_MarketPl",
     "gameId": "18014398528842268",
     "gameExpansions": [
-      524288,
+      4194304,
       0,
-      8388608,
-      4194304
+      524288,
+      8388608
     ],
     "mapMode": "64",
     "ip": "103.193.80.35",
@@ -288,7 +352,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645425061,
+    "updatedAt": 1645426031,
     "slots": {
       "8": {
         "current": 0,
@@ -307,7 +371,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "4194304",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,

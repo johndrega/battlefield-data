@@ -1,5 +1,75 @@
 [
   {
+    "map": "XP5_Night_01",
+    "gameId": "36028797038336851",
+    "gameExpansions": [
+      268435456,
+      0,
+      8388608,
+      524288,
+      17179869184,
+      2097152,
+      4194304,
+      8589934592,
+      1048576
+    ],
+    "mapMode": "1024",
+    "ip": "108.61.227.223",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1645781729,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 2
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 5,
+        "max": 14
+      }
+    },
+    "guid": "19d8e1f9-7c25-4d15-aeed-24ee9079c834",
+    "port": 30010,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "268435456",
+    "name": "Adelaide Beer & Pizza CLASSIC MODE **DOM | TDM **",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 60,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 32,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "MP_Siege",
     "gameId": "18014398528829894",
     "gameExpansions": [
@@ -20,7 +90,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645781028,
+    "updatedAt": 1645781673,
     "slots": {
       "8": {
         "current": 0,
@@ -63,74 +133,6 @@
     "country": "au"
   },
   {
-    "map": "XP5_Night_01",
-    "gameId": "18014398528845285",
-    "gameExpansions": [
-      268435456,
-      0,
-      1048576,
-      2097152,
-      8388608,
-      8589934592,
-      4194304
-    ],
-    "mapMode": "1024",
-    "ip": "103.193.80.27",
-    "matchId": "0",
-    "protocolVersionString": "4900",
-    "extendedInfo": {
-      "message": "",
-      "bannerUrl": "",
-      "desc": ""
-    },
-    "game": 2048,
-    "ranked": 1,
-    "online": 1,
-    "platform": 1,
-    "tickRateMax": 30,
-    "updatedAt": 1645781027,
-    "slots": {
-      "8": {
-        "current": 0,
-        "max": 0
-      },
-      "1": {
-        "current": 0,
-        "max": 20
-      },
-      "2": {
-        "current": 4,
-        "max": 14
-      }
-    },
-    "guid": "4d524e43-cb61-42e8-a057-f815482b53a2",
-    "port": 25200,
-    "punkbuster": 1,
-    "playlist": 0,
-    "gameExpansion": "268435456",
-    "name": "Friday Night Casuals - Casual players only",
-    "settings": {},
-    "fairfight": 1,
-    "region": 64,
-    "mapVariant": 0,
-    "ping": 999,
-    "serverType": 2,
-    "experience": 0,
-    "tickRate": 120,
-    "hasPassword": 0,
-    "maps": {
-      "maps": [],
-      "currentMapRound": -1,
-      "nextMapIndex": -1,
-      "currentMapIndex": -1,
-      "numberMapRounds": -1
-    },
-    "secret": "",
-    "preset": 32,
-    "pingSite": "syd",
-    "country": "au"
-  },
-  {
     "map": "MP_Prison",
     "gameId": "18014398528845026",
     "gameExpansions": [
@@ -150,7 +152,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645781094,
+    "updatedAt": 1645781735,
     "slots": {
       "8": {
         "current": 0,
@@ -161,7 +163,7 @@
         "max": 20
       },
       "2": {
-        "current": 23,
+        "current": 24,
         "max": 64
       }
     },
@@ -193,15 +195,15 @@
     "country": "au"
   },
   {
-    "map": "XP0_Firestorm",
+    "map": "XP2_002",
     "gameId": "36028797038336805",
     "gameExpansions": [
+      2097152,
       524288,
-      8589934592,
-      4194304,
       1048576,
       8388608,
-      2097152
+      8589934592,
+      4194304
     ],
     "mapMode": "64",
     "ip": "103.193.80.30",
@@ -217,14 +219,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645781117,
+    "updatedAt": 1645781742,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 3,
         "max": 20
       },
       "2": {
@@ -240,7 +242,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "2097152",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -283,22 +285,22 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645781118,
+    "updatedAt": 1645781710,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 2,
         "max": 20
       },
       "2": {
-        "current": 62,
+        "current": 63,
         "max": 64
       },
       "4": {
-        "current": 1,
+        "current": 0,
         "max": 2
       }
     },
@@ -330,7 +332,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Journey",
+    "map": "MP_Siege",
     "gameId": "36028797038337051",
     "gameExpansions": [
       0
@@ -349,7 +351,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645781107,
+    "updatedAt": 1645781739,
     "slots": {
       "8": {
         "current": 0,
@@ -360,7 +362,7 @@
         "max": 20
       },
       "2": {
-        "current": 19,
+        "current": 18,
         "max": 64
       }
     },
@@ -414,7 +416,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645781071,
+    "updatedAt": 1645781743,
     "slots": {
       "8": {
         "current": 0,
@@ -425,7 +427,7 @@
         "max": 20
       },
       "2": {
-        "current": 37,
+        "current": 41,
         "max": 64
       }
     },

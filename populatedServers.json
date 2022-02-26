@@ -1,5 +1,71 @@
 [
   {
+    "map": "MP_Flooded",
+    "gameId": "36028797038334748",
+    "gameExpansions": [
+      0
+    ],
+    "mapMode": "64",
+    "ip": "108.61.227.157",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1645878656,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 4,
+        "max": 8
+      },
+      "4": {
+        "current": 0,
+        "max": 2
+      }
+    },
+    "guid": "97214999-7bb1-4eb2-b8b2-671e195542ed",
+    "port": 30110,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "0",
+    "name": "Crytical's Mini War Grounds!",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 1,
+    "experience": 0,
+    "tickRate": 30,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 8,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "MP_Prison",
     "gameId": "18014398528845411",
     "gameExpansions": [
@@ -19,7 +85,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645876808,
+    "updatedAt": 1645878763,
     "slots": {
       "8": {
         "current": 0,
@@ -30,7 +96,7 @@
         "max": 20
       },
       "2": {
-        "current": 58,
+        "current": 32,
         "max": 64
       }
     },
@@ -62,14 +128,14 @@
     "country": "au"
   },
   {
-    "map": "XP0_Caspian",
+    "map": "XP4_Arctic",
     "gameId": "18014398528845412",
     "gameExpansions": [
+      8388608,
       524288,
-      8589934592,
       4194304,
       1048576,
-      8388608,
+      8589934592,
       2097152
     ],
     "mapMode": "64",
@@ -86,7 +152,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645876816,
+    "updatedAt": 1645878770,
     "slots": {
       "8": {
         "current": 0,
@@ -97,7 +163,7 @@
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 54,
         "max": 64
       },
       "4": {
@@ -109,7 +175,7 @@
     "port": 25600,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "524288",
+    "gameExpansion": "8388608",
     "name": "! [FPSG] Mixed DLC Maps 1000 Tickets! fpsgamerz.com",
     "settings": {},
     "fairfight": 1,
@@ -133,7 +199,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Journey",
+    "map": "MP_Naval",
     "gameId": "18014398528845410",
     "gameExpansions": [
       0
@@ -152,7 +218,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645876817,
+    "updatedAt": 1645878764,
     "slots": {
       "8": {
         "current": 0,
@@ -163,11 +229,11 @@
         "max": 20
       },
       "2": {
-        "current": 52,
+        "current": 41,
         "max": 64
       },
       "4": {
-        "current": 2,
+        "current": 0,
         "max": 2
       }
     },
@@ -199,17 +265,17 @@
     "country": "au"
   },
   {
-    "map": "MP_Abandoned",
+    "map": "XP0_Caspian",
     "gameId": "18014398528845645",
     "gameExpansions": [
-      0,
       524288,
+      0,
       4194304,
       1048576,
       8388608,
       2097152
     ],
-    "mapMode": "2",
+    "mapMode": "64",
     "ip": "103.193.80.27",
     "matchId": "0",
     "protocolVersionString": "4900",
@@ -223,18 +289,18 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645876802,
+    "updatedAt": 1645878766,
     "slots": {
       "8": {
         "current": 0,
         "max": 0
       },
       "1": {
-        "current": 1,
+        "current": 0,
         "max": 20
       },
       "2": {
-        "current": 64,
+        "current": 53,
         "max": 64
       }
     },
@@ -242,7 +308,7 @@
     "port": 25500,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "524288",
     "name": "!  [KFC] King Fun Centry / Mixed Mode / All Welcome",
     "settings": {},
     "fairfight": 1,
@@ -266,12 +332,12 @@
     "country": "au"
   },
   {
-    "map": "XP4_Titan",
+    "map": "MP_Naval",
     "gameId": "18014398528843472",
     "gameExpansions": [
-      8388608,
       0,
       524288,
+      8388608,
       4194304
     ],
     "mapMode": "64",
@@ -288,7 +354,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645876808,
+    "updatedAt": 1645878753,
     "slots": {
       "8": {
         "current": 1,
@@ -299,7 +365,7 @@
         "max": 20
       },
       "2": {
-        "current": 53,
+        "current": 37,
         "max": 64
       }
     },
@@ -307,7 +373,7 @@
     "port": 25200,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "8388608",
+    "gameExpansion": "0",
     "name": "! [BEER BOOBS BACON] 1 | NO JETS | Noob Friendly",
     "settings": {},
     "fairfight": 1,

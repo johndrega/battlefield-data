@@ -1,5 +1,73 @@
 [
   {
+    "map": "XP5_Night_01",
+    "gameId": "18014398528845285",
+    "gameExpansions": [
+      268435456,
+      0,
+      1048576,
+      2097152,
+      8388608,
+      8589934592,
+      4194304
+    ],
+    "mapMode": "1024",
+    "ip": "103.193.80.27",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1645845054,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 1,
+        "max": 14
+      }
+    },
+    "guid": "4d524e43-cb61-42e8-a057-f815482b53a2",
+    "port": 25200,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "268435456",
+    "name": "Friday Night Casuals - Casual players only",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 2,
+    "experience": 0,
+    "tickRate": 120,
+    "hasPassword": 0,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "",
+    "preset": 32,
+    "pingSite": "syd",
+    "country": "au"
+  },
+  {
     "map": "XP3_WtrFront",
     "gameId": "18014398528845412",
     "gameExpansions": [
@@ -24,7 +92,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645844112,
+    "updatedAt": 1645845054,
     "slots": {
       "8": {
         "current": 0,
@@ -35,7 +103,7 @@
         "max": 20
       },
       "2": {
-        "current": 26,
+        "current": 33,
         "max": 64
       },
       "4": {
@@ -71,7 +139,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Damage",
+    "map": "MP_Journey",
     "gameId": "18014398528845410",
     "gameExpansions": [
       0
@@ -90,14 +158,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645844108,
+    "updatedAt": 1645845054,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 7,
+        "current": 3,
         "max": 20
       },
       "2": {
@@ -137,10 +205,12 @@
     "country": "au"
   },
   {
-    "map": "MP_Abandoned",
+    "map": "XP3_MarketPl",
     "gameId": "36028797038337051",
     "gameExpansions": [
-      0
+      4194304,
+      8388608,
+      1048576
     ],
     "mapMode": "64",
     "ip": "103.193.80.27",
@@ -156,7 +226,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645844127,
+    "updatedAt": 1645845055,
     "slots": {
       "8": {
         "current": 0,
@@ -175,7 +245,7 @@
     "port": 25500,
     "punkbuster": 1,
     "playlist": 0,
-    "gameExpansion": "0",
+    "gameExpansion": "4194304",
     "name": "!  [KFC] King Fun Centry / Mixed Mode / All Welcome",
     "settings": {},
     "fairfight": 1,
@@ -199,7 +269,7 @@
     "country": "au"
   },
   {
-    "map": "MP_Naval",
+    "map": "MP_Siege",
     "gameId": "18014398528843472",
     "gameExpansions": [
       0,
@@ -221,7 +291,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1645844109,
+    "updatedAt": 1645845054,
     "slots": {
       "8": {
         "current": 0,

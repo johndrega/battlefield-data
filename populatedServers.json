@@ -19,7 +19,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1646193543,
+    "updatedAt": 1646195416,
     "slots": {
       "8": {
         "current": 0,
@@ -86,7 +86,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1646193543,
+    "updatedAt": 1646195416,
     "slots": {
       "8": {
         "current": 0,
@@ -133,7 +133,7 @@
     "country": "au"
   },
   {
-    "map": "MP_TheDish",
+    "map": "MP_Damage",
     "gameId": "36028797038338909",
     "gameExpansions": [
       0
@@ -152,14 +152,14 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1646193555,
+    "updatedAt": 1646195443,
     "slots": {
       "8": {
         "current": 0,
         "max": 2
       },
       "1": {
-        "current": 0,
+        "current": 5,
         "max": 20
       },
       "2": {
@@ -167,7 +167,7 @@
         "max": 64
       },
       "4": {
-        "current": 1,
+        "current": 0,
         "max": 2
       }
     },
@@ -218,7 +218,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1646193568,
+    "updatedAt": 1646195416,
     "slots": {
       "8": {
         "current": 0,
@@ -261,6 +261,68 @@
     "country": "au"
   },
   {
+    "map": "XP1_004",
+    "gameId": "18014398528847126",
+    "gameExpansions": [
+      1048576
+    ],
+    "mapMode": "32",
+    "ip": "",
+    "matchId": "0",
+    "protocolVersionString": "4900",
+    "extendedInfo": {
+      "message": "",
+      "bannerUrl": "",
+      "desc": ""
+    },
+    "game": 2048,
+    "ranked": 1,
+    "online": 1,
+    "platform": 1,
+    "tickRateMax": 30,
+    "updatedAt": 1646195416,
+    "slots": {
+      "8": {
+        "current": 0,
+        "max": 0
+      },
+      "1": {
+        "current": 0,
+        "max": 20
+      },
+      "2": {
+        "current": 4,
+        "max": 10
+      }
+    },
+    "guid": "caf6c36c-e7bd-4c51-976b-1fa603f69144",
+    "port": 0,
+    "punkbuster": 1,
+    "playlist": 0,
+    "gameExpansion": "1048576",
+    "name": "FragMans Battlefield 4 Server",
+    "settings": {},
+    "fairfight": 1,
+    "region": 64,
+    "mapVariant": 0,
+    "ping": 999,
+    "serverType": 4,
+    "experience": 0,
+    "tickRate": 30,
+    "hasPassword": 1,
+    "maps": {
+      "maps": [],
+      "currentMapRound": -1,
+      "nextMapIndex": -1,
+      "currentMapIndex": -1,
+      "numberMapRounds": -1
+    },
+    "secret": "bd7f86fa:f9df21f5d9929273a846aeef378ef275d7da073e",
+    "preset": 1,
+    "pingSite": "syd",
+    "country": "nz"
+  },
+  {
     "map": "MP_Siege",
     "gameId": "18014398528843472",
     "gameExpansions": [
@@ -282,7 +344,7 @@
     "online": 1,
     "platform": 1,
     "tickRateMax": 30,
-    "updatedAt": 1646193543,
+    "updatedAt": 1646195426,
     "slots": {
       "8": {
         "current": 0,
@@ -293,7 +355,7 @@
         "max": 20
       },
       "2": {
-        "current": 9,
+        "current": 22,
         "max": 64
       }
     },
